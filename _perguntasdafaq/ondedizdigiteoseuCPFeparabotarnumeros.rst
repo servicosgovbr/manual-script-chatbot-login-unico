@@ -5,7 +5,7 @@ No campo CPF informe somente números.
 
 Não coloque nenhum outro caractere como pontos ou traços. 
 
-**Possíveis Palavras/Termos:** 
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)** 
 
 - Ali onde diz "digite o seu CPF" é pra botar números?
 - cpf somente números

@@ -7,7 +7,7 @@ Caso possua dúvidas relacionadas a algum serviço público digital específico,
 
 Ex: Quero me alistar. Neste caso procure a junta de serviço militar para dúvidas a respeito do alistamento.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - sicaf
 - serviço/alistamento/alistar/alistado/ militar;

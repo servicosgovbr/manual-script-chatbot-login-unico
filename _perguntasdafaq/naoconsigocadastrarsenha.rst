@@ -17,7 +17,7 @@ Evite senhas comuns como:
 
 Caso persista o problema, encaminhe e-mail para cidadaniadigital@planejamento.gov.br e detalhe o problema.
 
-Possíveis Palavras/Termos: 
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)** 
 
 - Não consigo cadastrar senha
 

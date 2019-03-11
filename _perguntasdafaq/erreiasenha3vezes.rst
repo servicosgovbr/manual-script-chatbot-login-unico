@@ -5,7 +5,7 @@ Caso você tenha errado 3 vezes a senha na tela de login, aguarde alguns minutos
 
 Caso não tenha normalizado, encaminhe email para cidadaniadigital@planejamento.gov.br e informe o problema com detalhes.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - erro na senha
 - errei a senha

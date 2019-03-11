@@ -12,7 +12,7 @@ O projeto da Plataforma de Cidadania Digital, instituido pelo `Decreto n° 8.936
 
 concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o projeto Login Único.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - Por quem foi criado o Brasil Cidadão
 - Para que foi criado o Brasil Cidadão

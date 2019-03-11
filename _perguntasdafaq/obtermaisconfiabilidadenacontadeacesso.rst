@@ -7,7 +7,7 @@ Utilize os selos para tornar a sua conta de acesso mais confiável e autêntica,
 
 .. figure:: _images/selospresentesloginunico.jpg
    :align: center
-   :alt:
+   :alt: Tela inicial do Login Único apresentando os SELOS presentes: Cadastro Básico, Cadastro validado com dados da Únião, Cadastro válidado por cerfificado digital, eCNPJ
 
 Informações gerais:
 
@@ -15,7 +15,7 @@ Informações gerais:
 - Para obter o selo de Certificado Digital é necessário que você tenha um certificado digital dos tipos A1 ou A3, ambos compatíveis com ICP-BRASIL. Para saber como e onde obter o seu certificado digital, acesse o `ITI`_ |site externo|
 - Para obter o selo e-CNPJ é necessário que a pessoa jurídica tenha certificado digital Pessoa Jurídica do tipo A3 compatível com ICP-BRASIL. 
 
-**Possíveis Palavras/Termos**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - selo
 - qualificação

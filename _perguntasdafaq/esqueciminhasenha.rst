@@ -5,12 +5,12 @@ Você pode recuperar senha acessando `Esqueceu sua senha?`_ |site externo|:
 
 .. figure:: _images/telaincialcomesqueceusenha.jpg
    :align: center
-   :alt:
+   :alt: Tela inicial do Login Único com destaque no link Esqueceu sua senha?. O link está localizado abaixo do campo SENHA presente na tela.
 
 
 Tenha em mãos o número do seu CPF.
 
-**Possíveis Palavras/Termos**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - recuperar minha senha, esqueci minha senha, senha, recuperação de senha, conseguir nova senha, nova senha
 - eu perdi minha senha, quero recuperar

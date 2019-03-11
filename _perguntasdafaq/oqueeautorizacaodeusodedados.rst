@@ -5,7 +5,7 @@ A autorização de uso de dados do cidadão é o ato de permitir que um determin
 
 .. figure:: _images/autorizacao-uso-dados-pessoais.jpg
    :align: center
-   :alt: marca gov.br representando Login Único
+   :alt: Tela com demonstração da autorização de dados apresentada para usuário antes de acessar o serviço público. Possui um texto declarando a situação e os botões de autorizar ou negar o serviço 
 
 Lembrando que você poderá desautorizar o uso de seus dados pessoais a qualquer tempo.
 
@@ -13,9 +13,9 @@ Visualize as autorizações concedidas na opção de menu "Ver Autorizações de
 
 .. figure:: _images/autorizacoesusodedados.jpg
    :align: center
-   :alt: 
+   :alt: Tela com funcionalidade Ver Autorizações de Uso de Dados Pessoais ativa e a demonstração da disposição de cada serviço autorizado: figura do serviço, nome do serviço, botão para desautorizar o serviço
 
-**Possíveis Palavras/Termos**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - autorização
 - autorizar

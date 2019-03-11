@@ -5,12 +5,12 @@ Você pode alterar a sua senha a qualquer tempo na opção “Alteração de sen
 
 .. figure:: _images/alteracaosenhatelainicial.jpg
    :align: center
-   :alt: 
+   :alt: Tela com opção Alteração de Senha ativa e possui os campos CPF, digite sua senha atual, nova senha, repita senha
 
 
 Informe a senha atual, a nova senha e confirme.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - alteração de senha
 - alterar minha senha

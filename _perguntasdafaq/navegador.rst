@@ -5,7 +5,7 @@ Todos os navegadores são compatíveis com o Login Único.
 
 Recomenda-se a utilização do Google Chrome, Mozilla Firefox ou Safari.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - Há preferência por navegador/browser para entrar na conta Brasil Cidadão?
 - qual navegador/browser

@@ -5,11 +5,11 @@ Atualize seus dados dentro do Login Único na opção “Alteração de dados ca
 
 .. figure:: _images/alteracaodadoscadastrais.jpg
    :align: center
-   :alt: 
+   :alt: Tela da alteração de dados cadastrais ativa com os campos CPF, nome completo, email, telefone celular
 
 Pode alterar o nome, e-mail e telefone. 
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - alteração de dados cadastrais
 - alterar meu cadastro/registro/informação

@@ -11,7 +11,7 @@ Dependendo do serviço de e-mail,pode demorar até 24 horas para chegar na caixa
 
 Caso não tenha recebido o e-mail, encaminhar e-mail para cidadaniadigital@planejamento.gov.br e informe o problema com detalhes. 
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - e-mail de confirmação
 - erro de digitação

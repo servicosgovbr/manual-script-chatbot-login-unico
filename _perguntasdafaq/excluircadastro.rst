@@ -3,7 +3,7 @@
 
 Uma vez que você já fez o seu cadastro no Login Único, não é possível excluir o seu cadastro.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - Como faço para excluir/cancelar/deletar/ o meu cadastro/conta/login/informações 
 

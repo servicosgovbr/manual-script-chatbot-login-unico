@@ -3,7 +3,7 @@
 
 Encaminhe o e-mail para cidadaniadigital@planejamento.gov.br, e informe o problema com detalhes.
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - erro 403;
 - sessão expirou;

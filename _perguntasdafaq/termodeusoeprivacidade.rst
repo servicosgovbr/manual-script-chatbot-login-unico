@@ -7,7 +7,7 @@ Para acessar o termo de uso e privacidade do Login Único, acesse `Termos de Uso
    :align: center
    :alt:
 
-**Possíveis Palavras/Termos:**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - termo de uso
 - termo de privacidade

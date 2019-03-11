@@ -5,13 +5,13 @@ Sim. Acesse `Fazer Cadastro`_ |site externo| e clique nas opçoes “Cadastro co
 
 .. figure:: _images/telacadastrocomcertificadodigital.jpg
    :align: center
-   :alt:
+   :alt: Tela de realizar cadastro com destaque para as funcionalidades Cadastro com Certificado Digital e Cadastro com Certificado Digital NEOID
 
 O Certificado digital aceito pelo Brasil Cidadão é dos tipos A1 e A3. 
 
 É necessário a instalação do `drive do certificado digital`_ |site externo| do dispositivo no computador. 
 
-**Possíveis Palavras/Termos**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - criação de conta com Certificado digital
 - primeiro acesso com certificado digital

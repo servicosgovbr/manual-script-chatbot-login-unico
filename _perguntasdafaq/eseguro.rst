@@ -3,7 +3,7 @@
 
 Sim, pois utiliza os mesmos recursos e protocolos (*OPENID CONNECT* e *OAUTH2*) de segurança de empresas renomadas, respaldados por uma especificação consolidada da indústria de software para identificação, autenticação e autorização de usuários.
 
-**Possíveis Palavras/Termos** 
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)** 
 
 - protocolo
 - segurança

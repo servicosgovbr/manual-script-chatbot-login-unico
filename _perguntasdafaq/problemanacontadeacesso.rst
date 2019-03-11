@@ -3,7 +3,7 @@
 
 Encaminhe o email para cidadaniadigital@planejamento.gov.br, e informe o problema com detalhes.
 
-**Possíveis Palavras/Termos**
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - SAC
 - atendimento
