@@ -25,6 +25,6 @@ Tenha em mãos o número do seu CPF.
 - rever minha senha
 - Informa que o usuário já possui cadastro no sistema 
 
-.. _`Esqueceu sua senha?` :https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/recuperarSenha
+.. _`Esqueceu sua senha?` : https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/recuperarSenha
 .. |site externo| image:: _images/site-ext.gif
             
