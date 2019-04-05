@@ -12,7 +12,7 @@
 - PJ/Pessoa jurídica tem login e senha
 - existe esse serviço para PJ/Pessoa Jurídica
 - tem serviço para PJ/Pessoa Jurídica
-- PJ/Pessoa Jurídica pode usar o login único/Brasil Cidadão
+- PJ/Pessoa Jurídica pode usar o login único/Brasil Cidadão/govbr
 - Tem esse serviço para PJ/Pessoa Jurídica
    
 .. |site externo| image:: _images/site-ext.gif

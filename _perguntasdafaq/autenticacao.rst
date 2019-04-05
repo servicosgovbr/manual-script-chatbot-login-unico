@@ -10,9 +10,9 @@ Existem duas forma de autenticação:
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - forma de acesso, forma de autenticação, certificado digital, login com senha
-- como posso entrar no login único/Brasil Cidadão
+- como posso entrar no login único/Brasil Cidadão/govbr
 - como me autentico; formas de entrar
-- como entrar no login único/Brasil Cidadão
+- como entrar no login único/Brasil Cidadão/govbr
 - como acesso
 - formas de logar
 - como me logar

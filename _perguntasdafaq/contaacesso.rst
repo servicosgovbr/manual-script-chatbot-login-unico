@@ -3,25 +3,25 @@
 
 Para criar uma conta de acesso, clique no botão `Fazer Cadastro`_ |site externo| e siga os passos:
 
-.. figure:: _images/telainicialcombotaofazercadastro.jpg
+.. figure:: _images/telainicialcombotaofazercadastrogovbr.jpg
    :align: center
    :alt: Tela de acesso inicial do Login Único com destaque do botão Fazer Cadastro em destaque
 
 1. Tenha em mãos um documento de identidade, número do CPF, nome completo, e-mail e clique no botão continuar
 
-.. figure:: _images/telafazercadastrocombotaocontinuar.jpg
+.. figure:: _images/telafazercadastrocombotaocontinuargovbr.jpg
    :align: center
    :alt: Tela de inicio do cadastro com os campos CPF, nome, e-mail, CAPTCHA e botão CONTINUAR destacado. Na mesma tela possui referência para criação por meio do Certificado Digital e Certificado Digital NEOID
 
 2. Responda as perguntas relacionadas às suas informações pessoais.
 
-.. figure:: _images/perguntascadastroinicial.jpg
+.. figure:: _images/perguntascadastroinicialgovbr.jpg
    :align: center
    :alt: Tela com as perguntas serem respondidas pelo cidadão para confirmação do cadastro. As perguntas são Qual o Ano de Nascimento?, Qual o primeiro nome da Mãe?, Qual seu mês de nascimento?
 
 3. Após a verificação das respostas, a Plataforma enviará uma mensagem  ao seu e-mail.
 
-.. figure:: _images/envioemailcadastrarsenha.jpg
+.. figure:: _images/envioemailcadastrarsenhagovbr.jpg
    :align: center
    :alt: Tela com confirmação do e-mail a ser encaminhada. Os elementos presentes são e-mail com partes misturadas (evitar identificação) e os botões CONFIRMAR e CANCELAR
 
@@ -33,11 +33,11 @@ Para criar uma conta de acesso, clique no botão `Fazer Cadastro`_ |site externo
 
 5. Definir uma senha e finalizar o cadastro e ativar sua conta.
 
-.. figure:: _images/telacadastramentosenha.jpg
+.. figure:: _images/telacadastramentosenhagovbr.jpg
    :align: center
    :alt: Tela para ativação do cadastro, tendo um descritivo para orientar como cadastrar a senha e os campos CPF, SENHA, REPETIR SENHA e os botões CRIAR SENHA ou CANCELAR. 
 
-Caso você tenha um certificado digital compatível pessoa físicacom a ICP-Brasil, você poderá usá-lo no seu primeiro cadastro seguindo començando pelo passo 2.
+Caso você tenha um certificado digital compatível pessoa físicacom a ICP-Brasil, você poderá usá-lo no seu primeiro cadastro començando pelo passo 2.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 

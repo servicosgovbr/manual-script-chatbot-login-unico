@@ -3,7 +3,7 @@
 
 Para acessar o termo de uso e privacidade do Login Único, acesse `Termos de Uso e Política de Privacidade`_ na area de Fazer Cadastro
 
-.. figure:: _images/usotermospoliticaeprivacidade.jpg
+.. figure:: _images/usotermospoliticaeprivacidadegovbr.jpg
    :align: center
    :alt:
 

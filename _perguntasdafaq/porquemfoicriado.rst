@@ -1,7 +1,7 @@
 ﻿Por quem foi criado?
 ====================
 
-Foi criado pelo Ministério do Planejamento, Desenvolvimento e Gestão (MP), em parceria com o Serviço Federal de Processamento de Dados (Serpro).
+Foi criado pelo Ministério da Economia (ME), em parceria com o Serviço Federal de Processamento de Dados (Serpro).
 
 O projeto da Plataforma de Cidadania Digital, instituido pelo `Decreto n° 8.936, de 19 de dezembro de 2016`_ |site externo|, que contempla diversas diretrizes para a prestação de serviços públicos digitais, das quais fazem parte a convergência autoritativa e a federação dos processos de autenticação dos serviços digitais, tendo por base:
  
@@ -14,8 +14,8 @@ concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o proje
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
-- Por quem foi criado o Brasil Cidadão
-- Para que foi criado o Brasil Cidadão
+- Por quem foi criado o Brasil Cidadão/Login Único/govbr
+- Para que foi criado o Brasil Cidadão/Login Único/govbr
 - quem criou
 - quem fez
 - quem elaborou
@@ -24,7 +24,7 @@ concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o proje
 - quem planejou
 - de onde partiu a ideia
 - de onde surgiu
-- qual a origem do Login Unico.
+- qual a origem do Login Unico/Brasil Cidadão/govbr
 
 .. _`Decreto n° 8.936, de 19 de dezembro de 2016`: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Decreto/D8936.htm
 .. _`Decreto n° 8.789, de 29 de junho de 2016`: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Decreto/D8789.htm

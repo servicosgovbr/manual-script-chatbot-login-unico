@@ -3,7 +3,7 @@
 
 Você pode recuperar senha acessando `Esqueceu sua senha?`_ |site externo|:
 
-.. figure:: _images/telaincialcomesqueceusenha.jpg
+.. figure:: _images/telaincialcomesqueceusenhagovbr.jpg
    :align: center
    :alt: Tela inicial do Login Único com destaque no link Esqueceu sua senha?. O link está localizado abaixo do campo SENHA presente na tela.
 

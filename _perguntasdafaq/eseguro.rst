@@ -15,7 +15,7 @@ Sim, pois utiliza os mesmos recursos e protocolos (*OPENID CONNECT* e *OAUTH2*) 
 - sigilo dos dados
 - sigilo das informações
 - métodos de segurança/sigilo
-- posso confiar no login único/Brasil Cidadão
+- posso confiar no login único/Brasil Cidadão/govbr
 - tem respaldo em segurança
 - quais métodos de segurança/sigilo
 - quais protocolos de segurança/sigilo são utilizados

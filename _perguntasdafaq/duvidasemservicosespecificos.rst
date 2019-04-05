@@ -31,7 +31,8 @@ Ex: Quero me alistar. Neste caso procure a junta de serviço militar para dúvid
 - Portal do Denatran/SNE/Sistema de Notificação Eletrônica
 - Aplicativo MG app/Sistema de SEgurança Corporativo/Estado de Minas Gerais
 - Ministério da Saúde/DATASUS/Meu INSS
-- Agência Nacional de Mineração/Sistema COPAL 
+- Agência Nacional de Mineração/Sistema COPAL
+- FNDE/ePNAE
  
 .. |site externo| image:: _images/site-ext.gif
             

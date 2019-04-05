@@ -3,7 +3,7 @@
 
 Sim. Acesse `Fazer Cadastro`_ |site externo| e clique nas opçoes “Cadastro com Certificado Digital” ou "Cadastro com Certificado Digital com NEOID". 
 
-.. figure:: _images/telacadastrocomcertificadodigital.jpg
+.. figure:: _images/telacadastrocomcertificadodigitalgovbr.jpg
    :align: center
    :alt: Tela de realizar cadastro com destaque para as funcionalidades Cadastro com Certificado Digital e Cadastro com Certificado Digital NEOID
 
