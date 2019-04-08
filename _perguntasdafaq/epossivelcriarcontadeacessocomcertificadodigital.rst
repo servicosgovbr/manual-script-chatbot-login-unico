@@ -25,7 +25,7 @@ O Certificado digital aceito pelo Brasil Cidadão é dos tipos A1 e A3.
 - não consigo entrar com o certificado digital
 - Estou tentando entrar com certificado digital, porém não tenho êxito  
 
-.. _`Fazer Cadastro` : https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/primeiro-acesso
+.. _`Fazer Cadastro` : https://acesso.gov.br/servicos-cidadao/acesso/#/primeiro-acesso
 .. _`drive do certificado digital` : https://certificados.serpro.gov.br/arserpro/pages/information/drivers_token_download.jsf?
 .. |site externo| image:: _images/site-ext.gif
             

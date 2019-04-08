@@ -24,6 +24,6 @@ Ao fazer isso, a senha do CPF irá para o e-mail cadastrado na conta do Login Ú
 
 - Mensagem: O usuário já possui cadastro no Sistema; 
  
-.. _`Esqueceu sua senha?`: https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/recuperarSenha
+.. _`Esqueceu sua senha?`: https://acesso.gov.br/servicos-cidadao/acesso/#/recuperarSenha
 .. |site externo| image:: _images/site-ext.gif
             
