@@ -3,7 +3,7 @@
 
 É possível o login por Pessoa Jurídica.
   
-É necessário que o representante do CNPJ tenha um certificado digital de pessoa jurídica do tipo A3, compatível com ICP-BRASIL, para cadastrar o CNPJ da pessoa jurídica
+É necessário que o representante do CNPJ tenha um certificado digital de pessoa jurídica do tipo A3 (TOKEN)e A1 (MÁQUINA), compatível com ICP-BRASIL, para cadastrar o CNPJ da pessoa jurídica
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
