@@ -12,6 +12,12 @@ Oferece um ambiente de autenticação digital único do usuário aos serviços p
 .. figure:: _images/marca_gov_br.jpg
    :align: center
    :alt: marca gov.br representando Login Único
+   
+**Possíveis Palavras/Termos (Utilizado para busca no chatbot)** 
+
+- Qual a finalidade do brasil cidadao/Login Único/govbr
+- gostaria de mais informações sobre o brasil cidadao/Login Único/govbr.
+- o que é esse cadastro?
  
 .. |site externo| image:: _images/site-ext.gif
             

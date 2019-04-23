@@ -14,6 +14,8 @@ Informe a senha atual, a nova senha e confirme.
 
 - alteração de senha
 - alterar minha senha
+- Atualizar a senha. Como faço?
+- Esqueci a senha cadastrada e não consigo recadastrar
 
 .. |site externo| image:: _images/site-ext.gif
             

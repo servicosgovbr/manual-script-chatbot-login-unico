@@ -3,7 +3,7 @@
 
 Existem duas forma de autenticação:
 
-- Usar o seu login de usuário e senha
+- Usar o seu login de usuário e senha. O usuário será o CPF informado na criação da conta.
 - Usar certificado digital de Pessoas Fisicas ou Jurídicas dos tipos A1 ou A3 compatíveis com ICP-Brasil 
 
 

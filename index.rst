@@ -22,13 +22,17 @@ FAQ Login Único
    _perguntasdafaq/obtermaisconfiabilidadenacontadeacesso
    _perguntasdafaq/epossivelcriarcontadeacessocomcertificadodigital
    _perguntasdafaq/problemanacontadeacesso
+   _perguntasdafaq/problemanacontadeacessocomertificadodogital
    _perguntasdafaq/esqueciminhasenha
    _perguntasdafaq/erreiasenha3vezes
    _perguntasdafaq/naoconsigocadastrarsenha
+   _perguntasdafaq/solicitodesbloqueiosenha
    _perguntasdafaq/alterardadoscadastrais
    _perguntasdafaq/alterarsenha
    _perguntasdafaq/excluircadastro
+   _perguntasdafaq/recadastramentoconta
    _perguntasdafaq/naorecebioemaildeconfirmacao
+   _perguntasdafaq/cadastrosemcpf
    _perguntasdafaq/erronologinunico
    _perguntasdafaq/termodeusoeprivacidade
    _perguntasdafaq/duvidasemservicosespecificos
@@ -36,3 +40,4 @@ FAQ Login Único
    _perguntasdafaq/ondedizdigiteoseuCPFeparabotarnumeros
    _perguntasdafaq/navegador
    _perguntasdafaq/porquemfoicriado
+   _perguntasdafaq/naotenhoacessoaoemailcadastradonologin

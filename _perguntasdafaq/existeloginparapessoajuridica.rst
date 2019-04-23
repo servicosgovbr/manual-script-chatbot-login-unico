@@ -14,6 +14,7 @@
 - tem serviço para PJ/Pessoa Jurídica
 - PJ/Pessoa Jurídica pode usar o login único/Brasil Cidadão/govbr
 - Tem esse serviço para PJ/Pessoa Jurídica
+- cadastrar brasil cidadao/Login Único/govbr, mesmo eu sendo de empresa? 
    
 .. |site externo| image:: _images/site-ext.gif
             
