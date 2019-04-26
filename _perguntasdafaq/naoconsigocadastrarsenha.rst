@@ -23,7 +23,7 @@ Para o cadastramento da senha, o Login Único solicita o preenchimento da senha 
 
 Verificar se a senha digitada está mesma em ambos os campos, porque o Login Único checa antes de realizar o cadastramento.
 
-Caso persista o problema, encaminhe e-mail para cidadaniadigital@planejamento.gov.br e detalhe o problema.
+.. Caso persista o problema, encaminhe e-mail para cidadaniadigital@planejamento.gov.br e detalhe o problema. (comentado conforme orientação do Hudson)
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)** 
 

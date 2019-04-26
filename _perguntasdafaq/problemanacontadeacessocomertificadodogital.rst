@@ -14,7 +14,7 @@ Favor realizar os procedimentos:
 
 5. Realizar o login.
 
-Caso o problema continue, encaminhe o email para cidadaniadigital@planejamento.gov.br, e informe o problema com detalhes.
+.. Caso o problema continue, encaminhe o email para cidadaniadigital@planejamento.gov.br, e informe o problema com detalhes.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 

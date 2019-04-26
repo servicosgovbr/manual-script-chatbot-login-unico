@@ -33,7 +33,6 @@ FAQ Login Único
    _perguntasdafaq/recadastramentoconta
    _perguntasdafaq/naorecebioemaildeconfirmacao
    _perguntasdafaq/cadastrosemcpf
-   _perguntasdafaq/erronologinunico
    _perguntasdafaq/termodeusoeprivacidade
    _perguntasdafaq/duvidasemservicosespecificos
    _perguntasdafaq/mensagemousuariojapossuicadastronosistema
@@ -41,3 +40,6 @@ FAQ Login Único
    _perguntasdafaq/navegador
    _perguntasdafaq/porquemfoicriado
    _perguntasdafaq/naotenhoacessoaoemailcadastradonologin
+.. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
+.. _perguntasdafaq/cadastrocolaboradordocnpj
+.. _perguntasdafaq/retirarcolaboradordocnpj
