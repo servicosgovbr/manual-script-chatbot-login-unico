@@ -1,9 +1,9 @@
 ﻿Esqueci minha senha?
 ====================
 
-Você pode recuperar senha acessando `Esqueceu sua senha?`_ |site externo|:
+Você pode recuperar senha acessando `Esqueci minha senha?`_ |site externo|:
 
-.. figure:: _images/telaincialcomesqueceusenha.jpg
+.. figure:: _images/telaincialcomesqueceusenhagovbr.jpg
    :align: center
    :alt: Tela inicial do Login Único com destaque no link Esqueceu sua senha?. O link está localizado abaixo do campo SENHA presente na tela.
 
@@ -35,6 +35,6 @@ Tenha em mãos o número do seu CPF.
 - Recuperação login
 - Não consigo acessar meu cadastro  
 
-.. _`Esqueceu sua senha?` : https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/recuperarSenha
+.. _`Esqueci minha senha?` : https://acesso.gov.br/acesso/#/recuperarSenha
 .. |site externo| image:: _images/site-ext.gif
             

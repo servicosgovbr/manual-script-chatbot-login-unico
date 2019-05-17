@@ -1,11 +1,11 @@
 ﻿É possível criar conta de acesso com certificado digital?
 =========================================================
 
-Sim. Acesse `Fazer Cadastro`_ |site externo| e clique nas opçoes “Cadastro com Certificado Digital” ou "Cadastro com Certificado Digital com NEOID". 
+Sim. Acesse `Crie sua conta`_ |site externo| e clique nas opçoes “Cadastro com Certificado Digital” ou "Cadastro com Certificado em Nuvem". 
 
-.. figure:: _images/telacadastrocomcertificadodigital.jpg
+.. figure:: _images/telacadastrocomcertificadodigitalgovbr.jpg
    :align: center
-   :alt: Tela de realizar cadastro com destaque para as funcionalidades Cadastro com Certificado Digital e Cadastro com Certificado Digital NEOID
+   :alt: Tela de realizar cadastro com destaque para as funcionalidades Cadastro com Certificado Digital e Cadastro com Certificado em Nuvem
 
 O Certificado digital aceito pelo Brasil Cidadão é dos tipos A1 e A3. 
 
@@ -25,7 +25,7 @@ O Certificado digital aceito pelo Brasil Cidadão é dos tipos A1 e A3.
 - não consigo entrar com o certificado digital
 - Estou tentando entrar com certificado digital, porém não tenho êxito  
 
-.. _`Fazer Cadastro` : https://portal.brasilcidadao.gov.br/servicos-cidadao/acesso/#/primeiro-acesso
+.. _`Crie sua conta` : https://acesso.gov.br/acesso/#/primeiro-acesso
 .. _`drive do certificado digital` : https://certificados.serpro.gov.br/arserpro/pages/information/drivers_token_download.jsf?
 .. |site externo| image:: _images/site-ext.gif
             

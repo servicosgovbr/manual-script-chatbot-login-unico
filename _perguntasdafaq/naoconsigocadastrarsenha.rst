@@ -17,7 +17,7 @@ Evite senhas comuns como:
 
 Para o cadastramento da senha, o Login Único solicita o preenchimento da senha no campo **Nova Senha** e repeti-lá o campo **Repita a senha** e depois clicar no botão **CRIAR SENHA**.
 
-.. figure:: _images/telacadastramentosenha.jpg
+.. figure:: _images/telacadastramentosenhagovbr.jpg
    :align: center
    :alt: Tela com apresentação dos campos CPF, escolher senha, repetir senha escolhida para permitir o cadastramento da senha
 

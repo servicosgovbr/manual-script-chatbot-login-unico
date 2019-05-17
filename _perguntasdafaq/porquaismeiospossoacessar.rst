@@ -9,7 +9,7 @@ O Login Único pode ser acessado por:
 
 Acesso ao `Login Unico`_ |site externo|   
 
-.. figure:: _images/tela_inicial_brasil_cidadao.jpg
+.. figure:: _images/telainicialgovbr.jpg
    :align: center
    :alt: Tela Inicial do Login Único
 
@@ -29,7 +29,7 @@ Acesso ao `Login Unico`_ |site externo|
 - quero usar o login único/Brasil Cidadão/govbr no celular/smartphone/mobile
 - não tenho computador e quero usar o celular/smartphone/mobile 
 
-.. _`Login Unico`: https://scp.brasilcidadao.gov.br/scp/login
+.. _`Login Unico`: https://acesso.gov.br
 
 .. |site externo| image:: _images/site-ext.gif
             

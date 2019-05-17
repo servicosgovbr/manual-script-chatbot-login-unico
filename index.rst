@@ -17,6 +17,8 @@ FAQ Login Único
    _perguntasdafaq/possoutilizarqualquerservicopublico
    _perguntasdafaq/existeloginparapessoajuridica
    _perguntasdafaq/comocadastrarCNPJnologinunico
+   _perguntasdafaq/cadastrocolaboradordocnpj
+   _perguntasdafaq/retirarcolaboradordocnpj
    _perguntasdafaq/oqueeautorizacaodeusodedados
    _perguntasdafaq/contaacesso
    _perguntasdafaq/obtermaisconfiabilidadenacontadeacesso
@@ -41,5 +43,3 @@ FAQ Login Único
    _perguntasdafaq/porquemfoicriado
    _perguntasdafaq/naotenhoacessoaoemailcadastradonologin
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
-.. _perguntasdafaq/cadastrocolaboradordocnpj
-.. _perguntasdafaq/retirarcolaboradordocnpj
