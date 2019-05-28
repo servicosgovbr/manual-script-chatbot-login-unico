@@ -14,8 +14,14 @@ Para cadastrar o CNPJ no Login Único:
 .. figure:: _images/telacadastrarCNPJ.jpg
    :align: center
    :alt: Página para aquisição do Selo eCNPJ tendo a indicação do botão Validar Informações do eCNPJ
-  
-Lembrando que o certificado digital de pessoa jurídica deve ser do tipo A3, compatível com ICP-BRASIL, para cadastrar o CNPJ da pessoa jurídica
+
+- Aparecerá tela com as informações do Certificado Digital de Pessoa Jurídica. Confirme as informações e clique no botão "Adquirir o Selo"
+
+.. figure:: _images/telamostradetalhesecnpj.jpg
+   :align: center
+   :alt: Tela com apresentação das informações do Certificado Digital de Pessoa Júridica com botão "Adquirir o Selo"
+
+Lembrando que o certificado digital de pessoa jurídica deve ser do tipo A3 ou A1, compatível com ICP-BRASIL, para cadastrar o CNPJ da pessoa jurídica
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
