@@ -42,4 +42,5 @@ FAQ Login Único
    _perguntasdafaq/navegador
    _perguntasdafaq/porquemfoicriado
    _perguntasdafaq/naotenhoacessoaoemailcadastradonologin
+   _perguntasdafaq/servicopedecomplementaremailoutelefonecadastro
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
