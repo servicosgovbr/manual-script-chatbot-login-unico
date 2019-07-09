@@ -1,7 +1,7 @@
 ﻿Problema conta de acesso?
 =========================
 
-Encaminhe o email para cidadaniadigital@planejamento.gov.br, e informe o problema com detalhes.
+Para melhor retorno com esclarecimentos a sua dúvida, favor nos encaminhar de forma detalhada seu questionamento com *print* (foto/captura da tela) do problema apresentado para o email cidadaniadigital@planejamento.gov.br.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
