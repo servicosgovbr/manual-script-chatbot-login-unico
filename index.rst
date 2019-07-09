@@ -43,4 +43,5 @@ FAQ Login Único
    _perguntasdafaq/porquemfoicriado
    _perguntasdafaq/naotenhoacessoaoemailcadastradonologin
    _perguntasdafaq/servicopedecomplementaremailoutelefonecadastro
+   _perguntasdafaq/cpfinvalido
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
