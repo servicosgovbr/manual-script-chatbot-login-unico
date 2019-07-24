@@ -11,46 +11,46 @@ Os bancos conveniados e os passos para solicitação:
 
 **Banco do Brasil**
 
-1. Serviços;
-2. Previdência Social;
-3. Senha Meu INSS.
+- 1º Serviços;
+- 2º Previdência Social;
+- 3º Senha Meu INSS.
 
 **Banrisul**
 
-1. Serviços
-2. Criar Código INSS
+- 1º Serviços
+- 2º Criar Código INSS
 
-Bradesco
+**Bradesco**
 
-1. Outros Serviços
-2. Documentos
-3. INSS
-4. Cadastrar Código Inicial
+- 1º Outros Serviços
+- 2º Documentos
+- 3º INSS
+- 4º Cadastrar Código Inicial
 
 **Caixa Econômica Federal**
 
-1. Serviço ao Cidadão
-2. INSS
-3. Gerar Código para Serviço INSS
+- 1º Serviço ao Cidadão
+- 2º INSS
+- 3º Gerar Código para Serviço INSS
 
 **Itaú**
 
-1. Previdência
-2. INSS
-3. Cadastrar Senha Inicial de Acesso ao Portal Meu INSS
+- 1º Previdência
+- 2º INSS
+- 3º Cadastrar Senha Inicial de Acesso ao Portal Meu INSS
 
 **Santander** 
 
-1. Outros Produtos
-2. Demais Serviços
-3. NAI (Núcleo de Autenticação Interbancária)
+- 1º Outros Produtos
+- 2º Demais Serviços
+- 3º NAI (Núcleo de Autenticação Interbancária)
 
 **Sicoob**
 
-1. Outras opções
-2. Previdência Social
-3. Senha Meu INSS
-4. NAI
+- 1º Outras opções
+- 2º Previdência Social
+- 3º Senha Meu INSS
+- 4º NAI
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
