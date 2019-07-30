@@ -13,19 +13,25 @@ Os bancos conveniados e os passos para solicitação:
 
 - 1º Serviços;
 - 2º Previdência Social;
-- 3º Senha Meu INSS.
+- 3º Senha Meu INSS;
+- 4º NAI
 
 **Banrisul**
 
-- 1º Serviços
+- 1º Menu Serviços
 - 2º Criar Código INSS
+
+**Banese**
+
+- 1º Internet Banking Banese;
+- 2º Serviços;
+- 3º Gerar Senha Meu INSS (NAI).
 
 **Bradesco**
 
 - 1º Outros Serviços
 - 2º Documentos
-- 3º INSS
-- 4º Cadastrar Código Inicial
+- 3º INSS (Cadastrar Código Inicial de Acesso ao Portal Meu INSS) (NAI);
 
 **Caixa Econômica Federal**
 
