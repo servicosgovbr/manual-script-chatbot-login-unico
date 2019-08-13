@@ -1,8 +1,17 @@
 ﻿Problema conta de acesso?
 =========================
 
-Para melhor retorno com esclarecimentos a sua dúvida, favor nos encaminhar de forma detalhada seu questionamento com *print* (foto/captura da tela) do problema apresentado para o email cidadaniadigital@planejamento.gov.br.
+Favor encaminhar email para cidadaniadigital@planejamento.gov.br com as seguintes informações:
 
+- Assunto no email: **[Login Único] Problema conta de acesso** 
+- Nome do Serviço ou Sistema que utilizou para realizar autenticação;
+- Nome do cidadão;
+- CPF do Cidadão;
+- Descrição do problema;
+- *Print* (foto/captura da tela) do problema
+
+Ausência das informações acima impossibilita análise e retorno.
+ 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
 - SAC
