@@ -8,6 +8,7 @@ Para realizar o procedimento de alteração, há necessidade da Administração 
 1. Preeencher no campo assunto: **[Login Único] Alteração do e-mail por solicitação do cidadão**
 2. Preencher o conteúdo do e-mail com as informações:
 
+- **Serviço que deseja acessar com Login Único**
 - **Nome do Cidadão**;
 - **CPF do Cidadão**;
 - **Data de Nascimento**;
@@ -15,7 +16,7 @@ Para realizar o procedimento de alteração, há necessidade da Administração 
 - **Anexar arquivo com o Documento de Identificação e autofotografia(selfie) para checar identificação**;
 - **Seguinte texto**: Eu, *nome do cidadao*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Economia a alterar meus dados cadastrais da plataforma de autenticação Login Único(govbr). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
  
-Logo que o Ministério da Economia receber o e-mail, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração.
+Logo que o Ministério da Economia receber o e-mail, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 

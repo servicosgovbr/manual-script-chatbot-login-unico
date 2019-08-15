@@ -3,12 +3,14 @@
 
 Favor encaminhar email para cidadaniadigital@planejamento.gov.br com as seguintes informações:
 
-- Assunto no email: **[Login Único] Problema conta de acesso** 
-- Nome do Serviço ou Sistema que utilizou para realizar autenticação;
-- Nome do cidadão;
-- CPF do Cidadão;
-- Descrição do problema;
-- *Print* (foto/captura da tela) do problema
+1. Preeencher no campo assunto: **[Login Único] Problema conta de acesso** 
+2. Preencher o conteúdo do e-mail com as informações:
+ 
+- **Serviço que deseja acessar com Login Único**
+- **Nome do cidadão**
+- **CPF do Cidadão**
+- **Descrição do problema**
+- **Print (foto/captura da tela) do problema**
 
 Ausência das informações acima impossibilita análise e retorno.
  
