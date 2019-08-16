@@ -13,7 +13,7 @@ Para realizar o procedimento de alteração, há necessidade da Administração 
 - **CPF do Cidadão**;
 - **Data de Nascimento**;
 - **E-mail para alteração**;
-- **Anexar arquivo com o Documento de Identificação e autofotografia(selfie) para checar identificação**;
+- **Anexar arquivo com o Documento de Identificação e autofotografia de seu rosto, portando o documento de identidade original para checar identificação**;
 - **Seguinte texto**: Eu, *nome do cidadao*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Economia a alterar meus dados cadastrais da plataforma de autenticação Login Único(govbr). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
  
 Logo que o Ministério da Economia receber o e-mail, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
