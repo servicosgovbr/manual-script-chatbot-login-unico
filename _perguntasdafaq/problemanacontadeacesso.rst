@@ -1,18 +1,18 @@
 ﻿Problema conta de acesso?
 =========================
 
-Favor encaminhar email para cidadaniadigital@planejamento.gov.br com as seguintes informações:
+Favor acessar `Como Podemos te ajudar?`_ , preencher as informações e anexar Print (foto/captura da tela) do problema.
 
-1. Preeencher no campo assunto: **[Login Único] Problema conta de acesso** 
-2. Preencher o conteúdo do e-mail com as informações:
+.. 1. Preeencher no campo assunto: **[Login Único] Problema conta de acesso** 
+.. 2. Preencher o conteúdo do e-mail com as informações:
  
-- **Serviço que deseja acessar com Login Único**
-- **Nome do cidadão**
-- **CPF do Cidadão**
-- **Descrição do problema**
-- **Print (foto/captura da tela) do problema**
+.. - **Serviço que deseja acessar com Login Único**
+.. - **Nome do cidadão**
+.. - **CPF do Cidadão**
+.. - **Descrição do problema**
+.. - **Print (foto/captura da tela) do problema**
 
-Ausência das informações acima impossibilita análise e retorno.
+Ausência das informações e do Print (foto/captura da tela) do problema impossibilita análise e retorno.
  
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
@@ -23,4 +23,5 @@ Ausência das informações acima impossibilita análise e retorno.
 - problema na minha conta
 - ajuda
 
-.. |site externo| image:: _images/site-ext.gif  
+.. |site externo| image:: _images/site-ext.gif
+.. _`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html  

@@ -3,10 +3,12 @@
 
 As informações utilizadas para realizar o cadastro do Login Único pertencem ao cidadão. Ministério da Economia não tem autonomia para alteração sem o consentimento do cidadão, conforme `LEI Nº 13.709, DE 14 DE AGOSTO DE 2018 (Dispõe sobre a proteção de dados pessoais)`_ |site externo|
 
-Para realizar o procedimento de alteração, há necessidade da Administração Pública certificar a autenticidade do cidadão. Isso ocorrerá por meio do email a ser encaminhado para cidadaniadigital@planejamento.gov.br com as informações:
+Para realizar o procedimento de alteração, há necessidade da Administração Pública certificar a autenticidade do cidadão. 
 
-1. Preeencher no campo assunto: **[Login Único] Alteração do e-mail por solicitação do cidadão**
-2. Preencher o conteúdo do e-mail com as informações:
+Isso ocorrerá por meio do acesso ao `Como Podemos te ajudar?`_ com as informações:
+
+.. 1. Preeencher no campo assunto: **[Login Único] Alteração do e-mail por solicitação do cidadão**
+.. 2. Preencher o conteúdo do e-mail com as informações:
 
 - **Serviço que deseja acessar com Login Único**
 - **Nome do Cidadão**;
@@ -16,7 +18,7 @@ Para realizar o procedimento de alteração, há necessidade da Administração 
 - **Anexar arquivo com o Documento de Identificação e autofotografia de seu rosto, portando o documento de identidade original para checar identificação**;
 - **Seguinte texto**: Eu, *nome do cidadao*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Economia a alterar meus dados cadastrais da plataforma de autenticação Login Único(govbr). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
  
-Logo que o Ministério da Economia receber o e-mail, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
+Logo que o Ministério da Economia receber a solicitação, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
@@ -36,6 +38,6 @@ Logo que o Ministério da Economia receber o e-mail, será realizado a análise 
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`LEI Nº 13.709, DE 14 DE AGOSTO DE 2018 (Dispõe sobre a proteção de dados pessoais)` : http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
-
+.. _`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html
 
             
