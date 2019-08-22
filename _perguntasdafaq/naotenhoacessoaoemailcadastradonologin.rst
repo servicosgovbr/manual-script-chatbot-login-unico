@@ -8,7 +8,7 @@ Para realizar o procedimento de alteração, há necessidade da Administração 
 Isso ocorrerá por meio do acesso ao `Como Podemos te ajudar?`_ com as informações:
 
 1. Preeencher no campo assunto: **Alteração do e-mail por solicitação do cidadão**
-2. Preencher o conteúdo com as informações:
+2. Preencher o conteúdo com as informações: 
 
 - **Serviço que deseja acessar com Login Único**
 - **Nome do Cidadão**;
