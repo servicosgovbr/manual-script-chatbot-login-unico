@@ -1,7 +1,7 @@
 ﻿Problema conta de acesso?
 =========================
 
-Favor acessar `Como Podemos te ajudar?`_ , preencher as informações e anexar Print (foto/captura da tela) do problema.
+Favor acessar `Como Podemos te ajudar?`_ , preencher os passos do problema e anexar Print (foto/captura da tela) do problema.
 
 .. 1. Preeencher no campo assunto: **[Login Único] Problema conta de acesso** 
 .. 2. Preencher o conteúdo do e-mail com as informações:
