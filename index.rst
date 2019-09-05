@@ -46,4 +46,5 @@ FAQ Login Único
    _perguntasdafaq/servicopedecomplementaremailoutelefonecadastro
    _perguntasdafaq/cpfinvalido
    _perguntasdafaq/naoaltereimeusdadoscadastrais
+   _perguntasdafaq/comopossoteajudar
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
