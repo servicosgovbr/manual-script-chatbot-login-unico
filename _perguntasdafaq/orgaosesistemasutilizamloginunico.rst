@@ -282,7 +282,8 @@ Ministério da Economia
 ----------------------
 
 - `Sistema de Automação de Serviços Públicos (LECOM)`_ |site externo|
-- `Sistema Combate ao AEDES`_ |site externo|
+- `Sistema Combate ao AEDES (Web)`_ |site externo|
+- `Sistema Combate ao AEDES (Mobile)`_ |site externo|
 - `Sistema Protocolo Eletrônico`_ |site externo|
 - `Sistema AGATHA`_ |site externo|
 - `Portal de Transição 2019`_ |site externo|
@@ -315,7 +316,8 @@ Ministério da Transparência
 .. |site externo| image:: _images/site-ext.gif
 
 .. _`Sistema de Automação de Serviços Públicos (LECOM)` : https://gov.br
-.. _`Sistema Combate ao AEDES` : https://aedes.sigelu.com/login
+.. _`Sistema Combate ao AEDES (Web)` : https://aedes.sigelu.com/login
+.. _`Sistema Combate ao AEDES (Mobile)` : https://play.google.com/store/apps/details?id=com.sigelu.aedes.mobile&hl=pt
 .. _`Sistema Protocolo Eletrônico` : https://protocolo.planejamento.gov.br/protocolo/login
 .. _`Sistema AGATHA` : https://agatha.planejamento.gov.br/
 .. _`Portal de Transição 2019` : https://transicao2019.planejamento.gov.br/transicao/login.jsp
@@ -332,6 +334,7 @@ Ministério da Transparência
 .. _`Portal do Empreendedor` : http://www.portaldoempreendedor.gov.br
 .. _`SEM Barreiras` : https://www.sembarreiras.gov.br/login/
 .. _`CTPS` : https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR
+
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
 .. _`Sistema eAUD` : https://eaud.cgu.gov.br/
