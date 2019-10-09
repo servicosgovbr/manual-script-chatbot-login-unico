@@ -257,16 +257,6 @@ Ministério da Cidadania
 
 - `Sistema Progredir`_ |site externo|
 
-Ministério do Desenvolvimento Regional
---------------------------------------
-
-- `Sistema SNE  (Mobile)`_ |site externo|
-- `Sistema SNE (Web)`_ |site externo|
-- `Sistema Carteira Digital de Transito`_ |site externo|
-- `CECAD`_ |site externo|
-- `InfraBRCaminhoneiro`_ |site externo|
-- `Portal de Serviços do Denatran`_ |site externo|
-
 Ministério da Defesa
 --------------------
 
@@ -276,6 +266,12 @@ Ministério da Infraestrutura
 ----------------------------
 
 - `Sistema de Concessão do Passe Livre`_ |site externo|
+- `Sistema SNE  (Mobile)`_ |site externo|
+- `Sistema SNE (Web)`_ |site externo|
+- `Sistema Carteira Digital de Transito`_ |site externo|
+- `Portal de Serviços do Denatran`_ |site externo|
+- `CECAD`_ |site externo|
+- `InfraBRCaminhoneiro`_ |site externo|
 
 Ministério da Justiça
 ---------------------
