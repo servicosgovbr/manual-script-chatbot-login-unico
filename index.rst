@@ -47,5 +47,6 @@ FAQ Login Único
    _perguntasdafaq/cpfinvalido
    _perguntasdafaq/naoaltereimeusdadoscadastrais
    _perguntasdafaq/mensagemerroaorealizarlogindousuarioredesimemei
+   _perguntasdafaq/orgaosesistemasutilizamloginunico
    _perguntasdafaq/comopossoteajudar
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
