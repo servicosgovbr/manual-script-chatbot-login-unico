@@ -12,240 +12,15 @@ ANM
 - `Protocolo`_ |site externo| 
 - `COPAL`_ |site externo|  
 
-Estado de Acre
---------------
-
-- `Portal de Serviços da JUCEAC`_ |site externo| 
-- `Viabilidade da JUCEAC`_ |site externo|
-- `FNCREMP da JUCEAC`_ |site externo|
-- `Licenciamento da JUCEAC`_ |site externo|
-- `Dae Online da JUCEAC`_ |site externo|
-- `Serviços WEB da JUCEAC`_ |site externo|
-- `Agendamento Online da JUCEAC`_ |site externo|
-- `Validar Documentos da JUCEAC`_ |site externo|
-- `Livro Digital da JUCEAC`_ |site externo|
-- `Registro Digital da JUCEAC`_ |site externo|
-
-Estado de Alagoas
------------------
-
-- `eventos_exclusivos da JUCEAL`_ |site externo|
-- `certidao_online da JUCEAL`_ |site externo|
-- `consulta_viabilidade da JUCEAL`_ |site externo| 
-
-Estado de Amapá
----------------
-
-- `eventos_exclusivos da JUCAP`_ |site externo|
-- `certidao_online da JUCAP`_ |site externo|
-- `consulta_viabilidade da JUCAP`_ |site externo| 
-
-Estado de Amazonas
-------------------
-
-- `Viabilidade da JUCEA`_ |site externo|
-- `FNCREMP da JUCEA`_ |site externo|
-- `Licenciamento da JUCEA`_ |site externo|
-- `Dae Online da JUCEA`_ |site externo|
-- `Serviços WEB da JUCEA`_ |site externo|
-- `Agendamento Online da JUCEA`_ |site externo|
-- `Validar Documentos da JUCEA`_ |site externo|
-- `Livro Digital da JUCEA`_ |site externo|
-- `Registro Digital da JUCEA`_ |site externo|
-
-Estado de Bahia
----------------
-
-- `REGIN (JUCEBA)`_ |site externo| 
-
-Estado de Ceará
----------------
-
-- `Viabilidade da JUCEC`_ |site externo|
-- `FNCREMP da JUCEC`_ |site externo|
-- `Licenciamento da JUCEC`_ |site externo|
-- `Dae Online da JUCEC`_ |site externo|
-- `Serviços WEB da JUCEC`_ |site externo|
-- `Agendamento Online da JUCEC`_ |site externo|
-- `Validar Documentos da JUCEC`_ |site externo|
-- `Livro Digital da JUCEC`_ |site externo|
-- `Registro Digital da JUCEC`_ |site externo|
-
-Estado de Distrito Federal
---------------------------
-
-- `Viabilidade da JCDF`_ |site externo|
-- `FNCREMP da JCDF`_ |site externo|
-- `Licenciamento da JCDF`_ |site externo|
-- `Dae Online da JCDF`_ |site externo|
-- `Serviços WEB da JCDF`_ |site externo|
-- `Agendamento Online da JCDF`_ |site externo|
-- `Validar Documentos da JCDF`_ |site externo|
-- `Livro Digital da JCDF`_ |site externo|
-- `Registro Digital da JCDF`_ |site externo|
-
-Estado de Espiríto Santo
-------------------------
-
-- `eventos_exclusivos da JUCEES`_ |site externo|
-- `consulta_viabilidade da JUCEES`_ |site externo|
-
-Estado de Goias
----------------
-
-- `eventos_exclusivos da JUCEG`_ |site externo|
-- `consulta_viabilidade da JUCEG`_ |site externo|  
-
-Estado de Maranhão
-------------------
-
-- `eventos_exclusivos da JUCEMA`_ |site externo|
-- `certidao_online da JUCEMA`_ |site externo|
-- `consulta_viabilidade da JUCEMA`_ |site externo| 
-
-Estado de Mato Grosso
----------------------
-
-- `Viabilidade da JUCEMAT`_ |site externo|
-- `FNCREMP da JUCEMAT`_ |site externo|
-- `Licenciamento da JUCEMAT`_ |site externo|
-- `Dae Online da JUCEMAT`_ |site externo|
-- `Serviços WEB da JUCEMAT`_ |site externo|
-- `Agendamento Online da JUCEMAT`_ |site externo|
-- `Validar Documentos da JUCEMAT`_ |site externo|
-- `Livro Digital da JUCEMAT`_ |site externo|
-- `Registro Digital da JUCEMAT`_ |site externo|
-
-Estado de Mato Grosso do Sul
-----------------------------
-
-- `Viabilidade da JUCEMS`_ |site externo|
-- `FNCREMP da JUCEMS`_ |site externo|
-- `Licenciamento da JUCEMS`_ |site externo|
-- `Dae Online da JUCEMS`_ |site externo|
-- `Serviços WEB da JUCEMS`_ |site externo|
-- `Agendamento Online da JUCEMS`_ |site externo|
-- `Validar Documentos da JUCEMS`_ |site externo|
-- `Livro Digital da JUCEMS`_ |site externo|
-- `Registro Digital da JUCEMS`_ |site externo|
-
-Estado de Minas Gerais
-----------------------
-
-- `Aplicativo MG app`_ |site externo|   
-- `Sistema de Segurança Corporativo`_ |site externo|
-- `Portal de Serviços da JUCEMG`_ |site externo| 
-- `Viabilidade da JUCEMG`_ |site externo|
-- `FNCREMP da JUCEMG`_ |site externo|
-- `Licenciamento da JUCEMG`_ |site externo|
-- `Dae Online da JUCEMG`_ |site externo|
-- `Serviços WEB da JUCEMG`_ |site externo|
-- `Agendamento Online da JUCEMG`_ |site externo|
-- `Validar Documentos da JUCEMG`_ |site externo|
-- `Livro Digital da JUCEMG`_ |site externo|
-- `Registro Digital da JUCEMG`_ |site externo|
-
-Estado de Pará
---------------
-
-- `REGIN (JUCEPA)`_ |site externo| 
-
-Estado de Paraíba
------------------
-
-- `eventos_exclusivos da JUCEPB`_ |site externo|
-- `certidao_online da JUCEPB`_ |site externo|
-- `consulta_viabilidade da JUCEPB`_ |site externo|
-
-Estado de Paraná
------------------
-
-- `eventos_exclusivos da JUCEPAR`_ |site externo|
-- `consulta_viabilidade da JUCEPAR`_ |site externo|
-
-Estado de Pernambuco
---------------------
-
-- `REGIN (JUCEPE)`_ |site externo| 
-
-Estado de Piauí
---------------------
-
-- `eventos_exclusivos da JUCEPI`_ |site externo|
-- `certidao_online da JUCEPI`_ |site externo|
-- `consulta_viabilidade da JUCEPI`_ |site externo| 
-
-Estado de Rio de Janeiro 
-------------------------
-
-- `REGIN (RCPJ)`_ |site externo|
-- `Portal JUCERJA`_ |site externo|
-
-Estado de Rio Grande do Sul 
----------------------------
-
-- `Viabilidade da JUCISRS`_ |site externo|
-- `FNCREMP da JUCISRS`_ |site externo|
-- `Licenciamento da JUCISRS`_ |site externo|
-- `Dae Online da JUCISRS`_ |site externo|
-- `Serviços WEB da JUCISRS`_ |site externo|
-- `Agendamento Online da JUCISRS`_ |site externo|
-- `Validar Documentos da JUCISRS`_ |site externo|
-- `Livro Digital da JUCISRS`_ |site externo|
-- `Registro Digital da JUCISRS`_ |site externo|
-
-Estado de Rio Grande do Norte
------------------------------
-
-- `eventos_exclusivos da JUCERN`_ |site externo|
-- `certidao_online da JUCERN`_ |site externo|
-- `consulta_viabilidade da JUCERN`_ |site externo|
-
-Estado de Rondônia
--------------------
-
-- `eventos_exclusivos da JUCER`_ |site externo|
-- `certidao_online da JUCER`_ |site externo|
-- `consulta_viabilidade da JUCER`_ |site externo|
-
-Estado de Roraima 
------------------
-
-- `Viabilidade da JUCERR`_ |site externo|
-- `FNCREMP da JUCERR`_ |site externo|
-- `Licenciamento da JUCERR`_ |site externo|
-- `Dae Online da JUCERR`_ |site externo|
-- `Serviços WEB da JUCERR`_ |site externo|
-- `Agendamento Online da JUCERR`_ |site externo|
-- `Validar Documentos da JUCERR`_ |site externo|
-- `Livro Digital da JUCERR`_ |site externo|
-- `Registro Digital da JUCERR`_ |site externo|
-
-Estado de Santa Catarina
----------------------
-
-- `Sistema ADM (Município de Blumenau)`_ |site externo|
-- `ESIC (Município de Blumenau)`_ |site externo|
-- `REGIN (JUCESC)`_ |site externo|
-
-Estado de Sergipe
------------------
-
-- `eventos_exclusivos da JUCESE`_ |site externo|
-- `certidao_online da JUCESE`_ |site externo|
-- `consulta_viabilidade da JUCESE`_ |site externo| 
-
-Estado de Tocantins
--------------------
-
-- `eventos_exclusivos da JUCETINS`_ |site externo|
-- `certidao_online da JUCETINS`_ |site externo|
-- `consulta_viabilidade da JUCETINS`_ |site externo| 
-
 FNDE
 ----
 
 - `e-PNAE`_ |site externo|
+
+INMETRO
+-------
+
+- `Sistema Orquestra`_ |site externo|
 
 IPHAN
 -----
@@ -334,6 +109,237 @@ Ministério da Transparência
 .. _`Portal do Empreendedor` : http://www.portaldoempreendedor.gov.br
 .. _`SEM Barreiras` : https://www.sembarreiras.gov.br/login/
 .. _`CTPS` : https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR
+
+Acre
+--------------
+
+- `Portal de Serviços da JUCEAC`_ |site externo| 
+- `Viabilidade da JUCEAC`_ |site externo|
+- `FNCREMP da JUCEAC`_ |site externo|
+- `Licenciamento da JUCEAC`_ |site externo|
+- `Dae Online da JUCEAC`_ |site externo|
+- `Serviços WEB da JUCEAC`_ |site externo|
+- `Agendamento Online da JUCEAC`_ |site externo|
+- `Validar Documentos da JUCEAC`_ |site externo|
+- `Livro Digital da JUCEAC`_ |site externo|
+- `Registro Digital da JUCEAC`_ |site externo|
+
+Alagoas
+-----------------
+
+- `eventos_exclusivos da JUCEAL`_ |site externo|
+- `certidao_online da JUCEAL`_ |site externo|
+- `consulta_viabilidade da JUCEAL`_ |site externo| 
+
+Amapá
+---------------
+
+- `eventos_exclusivos da JUCAP`_ |site externo|
+- `certidao_online da JUCAP`_ |site externo|
+- `consulta_viabilidade da JUCAP`_ |site externo| 
+
+Amazonas
+------------------
+
+- `Viabilidade da JUCEA`_ |site externo|
+- `FNCREMP da JUCEA`_ |site externo|
+- `Licenciamento da JUCEA`_ |site externo|
+- `Dae Online da JUCEA`_ |site externo|
+- `Serviços WEB da JUCEA`_ |site externo|
+- `Agendamento Online da JUCEA`_ |site externo|
+- `Validar Documentos da JUCEA`_ |site externo|
+- `Livro Digital da JUCEA`_ |site externo|
+- `Registro Digital da JUCEA`_ |site externo|
+
+Bahia
+---------------
+
+- `REGIN (JUCEBA)`_ |site externo| 
+
+Ceará
+---------------
+
+- `Viabilidade da JUCEC`_ |site externo|
+- `FNCREMP da JUCEC`_ |site externo|
+- `Licenciamento da JUCEC`_ |site externo|
+- `Dae Online da JUCEC`_ |site externo|
+- `Serviços WEB da JUCEC`_ |site externo|
+- `Agendamento Online da JUCEC`_ |site externo|
+- `Validar Documentos da JUCEC`_ |site externo|
+- `Livro Digital da JUCEC`_ |site externo|
+- `Registro Digital da JUCEC`_ |site externo|
+
+Distrito Federal
+--------------------------
+
+- `Viabilidade da JCDF`_ |site externo|
+- `FNCREMP da JCDF`_ |site externo|
+- `Licenciamento da JCDF`_ |site externo|
+- `Dae Online da JCDF`_ |site externo|
+- `Serviços WEB da JCDF`_ |site externo|
+- `Agendamento Online da JCDF`_ |site externo|
+- `Validar Documentos da JCDF`_ |site externo|
+- `Livro Digital da JCDF`_ |site externo|
+- `Registro Digital da JCDF`_ |site externo|
+
+Espiríto Santo
+------------------------
+
+- `eventos_exclusivos da JUCEES`_ |site externo|
+- `consulta_viabilidade da JUCEES`_ |site externo|
+
+Goias
+---------------
+
+- `eventos_exclusivos da JUCEG`_ |site externo|
+- `consulta_viabilidade da JUCEG`_ |site externo|  
+
+Maranhão
+------------------
+
+- `eventos_exclusivos da JUCEMA`_ |site externo|
+- `certidao_online da JUCEMA`_ |site externo|
+- `consulta_viabilidade da JUCEMA`_ |site externo| 
+
+Mato Grosso
+---------------------
+
+- `Viabilidade da JUCEMAT`_ |site externo|
+- `FNCREMP da JUCEMAT`_ |site externo|
+- `Licenciamento da JUCEMAT`_ |site externo|
+- `Dae Online da JUCEMAT`_ |site externo|
+- `Serviços WEB da JUCEMAT`_ |site externo|
+- `Agendamento Online da JUCEMAT`_ |site externo|
+- `Validar Documentos da JUCEMAT`_ |site externo|
+- `Livro Digital da JUCEMAT`_ |site externo|
+- `Registro Digital da JUCEMAT`_ |site externo|
+
+Mato Grosso do Sul
+----------------------------
+
+- `Viabilidade da JUCEMS`_ |site externo|
+- `FNCREMP da JUCEMS`_ |site externo|
+- `Licenciamento da JUCEMS`_ |site externo|
+- `Dae Online da JUCEMS`_ |site externo|
+- `Serviços WEB da JUCEMS`_ |site externo|
+- `Agendamento Online da JUCEMS`_ |site externo|
+- `Validar Documentos da JUCEMS`_ |site externo|
+- `Livro Digital da JUCEMS`_ |site externo|
+- `Registro Digital da JUCEMS`_ |site externo|
+
+Minas Gerais
+----------------------
+
+- `Aplicativo MG app`_ |site externo|   
+- `Sistema de Segurança Corporativo`_ |site externo|
+- `Portal de Serviços da JUCEMG`_ |site externo| 
+- `Viabilidade da JUCEMG`_ |site externo|
+- `FNCREMP da JUCEMG`_ |site externo|
+- `Licenciamento da JUCEMG`_ |site externo|
+- `Dae Online da JUCEMG`_ |site externo|
+- `Serviços WEB da JUCEMG`_ |site externo|
+- `Agendamento Online da JUCEMG`_ |site externo|
+- `Validar Documentos da JUCEMG`_ |site externo|
+- `Livro Digital da JUCEMG`_ |site externo|
+- `Registro Digital da JUCEMG`_ |site externo|
+
+Pará
+--------------
+
+- `REGIN (JUCEPA)`_ |site externo| 
+
+Paraíba
+-----------------
+
+- `eventos_exclusivos da JUCEPB`_ |site externo|
+- `certidao_online da JUCEPB`_ |site externo|
+- `consulta_viabilidade da JUCEPB`_ |site externo|
+
+Paraná
+-----------------
+
+- `eventos_exclusivos da JUCEPAR`_ |site externo|
+- `consulta_viabilidade da JUCEPAR`_ |site externo|
+
+Pernambuco
+--------------------
+
+- `REGIN (JUCEPE)`_ |site externo| 
+
+Piauí
+--------------------
+
+- `eventos_exclusivos da JUCEPI`_ |site externo|
+- `certidao_online da JUCEPI`_ |site externo|
+- `consulta_viabilidade da JUCEPI`_ |site externo| 
+
+Rio de Janeiro 
+------------------------
+
+- `REGIN (RCPJ)`_ |site externo|
+- `Portal JUCERJA`_ |site externo|
+
+Rio Grande do Sul 
+---------------------------
+
+- `Viabilidade da JUCISRS`_ |site externo|
+- `FNCREMP da JUCISRS`_ |site externo|
+- `Licenciamento da JUCISRS`_ |site externo|
+- `Dae Online da JUCISRS`_ |site externo|
+- `Serviços WEB da JUCISRS`_ |site externo|
+- `Agendamento Online da JUCISRS`_ |site externo|
+- `Validar Documentos da JUCISRS`_ |site externo|
+- `Livro Digital da JUCISRS`_ |site externo|
+- `Registro Digital da JUCISRS`_ |site externo|
+
+Rio Grande do Norte
+-----------------------------
+
+- `eventos_exclusivos da JUCERN`_ |site externo|
+- `certidao_online da JUCERN`_ |site externo|
+- `consulta_viabilidade da JUCERN`_ |site externo|
+
+Rondônia
+-------------------
+
+- `eventos_exclusivos da JUCER`_ |site externo|
+- `certidao_online da JUCER`_ |site externo|
+- `consulta_viabilidade da JUCER`_ |site externo|
+
+Roraima 
+-----------------
+
+- `Viabilidade da JUCERR`_ |site externo|
+- `FNCREMP da JUCERR`_ |site externo|
+- `Licenciamento da JUCERR`_ |site externo|
+- `Dae Online da JUCERR`_ |site externo|
+- `Serviços WEB da JUCERR`_ |site externo|
+- `Agendamento Online da JUCERR`_ |site externo|
+- `Validar Documentos da JUCERR`_ |site externo|
+- `Livro Digital da JUCERR`_ |site externo|
+- `Registro Digital da JUCERR`_ |site externo|
+
+Santa Catarina
+---------------------
+
+- `Sistema ADM (Município de Blumenau)`_ |site externo|
+- `ESIC (Município de Blumenau)`_ |site externo|
+- `REGIN (JUCESC)`_ |site externo|
+
+Sergipe
+-----------------
+
+- `eventos_exclusivos da JUCESE`_ |site externo|
+- `certidao_online da JUCESE`_ |site externo|
+- `consulta_viabilidade da JUCESE`_ |site externo| 
+
+Tocantins
+-------------------
+
+- `eventos_exclusivos da JUCETINS`_ |site externo|
+- `certidao_online da JUCETINS`_ |site externo|
+- `consulta_viabilidade da JUCETINS`_ |site externo|
+
 
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
@@ -524,3 +530,5 @@ Ministério da Transparência
 .. _`eventos_exclusivos da JUCERN` : https://www.redesim.rn.gov.br/evento-exclusivo
 .. _`certidao_online da JUCERN` : https://www.redesim.rn.gov.br/certidao-online/
 .. _`consulta_viabilidade da JUCERN` : https://www.redesim.rn.gov.br/s/consultaprevia/
+
+.. _`Sistema Orquestra` : https://orquestra.inmetro.gov.br/workflow/wfportalInmetro.aspx
