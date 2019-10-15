@@ -326,6 +326,11 @@ Santa Catarina
 - `ESIC (Município de Blumenau)`_ |site externo|
 - `REGIN (JUCESC)`_ |site externo|
 
+São Paulo
+---------
+
+- `Portal Integrador RedesimSP`_ |site externo|  
+
 Sergipe
 -----------------
 
@@ -532,3 +537,5 @@ Tocantins
 .. _`consulta_viabilidade da JUCERN` : https://www.redesim.rn.gov.br/s/consultaprevia/
 
 .. _`Sistema Orquestra` : https://orquestra.inmetro.gov.br/workflow/wfportalInmetro.aspx
+
+.. _`Portal Integrador RedesimSP` : https://vreredesim.sp.gov.br/home
