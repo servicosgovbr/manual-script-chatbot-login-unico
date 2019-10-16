@@ -71,12 +71,6 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Novidades e Atualizações
-   
-   _perguntasdafaq/novidadeseatualiacoes
-   
-.. toctree::
-   :maxdepth: 1
    :caption: Problemas na Conta
    
    _perguntasdafaq/naoaltereimeusdadoscadastrais
@@ -84,6 +78,12 @@ FAQ Login Único
    _perguntasdafaq/problemanacontadeacesso
    _perguntasdafaq/problemanacontadeacessocomertificadodogital
    _perguntasdafaq/comopossoteajudar
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Novidades e Atualizações
+   
+   _perguntasdafaq/novidadeseatualiacoes
    
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
 
