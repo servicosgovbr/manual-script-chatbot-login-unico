@@ -8,7 +8,7 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Sobre o Login Único
+   :caption: Sobre
 
    _perguntasdafaq/oquee
    _perguntasdafaq/porquaismeiospossoacessar
@@ -22,7 +22,7 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Pessoa Jurídica (CNPJ) no Login Único
+   :caption: Pessoa Jurídica (CNPJ)
    
    _perguntasdafaq/existeloginparapessoajuridica
    _perguntasdafaq/comocadastrarCNPJnologinunico
@@ -31,7 +31,7 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Criação de Conta de Acesso no Login Único
+   :caption: Criação de Conta de Acesso 
    
    _perguntasdafaq/contaacesso
    _perguntasdafaq/epossivelcriarcontadeacessocomcertificadodigital
@@ -43,7 +43,7 @@ FAQ Login Único
    
 .. toctree::
    :maxdepth: 1
-   :caption: Acesso e Manutenção da Conta do Login Único  
+   :caption: Acesso e Manutenção da Conta
    
    _perguntasdafaq/erreiasenha3vezes
    _perguntasdafaq/naoconsigocadastrarsenha
@@ -55,7 +55,7 @@ FAQ Login Único
    
 .. toctree::
    :maxdepth: 1
-   :caption: Recuperação de Acesso a Conta do Login Único  
+   :caption: Recuperação de Acesso a Conta
    
    _perguntasdafaq/esqueciminhasenha
    _perguntasdafaq/alterarsenha
@@ -64,14 +64,20 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Dúvidas e sistemas integrados ao Login Único
+   :caption: Serviços e Sistemas Integrados
    
    _perguntasdafaq/duvidasemservicosespecificos
    _perguntasdafaq/orgaosesistemasutilizamloginunico
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Novidades e Atualizações
+   
+   _perguntasdafaq/novidadeseatualiacoes
    
 .. toctree::
    :maxdepth: 1
-   :caption: Problemas na Conta do Login Único
+   :caption: Problemas na Conta
    
    _perguntasdafaq/naoaltereimeusdadoscadastrais
    _perguntasdafaq/mensagemerroaorealizarlogindousuarioredesimemei
