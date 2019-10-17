@@ -331,7 +331,8 @@ Santa Catarina
 São Paulo
 ---------
 
-- `Portal Integrador RedesimSP`_ |site externo|  
+- `Portal Integrador RedesimSP`_ |site externo|
+- `RLE - Sistema de Registro e Licenciamento de Empresas`_ |site externo|    
 
 Sergipe
 -----------------
@@ -544,3 +545,4 @@ Tocantins
 .. _`Sistema Orquestra` : https://orquestra.inmetro.gov.br/workflow/wfportalInmetro.aspx
 
 .. _`Portal Integrador RedesimSP` : https://vreredesim.sp.gov.br/home
+.. _`RLE - Sistema de Registro e Licenciamento de Empresas` : https://rle.empresasimples.gov.br/rle/
