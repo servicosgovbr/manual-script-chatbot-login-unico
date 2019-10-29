@@ -75,6 +75,8 @@ Ministério da Economia
 - `Portal do Empreendedor`_  |site externo|
 - `SEM Barreiras`_ |site externo|
 - `CTPS`_ |site externo|
+- `Painel AFD (Assentamento Funcional Digital)`_ |site externo|
+- `Sistema GRSI (Gerenciamento de Risco)`_ |site externo|
 
 Ministério da Saúde
 -------------------
@@ -87,28 +89,6 @@ Ministério da Transparência
 
 - `Fala.br`_ |site externo|
 - `Sistema eAUD`_ |site externo|
-
-.. |site externo| image:: _images/site-ext.gif
-
-.. _`Sistema de Automação de Serviços Públicos (LECOM)` : https://gov.br
-.. _`Sistema Combate ao AEDES (Web)` : https://aedes.sigelu.com/login
-.. _`Sistema Combate ao AEDES (Mobile)` : https://play.google.com/store/apps/details?id=com.sigelu.aedes.mobile&hl=pt
-.. _`Sistema Protocolo Eletrônico` : https://protocolo.planejamento.gov.br/protocolo/login
-.. _`Sistema AGATHA` : https://agatha.planejamento.gov.br/
-.. _`Portal de Transição 2019` : https://transicao2019.planejamento.gov.br/transicao/login.jsp
-.. _`Sistema ComprasNet Mobile` : https://play.google.com/store/apps/details?id=br.gov.serpro.comprasNetMobile
-.. _`Meu INSS` : https://meu.inss.gov.br/central/#/
-.. _`Emprega Brasil` : https://servicos.mte.gov.br/#/loginfailed/redirect=
-.. _`Raio X da APF` : https://raiox.economia.gov.br/login.jsp
-.. _`Painel de Talentos SIGEPE` : https://painelbancodetalentos.economia.gov.br/banco-talentos/login.jsp
-.. _`REUSE.GOV` : https://www.reusegov.br
-.. _`Sistema SICAF` : https://www3.comprasnet.gov.br/sicaf-web/index.jsf
-.. _`Portal Patrimonio de Todos` : http://www.patrimoniodetodos.gov.br/
-.. _`gov.br` : https://gov.br
-.. _`Sistema REDESIM` : https://www.redesim.gov.br/
-.. _`Portal do Empreendedor` : http://www.portaldoempreendedor.gov.br
-.. _`SEM Barreiras` : https://www.sembarreiras.gov.br/login/
-.. _`CTPS` : https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR
 
 Acre
 --------------
@@ -348,6 +328,29 @@ Tocantins
 - `certidao_online da JUCETINS`_ |site externo|
 - `consulta_viabilidade da JUCETINS`_ |site externo|
 
+.. |site externo| image:: _images/site-ext.gif
+
+.. _`Sistema de Automação de Serviços Públicos (LECOM)` : https://gov.br
+.. _`Sistema Combate ao AEDES (Web)` : https://aedes.sigelu.com/login
+.. _`Sistema Combate ao AEDES (Mobile)` : https://play.google.com/store/apps/details?id=com.sigelu.aedes.mobile&hl=pt
+.. _`Sistema Protocolo Eletrônico` : https://protocolo.planejamento.gov.br/protocolo/login
+.. _`Sistema AGATHA` : https://agatha.planejamento.gov.br/
+.. _`Portal de Transição 2019` : https://transicao2019.planejamento.gov.br/transicao/login.jsp
+.. _`Sistema ComprasNet Mobile` : https://play.google.com/store/apps/details?id=br.gov.serpro.comprasNetMobile
+.. _`Meu INSS` : https://meu.inss.gov.br/central/#/
+.. _`Emprega Brasil` : https://servicos.mte.gov.br/#/loginfailed/redirect=
+.. _`Raio X da APF` : https://raiox.economia.gov.br/login.jsp
+.. _`Painel de Talentos SIGEPE` : https://painelbancodetalentos.economia.gov.br/banco-talentos/login.jsp
+.. _`REUSE.GOV` : https://www.reusegov.br
+.. _`Sistema SICAF` : https://www3.comprasnet.gov.br/sicaf-web/index.jsf
+.. _`Portal Patrimonio de Todos` : http://www.patrimoniodetodos.gov.br/
+.. _`gov.br` : https://gov.br
+.. _`Sistema REDESIM` : https://www.redesim.gov.br/
+.. _`Portal do Empreendedor` : http://www.portaldoempreendedor.gov.br
+.. _`SEM Barreiras` : https://www.sembarreiras.gov.br/login/
+.. _`CTPS` : https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR
+.. _`Painel AFD (Assentamento Funcional Digital)` : https://painelafd.economia.gov.br/afd/login.jsp
+.. _`Sistema GRSI (Gerenciamento de Risco)` : https://grsi.planejamento.gov.br/ 
 
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
