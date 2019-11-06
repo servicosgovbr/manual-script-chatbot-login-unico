@@ -28,6 +28,7 @@ FAQ Login Único
    _perguntasdafaq/comocadastrarCNPJnologinunico
    _perguntasdafaq/cadastrocolaboradordocnpj
    _perguntasdafaq/retirarcolaboradordocnpj
+   _perguntasdafaq/comosubstituircnpjloginunico
 
 .. toctree::
    :maxdepth: 1

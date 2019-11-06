@@ -77,6 +77,7 @@ Ministério da Economia
 - `CTPS`_ |site externo|
 - `Painel AFD (Assentamento Funcional Digital)`_ |site externo|
 - `Sistema GRSI (Gerenciamento de Risco)`_ |site externo|
+- `Plataforma Mais Brasil`_ |site externo|
 
 Ministério da Saúde
 -------------------
@@ -273,6 +274,7 @@ Rio Grande do Sul
 - `Livro Digital da JUCISRS`_ |site externo|
 - `Registro Digital da JUCISRS`_ |site externo|
 - `Acesso Poa`_ |site externo|
+- `Login Cidadão`_ |site externo|
 
 Rio Grande do Norte
 -----------------------------
@@ -351,7 +353,7 @@ Tocantins
 .. _`CTPS` : https://play.google.com/store/apps/details?id=br.gov.dataprev.carteiradigital&hl=pt_BR
 .. _`Painel AFD (Assentamento Funcional Digital)` : https://painelafd.economia.gov.br/afd/login.jsp
 .. _`Sistema GRSI (Gerenciamento de Risco)` : https://grsi.planejamento.gov.br/ 
-
+.. _`Plataforma Mais Brasil` : https://portal.plataformamaisbrasil.gov.br/maisbrasil-portal-frontend/
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
 .. _`Sistema eAUD` : https://eaud.cgu.gov.br/
@@ -455,6 +457,7 @@ Tocantins
 .. _`Livro Digital da JUCISRS` : http://portalservicos.jucisrs.rs.gov.br/auth/realms/Portalservicos/protocol/openid-connect/auth?response_type=code&client_id=portalexterno&redirect_uri=http%3A%2F%2Fportalservicos.jucisrs.rs.gov.br%2FPortal%2Fpages%2Fprincipal.jsf&state=79796%2F8279f6f8-a85a-4d88-991d-e13e8a9465e4&login=true
 .. _`Registro Digital da JUCISRS` : http://portalservicos.jucisrs.rs.gov.br/auth/realms/Portalservicos/protocol/openid-connect/auth?response_type=code&client_id=portalexterno&redirect_uri=http%3A%2F%2Fportalservicos.jucisrs.rs.gov.br%2FPortal%2Fpages%2Fprincipal.jsf&state=79796%2F8279f6f8-a85a-4d88-991d-e13e8a9465e4&login=true
 .. _`Acesso Poa` : https://sgp.procempa.com.br/
+.. _`Login Cidadão` : https://logincidadao.rs.gov.br/login
 
 .. _`Portal de Serviços da JUCERR` : http://projetointegrar.jucerr.rr.gov.br/auth/realms/Portalservicos_JUCERR/protocol/openid-connect/auth?response_type=code&client_id=portalexterno&redirect_uri=http%3A%2F%2Fprojetointegrar.jucerr.rr.gov.br%2FPortal%2Fpages%2Fprincipal.jsf&state=230%2Fe9744837-fccf-495e-813e-5b2febd3dbe3&login=true
 .. _`Viabilidade da JUCERR` : http://projetointegrar.jucerr.rr.gov.br/auth/realms/Portalservicos_JUCERR/protocol/openid-connect/auth?response_type=code&client_id=portalexterno&redirect_uri=http%3A%2F%2Fprojetointegrar.jucerr.rr.gov.br%2FPortal%2Fpages%2Fprincipal.jsf&state=230%2Fe9744837-fccf-495e-813e-5b2febd3dbe3&login=true
