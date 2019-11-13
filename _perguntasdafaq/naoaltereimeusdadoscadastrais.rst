@@ -13,7 +13,7 @@ Caso a alteração não tenha ocorrido pelo cidadão de fato, favor realizar os 
 - **CPF do Cidadão**;
 - **Anexar o Print (foto/captura da tela) do e-mail ou SMS recebido com informação da alteração**
  
-Ausência das informações acima impossibilita análise e retorno.
+4. Recuperar senha. Favor seguir os passos `Esqueci Senha`_.
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
@@ -22,5 +22,5 @@ Ausência das informações acima impossibilita análise e retorno.
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html
-
+.. _`Esqueci Senha`: esqueciminhasenha.html
             
