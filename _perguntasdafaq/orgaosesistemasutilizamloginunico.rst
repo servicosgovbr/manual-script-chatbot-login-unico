@@ -10,7 +10,12 @@ ANM
 ---
 
 - `Protocolo`_ |site externo| 
-- `COPAL`_ |site externo|  
+- `COPAL`_ |site externo|
+
+ANTAQ
+-----
+
+- `SOE (Sistema de Outorga Eletrônica)`_ |site externo| 
 
 FNDE
 ----
@@ -78,6 +83,7 @@ Ministério da Economia
 - `Painel AFD (Assentamento Funcional Digital)`_ |site externo|
 - `Sistema GRSI (Gerenciamento de Risco)`_ |site externo|
 - `Plataforma Mais Brasil`_ |site externo|
+- `Arco (Sistema de Arrecadação de Crédito)`_ |site externo| 
 
 Ministério da Saúde
 -------------------
@@ -354,6 +360,7 @@ Tocantins
 .. _`Painel AFD (Assentamento Funcional Digital)` : https://painelafd.economia.gov.br/afd/login.jsp
 .. _`Sistema GRSI (Gerenciamento de Risco)` : https://grsi.planejamento.gov.br/ 
 .. _`Plataforma Mais Brasil` : https://portal.plataformamaisbrasil.gov.br/maisbrasil-portal-frontend/
+.. _`Arco (Sistema de Arrecadação de Crédito)`: http://arco.economia.gov.br/
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
 .. _`Sistema eAUD` : https://eaud.cgu.gov.br/
@@ -381,6 +388,8 @@ Tocantins
 
 .. _`Protocolo` : https://app.dnpm.gov.br/SCA/
 .. _`COPAL` : https://app.dnpm.gov.br/Copal/Login?ReturnUrl=%2fCopal 
+
+.. _`SOE (Sistema de Outorga Eletrônica)` : https://soe.antaq.gov.br/sso/requirement/login?service=https%3A%2F%2Fsoe.antaq.gov.br%2Frequirement%2F
 
 .. _`Aplicativo MG app`:  https://play.google.com/store/apps/details?id=br.gov.prodemge.projetosocialminas&hl=pt_BR
 .. _`Sistema de Segurança Corporativo` : https://cidadao.mg.gov.br/#/login
