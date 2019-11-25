@@ -42,22 +42,6 @@ Ministério da Defesa
 
 - `Sistema Alistamento Militar On Line`_ |site externo|
 
-Ministério da Infraestrutura
-----------------------------
-
-- `Sistema de Concessão do Passe Livre`_ |site externo|
-- `Sistema SNE  (Mobile)`_ |site externo|
-- `Sistema SNE (Web)`_ |site externo|
-- `Sistema Carteira Digital de Transito`_ |site externo|
-- `Portal de Serviços do Denatran`_ |site externo|
-- `CECAD`_ |site externo|
-- `InfraBRCaminhoneiro`_ |site externo|
-
-Ministério da Justiça
----------------------
-
-- `SINESP`_ |site externo|
-
 Ministério da Economia
 ----------------------
 
@@ -84,6 +68,27 @@ Ministério da Economia
 - `Sistema GRSI (Gerenciamento de Risco)`_ |site externo|
 - `Plataforma Mais Brasil`_ |site externo|
 - `Arco (Sistema de Arrecadação de Crédito)`_ |site externo| 
+
+Ministério da Educação
+----------------------
+
+- `ID Estudantil (Mobile)`_ |site externo|
+
+Ministério da Infraestrutura
+----------------------------
+
+- `Sistema de Concessão do Passe Livre`_ |site externo|
+- `Sistema SNE  (Mobile)`_ |site externo|
+- `Sistema SNE (Web)`_ |site externo|
+- `Sistema Carteira Digital de Transito`_ |site externo|
+- `Portal de Serviços do Denatran`_ |site externo|
+- `CECAD`_ |site externo|
+- `InfraBRCaminhoneiro`_ |site externo|
+
+Ministério da Justiça
+---------------------
+
+- `SINESP`_ |site externo|
 
 Ministério da Saúde
 -------------------
@@ -361,6 +366,8 @@ Tocantins
 .. _`Sistema GRSI (Gerenciamento de Risco)` : https://grsi.planejamento.gov.br/ 
 .. _`Plataforma Mais Brasil` : https://portal.plataformamaisbrasil.gov.br/maisbrasil-portal-frontend/
 .. _`Arco (Sistema de Arrecadação de Crédito)`: http://arco.economia.gov.br/
+
+.. _`ID Estudantil (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.mec.idestudantil
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
 .. _`Sistema eAUD` : https://eaud.cgu.gov.br/
