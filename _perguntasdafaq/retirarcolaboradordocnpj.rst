@@ -22,9 +22,9 @@ Para realizar a retirara de colaboradores, favor seguir os passos:
  
 - *O certificado da pessoa juridíca tem estar no computador;* 
 
-.. figure:: _images/telamoduloempresapesquisacolaborador.jpg
+.. figure:: _images/telamoduloempresaremover.jpg
    :align: center
-   :alt: Página do módulo empresas com a funcionalidade de busca qual colaborador deseja cadastrar na empresa. O funcionamento ocorre com preenchimento do CPF e clicar no botão buscar por CPF para encontrar a pessoa.
+   :alt: 
 
 **Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
 
