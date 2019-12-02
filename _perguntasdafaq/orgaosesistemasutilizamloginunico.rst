@@ -320,6 +320,7 @@ Santa Catarina
 - `Sistema ADM (Município de Blumenau)`_ |site externo|
 - `ESIC (Município de Blumenau)`_ |site externo|
 - `REGIN (JUCESC)`_ |site externo|
+- `SC Digital`_ |site externo| 
 
 São Paulo
 ---------
@@ -379,6 +380,7 @@ Tocantins
 .. _`Sistema ADM (Município de Blumenau)` : http://www.blumenau.sc.gov.br/carteiradigital/wwpbaseobjects.acessosenior.aspx
 .. _`ESIC (Município de Blumenau)` : https://www.blumenau.sc.gov.br/esic/esic.autenticacao.aspx
 .. _`REGIN (JUCESC)` : http://regin.jucesc.sc.gov.br/portalregin/home/lancadorservicos?uf=SC
+.. _`SC Digital` : https://www.sc.gov.br/servicos/
 
 .. _`Sistema de Conhecimento e Gestão` : http://sicg.iphan.gov.br/sicg/login
 
