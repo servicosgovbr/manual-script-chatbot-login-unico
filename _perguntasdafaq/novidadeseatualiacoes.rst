@@ -17,7 +17,6 @@ Outubro/2019
 Novembro/2019
 ----------- 
 
-- Provisionamento e recuperação de conta por biometria (Digital ou Facial)
 - Ajustes no Layout
 - Obrigatoriedade de email ou telefone no cadastro da conta
 - Para cidadão que possua email ou telefone validados não é mais possível recuperar senha por carrossel de perguntas.
@@ -31,4 +30,5 @@ Novembro/2019
 .. - Rotina para bloqueio de conta de usuário falecido
 .. - Reformulação dos selos
 .. - Integração com a área logada do gov.br
+.. - Provisionamento e recuperação de conta por biometria (Digital ou Facial)
 
