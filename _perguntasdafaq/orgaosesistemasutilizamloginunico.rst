@@ -11,6 +11,7 @@ ANM
 
 - `Protocolo`_ |site externo| 
 - `COPAL`_ |site externo|
+- `SIGBM`_ |site externo|
 
 ANTAQ
 -----
@@ -95,6 +96,7 @@ Ministério da Saúde
 
 - `MeuDigiSUS`_ |site externo|
 - `Portal de Serviços`_ |site externo|
+- `Diario de Saúde`_ |site externo|
 
 Ministério da Transparência
 ---------------------------
@@ -396,7 +398,8 @@ Tocantins
 .. _`Portal de Serviços do Denatran` : https://portalservicos.denatran.serpro.gov.br/#/
 
 .. _`Protocolo` : https://app.dnpm.gov.br/SCA/
-.. _`COPAL` : https://app.dnpm.gov.br/Copal/Login?ReturnUrl=%2fCopal 
+.. _`COPAL` : https://app.dnpm.gov.br/Copal/Login?ReturnUrl=%2fCopal
+.. _`SIGBM` : https://app.dnpm.gov.br/SCA/Site/Login.aspx?ReturnUrl=%2fSIGBM%2f 
 
 .. _`SOE (Sistema de Outorga Eletrônica)` : https://soe.antaq.gov.br/sso/requirement/login?service=https%3A%2F%2Fsoe.antaq.gov.br%2Frequirement%2F
 
@@ -417,6 +420,7 @@ Tocantins
 
 .. _`MeuDigiSUS` : https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR
 .. _`Portal de Serviços` : https://servicos-datasus.saude.gov.br
+.. _`Diario de Saúde` : https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes&hl=pt_br
 
 .. _`REGIN (JUCEBA)` : http://regin.juceb.ba.gov.br/RequerimentoUniversal/NovoLogin.aspx
 
