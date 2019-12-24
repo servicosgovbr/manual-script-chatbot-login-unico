@@ -16,7 +16,12 @@ ANM
 ANTAQ
 -----
 
-- `SOE (Sistema de Outorga Eletrônica)`_ |site externo| 
+- `SOE (Sistema de Outorga Eletrônica)`_ |site externo|
+
+DNIT
+----
+
+- `Portal de Multas`_ |site externo|
 
 FNDE
 ----
@@ -68,7 +73,9 @@ Ministério da Economia
 - `Painel AFD (Assentamento Funcional Digital)`_ |site externo|
 - `Sistema GRSI (Gerenciamento de Risco)`_ |site externo|
 - `Plataforma Mais Brasil`_ |site externo|
-- `Arco (Sistema de Arrecadação de Crédito)`_ |site externo| 
+- `Arco (Sistema de Arrecadação de Crédito)`_ |site externo|
+- `Portal do Artesanato Brasileiro`_ |site externo|
+- `Vlibras (Video)`_ |site externo|
 
 Ministério da Educação
 ----------------------
@@ -97,6 +104,8 @@ Ministério da Saúde
 - `MeuDigiSUS`_ |site externo|
 - `Portal de Serviços`_ |site externo|
 - `Diario de Saúde`_ |site externo|
+- `Hemovida`_ |site externo|
+- `Viva Bem`_ |site externo|
 
 Ministério da Transparência
 ---------------------------
@@ -369,6 +378,8 @@ Tocantins
 .. _`Sistema GRSI (Gerenciamento de Risco)` : https://grsi.planejamento.gov.br/ 
 .. _`Plataforma Mais Brasil` : https://portal.plataformamaisbrasil.gov.br/maisbrasil-portal-frontend/
 .. _`Arco (Sistema de Arrecadação de Crédito)`: http://arco.economia.gov.br/
+.. _`Portal do Artesanato Brasileiro` : http://www.artesanatobrasileiro.gov.br/acesso
+.. _`Vlibras (Video)`: http://video.vlibras.gov.br 
 
 .. _`ID Estudantil (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.mec.idestudantil
 
@@ -403,6 +414,8 @@ Tocantins
 
 .. _`SOE (Sistema de Outorga Eletrônica)` : https://soe.antaq.gov.br/sso/requirement/login?service=https%3A%2F%2Fsoe.antaq.gov.br%2Frequirement%2F
 
+.. _`Portal de Multas` : http://servicos.dnit.gov.br/multas/Login?ReturnUrl=%2Fmultas%2F
+
 .. _`Aplicativo MG app`:  https://play.google.com/store/apps/details?id=br.gov.prodemge.projetosocialminas&hl=pt_BR
 .. _`Sistema de Segurança Corporativo` : https://cidadao.mg.gov.br/#/login
 .. _`Portal de Serviços da JUCEMG` : https://portalservicos.jucemg.mg.gov.br/auth/realms/Portalservicos/protocol/openid-connect/auth?response_type=code&client_id=portalexterno&redirect_uri=http%3A%2F%2Fportalservicos.jucemg.mg.gov.br%2FPortal%2Fpages%2Fprincipal.jsf&state=61275%2Fcd3242f7-712f-4e1c-b737-777afc320e24&login=true
@@ -421,6 +434,9 @@ Tocantins
 .. _`MeuDigiSUS` : https://play.google.com/store/apps/details?id=br.gov.datasus.cnsdigital&hl=pt_BR
 .. _`Portal de Serviços` : https://servicos-datasus.saude.gov.br
 .. _`Diario de Saúde` : https://play.google.com/store/apps/details?id=br.gov.datasus.guardioes&hl=pt_br
+.. _`Hemovida`: https://play.google.com/store/apps/details?id=br.gov.datasus.hemovida&hl=pt_BR
+.. _`Viva Bem`: https://play.google.com/store/apps/details?id=br.gov.datasus.vivabem&hl=pt_BR 
+
 
 .. _`REGIN (JUCEBA)` : http://regin.juceb.ba.gov.br/RequerimentoUniversal/NovoLogin.aspx
 
