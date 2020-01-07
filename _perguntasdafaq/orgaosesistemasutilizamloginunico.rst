@@ -76,6 +76,7 @@ Ministério da Economia
 - `Arco (Sistema de Arrecadação de Crédito)`_ |site externo|
 - `Portal do Artesanato Brasileiro`_ |site externo|
 - `Vlibras (Video)`_ |site externo|
+- `Sistema do Modelo de Excelência em Gestão`_ |site externo|
 
 Ministério da Educação
 ----------------------
@@ -331,7 +332,8 @@ Santa Catarina
 - `Sistema ADM (Município de Blumenau)`_ |site externo|
 - `ESIC (Município de Blumenau)`_ |site externo|
 - `REGIN (JUCESC)`_ |site externo|
-- `SC Digital`_ |site externo| 
+- `SC Digital`_ |site externo|
+- `CIGA Coletor`_ |site externo|
 
 São Paulo
 ---------
@@ -379,7 +381,8 @@ Tocantins
 .. _`Plataforma Mais Brasil` : https://portal.plataformamaisbrasil.gov.br/maisbrasil-portal-frontend/
 .. _`Arco (Sistema de Arrecadação de Crédito)`: http://arco.economia.gov.br/
 .. _`Portal do Artesanato Brasileiro` : http://www.artesanatobrasileiro.gov.br/acesso
-.. _`Vlibras (Video)`: http://video.vlibras.gov.br 
+.. _`Vlibras (Video)`: http://video.vlibras.gov.br
+.. _`Sistema do Modelo de Excelência em Gestão` : https://smeg.economia.gov.br/
 
 .. _`ID Estudantil (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.mec.idestudantil
 
@@ -394,6 +397,7 @@ Tocantins
 .. _`ESIC (Município de Blumenau)` : https://www.blumenau.sc.gov.br/esic/esic.autenticacao.aspx
 .. _`REGIN (JUCESC)` : http://regin.jucesc.sc.gov.br/portalregin/home/lancadorservicos?uf=SC
 .. _`SC Digital` : https://www.sc.gov.br/servicos/
+.. _`CIGA Coletor` : https://coletor.ciga.sc.gov.br/
 
 .. _`Sistema de Conhecimento e Gestão` : http://sicg.iphan.gov.br/sicg/login
 
