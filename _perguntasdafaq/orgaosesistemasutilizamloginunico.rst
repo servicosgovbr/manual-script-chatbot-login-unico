@@ -12,6 +12,12 @@ ANM
 - `Protocolo`_ |site externo| 
 - `COPAL`_ |site externo|
 - `SIGBM`_ |site externo|
+- `RAL`_ |site externo|
+
+ANP
+---
+
+- `Plataforma CBIO`_ |site externo|
 
 ANTAQ
 -----
@@ -415,6 +421,9 @@ Tocantins
 .. _`Protocolo` : https://app.dnpm.gov.br/SCA/
 .. _`COPAL` : https://app.dnpm.gov.br/Copal/Login?ReturnUrl=%2fCopal
 .. _`SIGBM` : https://app.dnpm.gov.br/SCA/Site/Login.aspx?ReturnUrl=%2fSIGBM%2f 
+.. _`RAL` : https://ralweb.dnpm.gov.br/SCA/Site/Login.aspx?ReturnUrl=%2fRAL%2fSite%2fDeclaracoes%2fAbrirRal.aspx
+
+.. _`Plataforma CBIO` : https://plataformacbio.serpro.gov.br/plataformacbio/login.aspx
 
 .. _`SOE (Sistema de Outorga Eletrônica)` : https://soe.antaq.gov.br/sso/requirement/login?service=https%3A%2F%2Fsoe.antaq.gov.br%2Frequirement%2F
 
