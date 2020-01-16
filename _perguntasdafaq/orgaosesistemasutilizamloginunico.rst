@@ -24,6 +24,11 @@ ANTAQ
 
 - `SOE (Sistema de Outorga Eletrônica)`_ |site externo|
 
+ANVISA
+------
+
+- `Novo Datavisa`_ |site externo|
+
 DNIT
 ----
 
@@ -83,6 +88,7 @@ Ministério da Economia
 - `Portal do Artesanato Brasileiro`_ |site externo|
 - `Vlibras (Video)`_ |site externo|
 - `Sistema do Modelo de Excelência em Gestão`_ |site externo|
+- `ELK Painéis`_ |site externo|
 
 Ministério da Educação
 ----------------------
@@ -99,6 +105,7 @@ Ministério da Infraestrutura
 - `Portal de Serviços do Denatran`_ |site externo|
 - `CECAD`_ |site externo|
 - `InfraBRCaminhoneiro`_ |site externo|
+- `SGA (Sistema de Agenda)`_ |site externo|
 
 Ministério da Justiça
 ---------------------
@@ -389,6 +396,7 @@ Tocantins
 .. _`Portal do Artesanato Brasileiro` : http://www.artesanatobrasileiro.gov.br/acesso
 .. _`Vlibras (Video)`: http://video.vlibras.gov.br
 .. _`Sistema do Modelo de Excelência em Gestão` : https://smeg.economia.gov.br/
+.. _`ELK Painéis` : https://paineis.pesquisa.gov.br/
 
 .. _`ID Estudantil (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.mec.idestudantil
 
@@ -417,6 +425,8 @@ Tocantins
 .. _`CECAD`: https://aplicacoes.mds.gov.br/sagi/cecad20/
 .. _`InfraBRCaminhoneiro` : https://infrabr.estaleiro.serpro.gov.br
 .. _`Portal de Serviços do Denatran` : https://portalservicos.denatran.serpro.gov.br/#/
+.. _`SGA (Sistema de Agenda)` : https://sga.infraestrutura.gov.br/
+
 
 .. _`Protocolo` : https://app.dnpm.gov.br/SCA/
 .. _`COPAL` : https://app.dnpm.gov.br/Copal/Login?ReturnUrl=%2fCopal
@@ -426,6 +436,9 @@ Tocantins
 .. _`Plataforma CBIO` : https://plataformacbio.serpro.gov.br/plataformacbio/login.aspx
 
 .. _`SOE (Sistema de Outorga Eletrônica)` : https://soe.antaq.gov.br/sso/requirement/login?service=https%3A%2F%2Fsoe.antaq.gov.br%2Frequirement%2F
+
+.. _`Novo Datavisa` : https://avisa.serpro.gov.br/
+
 
 .. _`Portal de Multas` : http://servicos.dnit.gov.br/multas/Login?ReturnUrl=%2Fmultas%2F
 
