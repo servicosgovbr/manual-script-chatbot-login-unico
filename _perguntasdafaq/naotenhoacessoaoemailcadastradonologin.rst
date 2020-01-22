@@ -12,7 +12,7 @@ Isso ocorrerá por meio do acesso ao `Como Podemos te ajudar?`_ com as informaç
 
 - **Serviço que deseja acessar com Login Único**
 - **E-mail para alteração**;
-- **Anexar arquivo com o Documento de Identificação e autofotografia de seu rosto, segurando o documento de identidade original com foto mais recente possível para checar identificação**;
+- **Anexar arquivo com o Documento de Identificação e autofotografia de seu rosto, segurando o documento original com foto mais recente possível para checagem**;
 - **Seguinte texto**: Eu, *nome do cidadão*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Economia a alterar meus dados cadastrais da plataforma de autenticação Login Único (gov.br). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
  
 Logo que o Ministério da Economia receber a solicitação, será realizado a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
