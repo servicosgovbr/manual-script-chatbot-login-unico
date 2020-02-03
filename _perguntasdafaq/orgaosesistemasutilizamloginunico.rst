@@ -33,6 +33,7 @@ DNIT
 ----
 
 - `Portal de Multas`_ |site externo|
+- `Solicitação de Autorização Especial de Trânsito - AET`_ |site externo| 
 
 FNDE
 ----
@@ -105,7 +106,7 @@ Ministério da Infraestrutura
 - `Portal de Serviços do Denatran`_ |site externo|
 - `CECAD`_ |site externo|
 - `InfraBRCaminhoneiro`_ |site externo|
-- `SGA (Sistema de Agenda)`_ |site externo|
+.. - `SGA (Sistema de Agenda)`_ |site externo|
 
 Ministério da Justiça
 ---------------------
@@ -146,7 +147,8 @@ Alagoas
 
 - `eventos_exclusivos da JUCEAL`_ |site externo|
 - `certidao_online da JUCEAL`_ |site externo|
-- `consulta_viabilidade da JUCEAL`_ |site externo| 
+- `consulta_viabilidade da JUCEAL`_ |site externo|
+- `Guia de Serviços`_ |site externo|
 
 Amapá
 ---------------
@@ -441,6 +443,7 @@ Tocantins
 
 
 .. _`Portal de Multas` : http://servicos.dnit.gov.br/multas/Login?ReturnUrl=%2Fmultas%2F
+.. _`Solicitação de Autorização Especial de Trânsito - AET` : https://siaet.dnit.gov.br/
 
 .. _`Aplicativo MG app`:  https://play.google.com/store/apps/details?id=br.gov.prodemge.projetosocialminas&hl=pt_BR
 .. _`Sistema de Segurança Corporativo` : https://cidadao.mg.gov.br/#/login
@@ -607,6 +610,7 @@ Tocantins
 .. _`eventos_exclusivos da JUCEAL` : https://www.facilita.al.gov.br/evento-exclusivo/
 .. _`certidao_online da JUCEAL` : https://www.facilita.al.gov.br/certidao-online/
 .. _`consulta_viabilidade da JUCEAL` : https://www.facilita.al.gov.br/s/consultaprevia/
+.. _`Guia de Serviços` : https://servicos.al.gov.br/
 
 .. _`eventos_exclusivos da JUCERN` : https://www.redesim.rn.gov.br/evento-exclusivo
 .. _`certidao_online da JUCERN` : https://www.redesim.rn.gov.br/certidao-online/
