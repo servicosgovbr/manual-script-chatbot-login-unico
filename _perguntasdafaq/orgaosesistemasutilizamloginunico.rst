@@ -105,7 +105,7 @@ Ministério da Infraestrutura
 - `Sistema Carteira Digital de Transito`_ |site externo|
 - `Portal de Serviços do Denatran`_ |site externo|
 - `CECAD`_ |site externo|
-- `InfraBRCaminhoneiro`_ |site externo|
+- `InfraBR Caminhoneiro`_ |site externo|
 .. - `SGA (Sistema de Agenda)`_ |site externo|
 
 Ministério da Justiça
@@ -425,7 +425,7 @@ Tocantins
 .. _`Sistema SNE (Web)`:  https://sne.denatran.serpro.gov.br/#/
 .. _`Sistema Carteira Digital de Transito` : https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR 
 .. _`CECAD`: https://aplicacoes.mds.gov.br/sagi/cecad20/
-.. _`InfraBRCaminhoneiro` : https://infrabr.estaleiro.serpro.gov.br
+.. _`InfraBR Caminhoneiro` : https://infrabr.infraestrutura.gov.br
 .. _`Portal de Serviços do Denatran` : https://portalservicos.denatran.serpro.gov.br/#/
 .. _`SGA (Sistema de Agenda)` : https://sga.infraestrutura.gov.br/
 
