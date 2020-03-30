@@ -33,6 +33,6 @@ Para realizar a retirara de colaboradores, favor seguir os passos:
 - posso retirar pessoas da minha empresa no Login Único/BRasil Cidadão/govbr
  
 .. |site externo| image:: _images/site-ext.gif
-.. _`Módulo Empresas`: https://empresas.brasilcidadao.gov.br
+.. _`Módulo Empresas`: https://empresas.acesso.gov.br
 .. _`selo eCNPJ`: comocadastrarCNPJnologinunico.html
             

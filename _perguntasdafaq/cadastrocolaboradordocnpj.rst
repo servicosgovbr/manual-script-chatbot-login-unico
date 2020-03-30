@@ -42,6 +42,6 @@ Para realizar o cadastramento de colaboradores, favor seguir os passos:
 - posso ter pessoas utilizando o serviço sem ser donas na empresa
  
 .. |site externo| image:: _images/site-ext.gif
-.. _`Módulo Empresas`: https://empresas.brasilcidadao.gov.br
+.. _`Módulo Empresas`: https://empresas.acesso.gov.br
 .. _`selo eCNPJ`: comocadastrarCNPJnologinunico.html
             
