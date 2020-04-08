@@ -3,35 +3,25 @@
 
 Para cadastrar o CNPJ no Login Único:
 
-- Acesse o item de menu "CNPJ" ou Botão "Obter Confiabilidade abaixo" do selo e-CNPJ
+- Cidadão deve clicar o item do menu **CNPJ**.  
 
-.. figure:: _images/telainicialcomocadastrarCNPJ.jpg
-   :align: center
-   :alt: Página Inicial do Login único com destaque as funcionalidades para adquirir o Selo eCNPJ. Ocorre pelo item de Menu CNPJ ou Botão Obter Confiabilidade abaixo do selo eCNPJ  
-  
-- Insira o Certificado Digital Pessoal Jurídica do CNPJ que deseja cadastrar e clique no botão "Validar Informações do eCNPJ"   
+.. figure:: _images/tela_selecao_inicio_processo_colaborador.jpg
+    :align: center
+    :alt: 
 
-.. figure:: _images/telacadastrarCNPJ.jpg
-   :align: center
-   :alt: Página para aquisição do Selo eCNPJ tendo a indicação do botão Validar Informações do eCNPJ
+- Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token). Clica no botão **Validar informações do E-CNPJ**
 
-- Aparecerá tela com as informações do Certificado Digital de Pessoa Jurídica. Confirme as informações e clique no botão "Adquirir o Selo"
+.. figure:: _images/tela_validacao_selo_certificado_digital_pessoa_juridica.jpg
+    :align: center
+    :alt:
+	
+- Cidadão confere as informações presentes no Certificado Digital de Pessoa Jurídica. Clica no botão **Adquirir o Selo**
 
-.. figure:: _images/telamostradetalhesecnpj.jpg
-   :align: center
-   :alt: Tela com apresentação das informações do Certificado Digital de Pessoa Júridica com botão "Adquirir o Selo"
+.. figure:: _images/tela_confirmacao_detalhes_certificado_pessoa_juridica.jpg
+    :align: center
+    :alt:
 
 Lembrando que o certificado digital de pessoa jurídica deve ser do tipo A3 ou A1, compatível com ICP-BRASIL, para cadastrar o CNPJ da pessoa jurídica
 
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- pessoa jurídica, login PJ/Pessoa Jurídica, login empresas, e-cnpj
-- quero ter um login para PJ/Pessoa Jurídica;
-- PJ/Pessoa jurídica tem login e senha
-- existe esse serviço para PJ/Pessoa Jurídica
-- tem serviço para PJ/Pessoa Jurídica
-- PJ/Pessoa Jurídica pode usar o login único/Brasil Cidadão/govbr
-- Tem esse serviço para PJ/Pessoa Jurídica
-   
 .. |site externo| image:: _images/site-ext.gif
             

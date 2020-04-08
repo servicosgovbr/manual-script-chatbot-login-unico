@@ -53,6 +53,16 @@ FAQ Login Único
    _perguntasdafaq/excluircadastro
    _perguntasdafaq/recadastramentoconta
    _perguntasdafaq/obtermaisconfiabilidadenacontadeacesso
+   _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadospessoais
+   _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadosprevidenciarios
+   _perguntasdafaq/comoadquirirseloselobalcaopresencialINSS
+   _perguntasdafaq/comoadquirirselointernetbanking
+   _perguntasdafaq/comoadquirirvalidacaofacial
+   _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
+   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
+   _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
+   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
+   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
    
 .. toctree::
    :maxdepth: 1

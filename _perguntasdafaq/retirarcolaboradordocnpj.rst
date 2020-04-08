@@ -3,36 +3,30 @@
 
 Para realizar a retirara de colaboradores, favor seguir os passos:
 
-1. Acesse o `Módulo Empresas`_ |site externo| e selecione o item **Gestão de Colaboradores**. Lembrar que o responsável pela retirada de colaboradores será o usuário no Login Único que possui `selo eCNPJ`_ e o certificado digital de pessoa jurídica da empresa.    
+- Cidadão deve acessar no menu **CNPJ**.  
 
-.. figure:: _images/telainicialmoduloempresas.jpg
-   :align: center
-   :alt: Página Inicial do módulo empresas que apresenta o CNPJ que o usuário é responsável com itens no menu Gestão de Colaboradores  
+.. figure:: _images/tela_selecao_inicio_processo_colaborador.jpg
+    :align: center
+    :alt: 
 
+- Cidadão clica no botão **Gerenciar Colaboradores**
 
-2. Selecione a empresa que deseja retirar o colaborador
+.. figure:: _images/tela_selecao_sistema_gestao_colaborador.jpg
+    :align: center
+    :alt:
+	
+- Cidadão deve acessar no menu **Gestão de Colaboradores**
 
-.. figure:: _images/telamoduloempresasescolhaempresa.jpg
-   :align: center
-   :alt: Página do módulo empresas que apresenta a seleção de qual empresa o cidadão deseja retirar o colaborador  
+.. figure:: _images/tela_selecionar_modulo_gestao_colaboradores.jpg
+    :align: center
+    :alt:
 
-3. Com a seleção da empresa, será apresentado os colaboradores cadastrados na empresa. Clique no botão **Remover** para descredenciar.
+- Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token) do representante do CNPJ. Localiza o CPF do Colaborador deseja remover. Clica no botão **Remover**
 
-**Prestar atenção**:
- 
-- *O certificado da pessoa juridíca tem estar no computador;* 
-
-.. figure:: _images/telamoduloempresaremover.jpg
-   :align: center
-   :alt: 
-
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- retirar o colaborador
-- o que é colaborador?
-- posso retirar pessoas da minha empresa no Login Único/BRasil Cidadão/govbr
+.. figure:: _images/tela_iniciar_retirar_colaborador.jpg
+    :align: center
+    :alt:
  
 .. |site externo| image:: _images/site-ext.gif
-.. _`Módulo Empresas`: https://empresas.acesso.gov.br
 .. _`selo eCNPJ`: comocadastrarCNPJnologinunico.html
             

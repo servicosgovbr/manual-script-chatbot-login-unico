@@ -3,15 +3,15 @@
 
 Para atualizar o CNPJ no Login Único:
 
-- Acesse o item de menu **CNPJ** ou Botão **Obter Confiabilidade abaixo" do selo e-CNPJ**
+- Cidadão deve clicar o item do menu **CNPJ**.  
 
-.. figure:: _images/telainicialcomocadastrarCNPJ.jpg
-   :align: center
-   :alt: Página Inicial do Login único com destaque as funcionalidades para adquirir o Selo eCNPJ. Ocorre pelo item de Menu CNPJ ou Botão Obter Confiabilidade abaixo do selo eCNPJ  
-  
-- Clique no botão **Desativar**   
+.. figure:: _images/tela_selecao_inicio_processo_colaborador.jpg
+    :align: center
+    :alt: 
 
-.. figure:: _images/tela_CNPJ_com_botao_desativar.png
+- Localiza o CNPJ deseja alterar. Clique no botão **Desativar**   
+
+.. figure:: _images/tela_alterar_cinculo_CNPJ.jpg
    :align: center
    :alt: 
 
@@ -23,11 +23,11 @@ Para atualizar o CNPJ no Login Único:
 
 - Aparecerá tela com a confirmação da desativação do CNPJ antigo
 
-.. figure:: _images/tela_confirmacao_desvinculacao_certificado_CNPJ.png
+.. figure:: _images/tela_confirmacao_desvinculacao_certificado_CNPJ_atual.jpg
    :align: center
    :alt: 
 
 - Após isso, realizar os procedimentos de `Como Cadastrar CNPJ no Login Único?`_ para atualização do CNPJ
-   
+
 .. |site externo| image:: _images/site-ext.gif
 .. _`Como Cadastrar CNPJ no Login Único?` : comocadastrarCNPJnologinunico.html           
