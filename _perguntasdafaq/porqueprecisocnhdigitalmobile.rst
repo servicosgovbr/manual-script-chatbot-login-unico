@@ -1,5 +1,5 @@
-﻿Por que preciso da CNH Digital?
-===============================
+﻿Por que preciso da Carteira Nacional de Habilitação Digital (CNH Digital)?
+=========================================================================
 
 O cadastro da conta de acesso por meio do aplicativo Meu gov.br precisa passar por um processo chamado Validação Facial.
 
