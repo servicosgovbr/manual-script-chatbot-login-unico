@@ -132,5 +132,111 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :align: center
    :alt:
 
+6. Cadastro por meio do Aplicativo Meu gov.br
+--------------------------------------------
+
+- Clique na imagem com texto **Se você possui uma CNH Digital baixe o aplicativo Meu gov.br para criar sua conta através de validação facial. Se já possui o aplicativo clique no logo ao lado ou clique aqui.**
+
+.. figure:: _images/criacaocontaporaplicativomeugovinicio.jpg
+   :align: center
+   :alt:   
+
+- Digite o CPF e clique no botão **GERAR QR-CODE**
+
+.. figure:: _images/digitar_cpf_criacao_conta_com_qr_code.jpg
+   :align: center
+   :alt:   
+
+- O QR-CODE para criação da conta será apresentado em tela.    
+   
+.. figure:: _images/apresentacao_qr_code_antes_aplicativo_govbr.jpg
+   :align: center
+   :alt:   
+
+- Abra o aplicativo Meu gov.br e clique no botão **Ler QR Code gov.br**
+
+.. figure:: _images/tela_inicial_meugov_botao_qr_code.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt:   
+
+- Aponte o celular para tela do computador com intuito de ler o QR-CODE   
+
+.. figure:: _images/tela_leitura_qr_code_aplicativo_govbr.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt:   
+   
+- Marque **Li e concorco com os termos e condições** e clique no botão **Aceitar**.
+
+.. figure:: _images/termo_aceite_govbr_mobile.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt:
+
+- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações. Após, aguarde o aplicativo tirar foto.
+   
+.. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt:   
+
+- Clique no botão **Enviar Foto**  
+
+.. figure:: _images/tela_indicacao_enviar_foto_validacao_govbrmobile.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt: 
+
+- Clique no botão **OK** e continue o processo no computador
+
+.. figure:: _images/tela_confirmacao_validacao_govbr_continuar_computador.jpg
+   :align: center
+   :height: 770 px
+   :width: 400 px
+   :alt:
+
+- Digite o Nome e clique no botão **Seguinte**
+
+.. figure:: _images/preenchimento_nome_cadastramento_conta_govbr_computador.jpg
+   :align: center
+   :alt:   
+
+- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Enviar Código**.   
+   
+.. figure:: _images/tela_envio_codigo_ativacao_conta.jpg
+   :align: center
+   :alt:
+
+- Digite o código de acesso e clique no botão **Confirmar**   
+   
+.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador.jpg
+   :align: center
+   :alt:   
+
+- Clique no botão **Seguinte** para cadastrar senha de acesso
+
+.. figure:: _images/tela_confirmacao_informacoes_email_telefone_govbr_computador.jpg
+   :align: center
+   :alt:   
+
+- Preencha com senha escolhida, marque opção **Eu aceito os termo de uso e política de privacidade** e clique no botão **Criar Conta** para finalizar o cadastro.   
+   
+.. figure:: _images/tela_criacao_senha_govbrmobile_por_computador.jpg
+   :align: center
+   :alt:     
+   
+   
+   
+
+
+   
+   
+   
 .. |site externo| image:: _images/site-ext.gif
             
