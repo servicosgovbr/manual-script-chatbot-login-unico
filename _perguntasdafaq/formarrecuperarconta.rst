@@ -1,7 +1,7 @@
 ﻿Como recuperar conta de acesso?
 ===============================
 
-- Para recuperar conta de acesso, digite o CPF na tela inicial e clique no botão **Proxima**.
+- Para recuperar conta de acesso, digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Proxima**.
 
 .. figure:: _images/telainicialcombotaoproximagovbr_nova.jpg
    :align: center
