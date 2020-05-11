@@ -5,12 +5,8 @@ O cadastro da conta de acesso por meio do aplicativo Meu gov.br precisa passar p
 
 Validação Facial consiste na checagem da pessoa por meio de movimentações aleatórias em frente da câmera frontal do celular e, após, a tiragem de uma foto a ser encaminhada para confirmação na base de dados da Carteira Nacional de Habilitação (CNH).
 
-.. figure:: _images/exemplo_carteira_nacional_digital_transito.jpg
+.. figure:: _images/imagem_carteira_nacional_transito.jpg
    :align: center
    :alt:
-
-
-imagem_carteira_nacional_transito
-   
+  
 .. |site externo| image:: _images/site-ext.gif
-.. _`orientações sobre carteira digital de trânsito`: https://servicos.serpro.gov.br/carteira-digital/            

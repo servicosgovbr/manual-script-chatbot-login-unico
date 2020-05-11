@@ -13,5 +13,5 @@ O Login Único utiliza o QR-CODE para permitir a `criação da conta de acesso`_
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`criação da conta de acesso`: criacaocontapelogovbrmobile.html
-.. _`recuperação da conta de acesso`: esqueciminhasenha.html
+.. _`recuperação da conta de acesso`: formarrecuperarconta.html
             

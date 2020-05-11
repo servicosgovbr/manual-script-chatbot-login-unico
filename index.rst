@@ -22,24 +22,11 @@ FAQ Login Único
 
 .. toctree::
    :maxdepth: 1
-   :caption: Aplicativo Meu Gov.br
-	
-   _perguntasdafaq/oqueemeugovbrmobile
-   _perguntasdafaq/oqueeqrcodemobile
-   _perguntasdafaq/porqueprecisocnhdigitalmobile
-   _perguntasdafaq/criacaocontapelogovbrmobile
-     
+   :caption: Recuperação de Acesso a Conta
    
-.. toctree::
-   :maxdepth: 1
-   :caption: Pessoa Jurídica (CNPJ)
+   _perguntasdafaq/formarrecuperarconta
+   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria   
    
-   _perguntasdafaq/existeloginparapessoajuridica
-   _perguntasdafaq/comocadastrarCNPJnologinunico
-   _perguntasdafaq/cadastrocolaboradordocnpj
-   _perguntasdafaq/retirarcolaboradordocnpj
-   _perguntasdafaq/comosubstituircnpjloginunico
-
 .. toctree::
    :maxdepth: 1
    :caption: Criação de Conta de Acesso 
@@ -54,6 +41,28 @@ FAQ Login Único
    
 .. toctree::
    :maxdepth: 1
+   :caption: Aplicativo Meu Gov.br
+	
+   _perguntasdafaq/oqueemeugovbrmobile
+   _perguntasdafaq/oqueeqrcodemobile
+   _perguntasdafaq/porqueprecisocnhmobile
+   _perguntasdafaq/criacaocontapelogovbrmobile
+     
+   
+.. toctree::
+   :maxdepth: 1
+   :caption: Pessoa Jurídica (CNPJ)
+   
+   _perguntasdafaq/existeloginparapessoajuridica
+   _perguntasdafaq/comocadastrarCNPJnologinunico
+   _perguntasdafaq/cadastrocolaboradordocnpj
+   _perguntasdafaq/retirarcolaboradordocnpj
+   _perguntasdafaq/comosubstituircnpjloginunico
+
+
+   
+.. toctree::
+   :maxdepth: 1
    :caption: Acesso e Manutenção da Conta
    
    _perguntasdafaq/erreiasenha3vezes
@@ -62,6 +71,7 @@ FAQ Login Único
    _perguntasdafaq/alterardadoscadastrais
    _perguntasdafaq/excluircadastro
    _perguntasdafaq/recadastramentoconta
+   _perguntasdafaq/alterarsenha
    _perguntasdafaq/obtermaisconfiabilidadenacontadeacesso
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadospessoais
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadosprevidenciarios
@@ -74,15 +84,6 @@ FAQ Login Único
    _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
    _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
    
-.. toctree::
-   :maxdepth: 1
-   :caption: Recuperação de Acesso a Conta
-   
-   _perguntasdafaq/esqueciminhasenha
-   _perguntasdafaq/alterarsenha
-   _perguntasdafaq/naotenhoacessoaoemailcadastradonologin
-   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria
-
 .. toctree::
    :maxdepth: 1
    :caption: Serviços e Sistemas Integrados
