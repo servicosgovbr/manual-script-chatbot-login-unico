@@ -54,6 +54,8 @@ Ministério da Cidadania
 -----------------------
 
 - `Sistema Progredir`_ |site externo|
+- `CECAD – Consulta, Seleção e Extração de Informações do CadÚnico`_ |site externo|
+- `CENSO CIDADANIA`_ |site externo|
 
 Ministério da Defesa
 --------------------
@@ -90,6 +92,7 @@ Ministério da Economia
 - `Vlibras (Video)`_ |site externo|
 - `Sistema do Modelo de Excelência em Gestão`_ |site externo|
 - `ELK Painéis`_ |site externo|
+- `Conecta GOV`_ |site externo|
 
 Ministério da Educação
 ----------------------
@@ -104,7 +107,6 @@ Ministério da Infraestrutura
 - `Sistema SNE (Web)`_ |site externo|
 - `Sistema Carteira Digital de Transito`_ |site externo|
 - `Portal de Serviços do Denatran`_ |site externo|
-- `CECAD`_ |site externo|
 - `InfraBRCaminhoneiro`_ |site externo|
 .. - `SGA (Sistema de Agenda)`_ |site externo|
 
@@ -127,6 +129,13 @@ Ministério da Transparência
 
 - `Fala.br`_ |site externo|
 - `Sistema eAUD`_ |site externo|
+
+SEBRAE
+------
+
+- `em conta`_ |site externo|
+- `mercado azul` |site externo|
+- `Aplicativo Sebrae` |site externo| 
 
 Acre
 --------------
@@ -399,11 +408,16 @@ Tocantins
 .. _`Vlibras (Video)`: http://video.vlibras.gov.br
 .. _`Sistema do Modelo de Excelência em Gestão` : https://smeg.economia.gov.br/
 .. _`ELK Painéis` : https://paineis.pesquisa.gov.br/
+.. _`Conecta GOV` : https://gestor.conectagov.estaleiro.serpro.gov.br
 
 .. _`ID Estudantil (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.mec.idestudantil
 
 .. _`Fala.br` : https://sistema.ouvidorias.gov.br/publico/Manifestacao/RegistrarManifestacao.aspx?ReturnUrl=%2f
 .. _`Sistema eAUD` : https://eaud.cgu.gov.br/
+
+.. _`em conta` : https://emconta.sebrae.com.br/
+.. _`mercado azul` : https://mercadoazul.sebrae.com.br/
+.. _`Aplicativo Sebrae` : https://apps.apple.com/br/app/sebrae/id1482839375 
 
 .. _`Sistema de Concessão do Passe Livre` : https://passelivre.transportes.gov.br/spl/login.html
 
@@ -420,11 +434,12 @@ Tocantins
 .. _`Sistema Mosaico`: http://sistemashm.anatel.gov.br/se/
 
 .. _`Sistema Progredir` : https://play.google.com/store/apps/details?id=br.gov.mds.progredir
+.. _`CECAD – Consulta, Seleção e Extração de Informações do CadÚnico` : https://aplicacoes.mds.gov.br/sagi/autenticacao/login.php?auth=eyJ0aXBvX2xvZ2luIjoiZ292YnIsbWMiLCJjaGF2ZV9nb3ZiciI6ImNlY2FkIiwiYWxlcnRfbG9naW4iOiJPIENFQ0FEIDIuMCBpbnRlZ3JvdS1zZSBhbyBBY2Vzc28gXHUwMGRhbmljbyBkbyBHb3Zlcm5vIChHb3YuYnIpLiBcbiAgICBEZXNzYSBmb3JtYSBhIHBhcnRpciBkZSBhZ29yYSBvcyB1c3VcdTAwZTFyaW9zIGV4dGVybm9zIGUgb3MgdXN1XHUwMGUxcmlvcyBTQUEgZG8gQ0VDQUQgMi4wIGRldmVyXHUwMGUzbyBvYnJpZ2F0b3JpYW1lbnRlIHNlbGVjaW9uYXIgYSBvcFx1MDBlN1x1MDBlM28gZ292LmJyXG4gICAgcGFyYSBlZmV0aXZhciBzZXUgYWNlc3NvIGFvIHNpc3RlbWEuIE9zIEdlc3RvcmVzIEVzdGFkdWFpcyBlIE11bmljaXBhaXMgcXVlIHV0aWxpemFtIGF1dGVudGljYVx1MDBlN1x1MDBlM28gcGVsbyBTSUdQQkYgY29udGludWFtIGEgcmVhbGl6YXIgc2V1IGFjZXNzbyBwb3IgbWVpbyBkbyBTSUdQQkYuIiwiYWxlcnRfbG9naW5fdHlwZSI6Indhcm5pbmcifQ%3D%3D&url=https://aplicacoes.mds.gov.br/sagi/cecad20/painel03.php
+.. _`CENSO CIDADANIA` : https://aplicacoes.mds.gov.br/sagirmps/autenticacao/login.php?auth=eyJ0aXBvX2xvZ2luIjoiZ292YnIsbWMiLCJjaGF2ZV9nb3ZiciI6ImNlbnNvY2lkYWRhbmlhIn0%3D&url=https://aplicacoes.mds.gov.br/sagirmps/censocidadania/
 
 .. _`Sistema SNE  (Mobile)` : https://play.google.com/store/apps/details?id=br.gov.serpro.denatran.sne&hl=pt_BR
 .. _`Sistema SNE (Web)`:  https://sne.denatran.serpro.gov.br/#/
 .. _`Sistema Carteira Digital de Transito` : https://play.google.com/store/apps/details?id=br.gov.serpro.cnhe&hl=pt_BR 
-.. _`CECAD`: https://aplicacoes.mds.gov.br/sagi/cecad20/
 .. _`InfraBRCaminhoneiro` : https://infrabr.estaleiro.serpro.gov.br
 .. _`Portal de Serviços do Denatran` : https://portalservicos.denatran.serpro.gov.br/#/
 .. _`SGA (Sistema de Agenda)` : https://sga.infraestrutura.gov.br/
