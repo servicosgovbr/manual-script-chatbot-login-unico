@@ -170,9 +170,9 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :align: center
    :alt:
 
-- Digite senha temporária, senha definitiva e marque opção **Não sou robô**. Após, clique no botão **Criar Senha** para criação da conta    
+- Digite senha temporária, senha definitiva e marque opção **Não sou robô**. Após, clique no botão **Concluir** para criação da conta    
 
-.. figure:: _images/tela_senha_temporaria.jpg
+.. figure:: _images/tela_senha_temporaria_novogovbr.jpg
    :align: center
    :alt:   
    

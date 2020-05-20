@@ -17,20 +17,5 @@ Na alteração, o Login Único solicitará digitação de uma código encaminhad
    :align: center
    :alt: Tela da alteração de dados cadastrais com solicitação para digitar o código
 
-   
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- alteração de dados cadastrais
-- alterar meu cadastro/registro/informação
-- alterar dados da minha conta de acesso
-- mudar meu cadastro
-- reeditar meu cadastro
-- preciso mudar meus dados
-- quero refazer meus dados
-- quero adicionar mais informações/dados/campos/
-- posso mudar/modificar/alterar meus dados/informações/registros/
-- quero mudar o meu e-mail cadastrado .
-
-
 .. |site externo| image:: _images/site-ext.gif
             

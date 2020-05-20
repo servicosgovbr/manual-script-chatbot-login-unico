@@ -1,23 +1,23 @@
 ﻿Como Atribuir o Selo Balcão Presencial (INSS)
 ===========================================================================
 
-1- Cidadão deve ir ao posto do INSS presente na região
+1. Cidadão deve ir ao posto do INSS presente na região
 
-2- Atendente do INSS cadastra **senha temporária** para acesso ao Login Único e entrega ao cidadão
+2. Atendente do INSS cadastra **senha temporária** para acesso ao Login Único e entrega ao cidadão
 
-3- Cidadão acessa o Login Único. Digita o CPF e clica no botão **Próxima**
+3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
 
-.. figure:: _images/tela_inicial_login_unico_destaque_proximo.jpg
-    :align: center
-    :alt:
+.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+   :align: center
+   :alt: 
 	
-4- Cidadão digita **senha temporária**, **nova senha**, **repete nova senha**. Clica no botão **Criar Senha**
+4. Cidadão digita **senha temporária**, **nova senha**, **repete nova senha**. Clica no botão **Concluir**
 
-.. figure:: _images/tela_senha_temporaria.jpg
+.. figure:: _images/tela_senha_temporaria_novogovbr.jpg
     :align: center
     :alt:
 
-5- Cidadão adquire **Selo Balcão Presencial (INSS)**. A identificação no Login Único é **Selo Cadastro no INSS**. 	
+5. Cidadão adquire **Selo Balcão Presencial (INSS)**. A identificação no Login Único é **Selo Cadastro no INSS**. 	
 
 
 .. |site externo| image:: _images/site-ext.gif

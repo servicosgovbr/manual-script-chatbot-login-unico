@@ -212,9 +212,9 @@ Existem diversas formas para recuperar conta do Login Único.
    :align: center
    :alt:
 
-- Digite senha temporária, senha definitiva e marque opção **Não sou robô**. Após, clique no botão **Criar Senha** para recuperar a conta    
+- Digite senha temporária, senha definitiva e marque opção **Não sou robô**. Após, clique no botão **Concluir** para recuperar a conta    
 
-.. figure:: _images/tela_senha_temporaria.jpg
+.. figure:: _images/tela_senha_temporaria_novogovbr.jpg
    :align: center
    :alt:   
    

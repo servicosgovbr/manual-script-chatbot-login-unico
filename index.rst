@@ -65,7 +65,7 @@ FAQ Login Único
    :maxdepth: 1
    :caption: Acesso e Manutenção da Conta
    
-   _perguntasdafaq/erreiasenha3vezes
+   
    _perguntasdafaq/naoconsigocadastrarsenha
    _perguntasdafaq/solicitodesbloqueiosenha
    _perguntasdafaq/alterardadoscadastrais
@@ -83,6 +83,7 @@ FAQ Login Único
    _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
    _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
    _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
+..   _perguntasdafaq/erreiasenha3vezes
    
 .. toctree::
    :maxdepth: 1

@@ -1,23 +1,23 @@
 ﻿Como Atribuir o Selo Internet Banking
 =====================================
 
-1- Cidadão deve acessar a conta bancária por meio do Internet Banking (versão WEB) para criar senha temporária. O cidadão deverá verificar quais os `Bancos Permitidos e Passos para Cada Banco para Gerar Senha Temporária`_.     
+1. Cidadão deve acessar a conta bancária por meio do Internet Banking (versão WEB) para criar senha temporária. O cidadão deverá verificar quais os `Bancos Permitidos e Passos para Cada Banco para Gerar Senha Temporária`_.     
 
-2- Cidadão criará senha temporária por meio do acesso ao Internet Banking
+2. Cidadão criará senha temporária por meio do acesso ao Internet Banking
 
-3- Cidadão acessa o Login Único. Digita o CPF e clica no botão **Próxima**
+3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
 
-.. figure:: _images/tela_inicial_login_unico_destaque_proximo.jpg
-    :align: center
-    :alt:
+.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+   :align: center
+   :alt: 
 	
-4- Cidadão digita **senha temporária**, **nova senha**, **repete nova senha**. Clica no botão **Criar Senha**
+4. Cidadão digita **senha temporária**, **nova senha**, **repete nova senha**. Clica no botão **Concluir**
 
-.. figure:: _images/tela_senha_temporaria.jpg
+.. figure:: _images/tela_senha_temporaria_novogovbr.jpg
     :align: center
     :alt:
 
-5- Cidadão adquire **Selo Internet Banking**. A identificação no Login Único é **Selo Cadastro no INSS**. 	
+5. Cidadão adquire **Selo Internet Banking**. A identificação no Login Único é **Selo Cadastro no INSS**. 	
 
 
 .. |site externo| image:: _images/site-ext.gif
