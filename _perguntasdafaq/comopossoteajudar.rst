@@ -8,15 +8,6 @@ O governo tendo preocupação com cidadão disponibiliza uma forma para orientar
 Para isso, favor acessar `Como Podemos te ajudar?`_ , preencher os passos da dúvida ou problema e anexar Print (foto/captura da tela) sobre a dúvida ou problema.
 
 Ausência das informações e do Print (foto/captura da tela) impossibilita análise e retorno.
- 
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- SAC
-- atendimento
-- cliente
-- problema com acesso
-- problema na minha conta
-- ajuda
 
 .. |site externo| image:: _images/site-ext.gif
 .. __`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/login/loginunico.html

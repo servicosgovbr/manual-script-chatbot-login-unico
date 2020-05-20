@@ -11,12 +11,6 @@ Para resolver a situação, favor seguir os passos:
 2. Inserir o e-mail por meio dos passos presentes na `Alteração dos Dados Cadastrais`_;
 3. Realizar autenticação no portal novamente para continuar processo. 
 
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- inserir dados de email no portal da REDESIM
-- inserir dados de email no portal do Empreendedor
-- mensagem Erro ao realizar o login do usuario. Tente Novamente
-
 .. |site externo| image:: _images/site-ext.gif
 .. _`Alteração dos Dados Cadastrais` : alterardadoscadastrais.html
 .. _`REDESIM` : http://www.redesim.gov.br/

@@ -13,14 +13,9 @@ Caso a alteração não tenha ocorrido pelo cidadão de fato, favor realizar os 
 - **CPF do Cidadão**;
 - **Anexar o Print (foto/captura da tela) do e-mail ou SMS recebido com informação da alteração**
  
-4. Recuperar senha. Favor seguir os passos `Esqueci Senha`_.
-
-**Possíveis Palavras/Termos (Utilizado para busca no chatbot)**
-
-- Cadastro Inválido 
-- Não alterei dados cadastrais
+4. Recuperar senha. Favor seguir os passos para `Recuperar Conta`_.
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html
-.. _`Esqueci Senha`: esqueciminhasenha.html
+.. _`Recuperar Conta`: formarrecuperarconta.html
             
