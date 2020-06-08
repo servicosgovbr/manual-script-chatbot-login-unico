@@ -1,4 +1,4 @@
-﻿Cadastrato de Colaborador do CNPJ
+﻿Cadastro de Colaborador do CNPJ
 =================================
 
 O Login Único permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre pela indicação de colaboradores. 
