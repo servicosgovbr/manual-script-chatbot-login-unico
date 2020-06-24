@@ -54,7 +54,7 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :width: 400 px
    :alt:
 
-- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações. Após, aguarde o aplicativo tirar foto.
+- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações.
    
 .. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
    :align: center
@@ -62,7 +62,7 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :width: 400 px
    :alt:   
 
-- Clique no botão **Enviar Foto**  
+- Clique no **botão azul com figura de câmera** 
 
 .. figure:: _images/tela_indicacao_enviar_foto_validacao_govbrmobile.jpg
    :align: center
@@ -78,7 +78,7 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :width: 400 px
    :alt:
 
-- Digite o Nome e clique no botão **Avançar**
+- Digite o Nome , Data de emissão da carteira de motorista(localizada na parte traseira da carteira) e clique no botão **Avançar**
 
 .. figure:: _images/preenchimento_nome_cadastramento_conta_govbr_computador_novogov.jpg
    :align: center

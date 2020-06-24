@@ -56,7 +56,7 @@
    :width: 400 px
    :alt:
 
-- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações. Após, aguarde o aplicativo tirar foto.
+- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações.
    
 .. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
    :align: center
@@ -64,7 +64,7 @@
    :width: 400 px
    :alt:
 
-- Clique no botão **Enviar Foto**  
+- Clique no **botão azul com ícone de câmera**.  
 
 .. figure:: _images/tela_indicacao_enviar_foto_validacao_govbrmobile.jpg
    :align: center
@@ -80,7 +80,7 @@
    :width: 400 px
    :alt:   
 
-- Digite o Nome e clique no botão **Seguinte**
+- Digite o Nome, Data de emissão da carteira de motorista(localizada na parte traseira da carteira) e clique no botão **Avançar**
 
 .. figure:: _images/preenchimento_nome_cadastramento_conta_govbr_mobile.jpg
    :height: 770 px
@@ -88,35 +88,21 @@
    :align: center
    :alt:   
 
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Enviar Código**.   
+- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
    
 .. figure:: _images/tela_envio_codigo_ativacao_conta_mobile.jpg
-   :height: 770 px
-   :width: 400 px
    :align: center
    :alt:
 
-- Digite o código de acesso e clique no botão **Confirmar**   
+- Digite o código de acesso e clique no botão **Avançar**   
    
 .. figure:: _images/tela_digitar_codigo_confirmacao_govbr_mobile.jpg
-   :height: 770 px
-   :width: 400 px
    :align: center
    :alt:   
 
-- Clique no botão **Seguinte** para cadastrar senha de acesso
-
-.. figure:: _images/tela_confirmacao_informacoes_email_telefone_govbr_mobile.jpg
-   :height: 770 px
-   :width: 400 px
-   :align: center
-   :alt:   
-
-- Preencha com senha escolhida, marque opção **Eu aceito os termo de uso e política de privacidade** e clique no botão **Criar Conta** para finalizar o cadastro.   
+- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
    
 .. figure:: _images/tela_criacao_senha_govbrmobile_por_mobile.jpg
-   :height: 770 px
-   :width: 400 px
    :align: center
    :alt:
 
