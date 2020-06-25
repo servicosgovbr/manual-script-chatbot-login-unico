@@ -9,11 +9,11 @@ A autorização de uso de dados do cidadão é o ato de permitir que um determin
 
 Lembrando que você poderá desautorizar o uso de seus dados pessoais a qualquer tempo.
 
-Visualize as autorizações concedidas na opção de menu "Ver Autorizações de Uso de Dados Pessoais" no Login Único
+Visualize as autorizações concedidas na opção de menu **Privacidade** e **Gerenciar Lista de Permissões** no Login Único
 
-.. figure:: _images/autorizacoesusodedados.jpg
+.. figure:: _images/autorizacoesusodedados_novogov.jpg
    :align: center
-   :alt: Tela com funcionalidade Ver Autorizações de Uso de Dados Pessoais ativa e a demonstração da disposição de cada serviço autorizado: figura do serviço, nome do serviço, botão para desautorizar o serviço
+   :alt: 
 
 .. |site externo| image:: _images/site-ext.gif
             
