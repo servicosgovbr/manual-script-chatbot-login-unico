@@ -13,15 +13,21 @@
     :align: center
     :alt:
 
-3. Cidadão deve clicar no botão **Obter** abaixo do **Cadastro validado em base de dados de servidores públicos da União**. Tem se opção de acessar no menu **Obter Confiabilidade Cadastral** e clicar no botão **Obter** abaixo do **Cadastro validado em base de dados de servidores públicos da União**.  
+3. Cidadão deve clicar no menu **Privacidade** e link **Gerenciar lista de selos de confiabilidade**.  
 
-.. figure:: _images/tela_area_cidadao_selo_servidor_publico_marcado.jpg
+.. figure:: _images/tela_area_cidadao_selecao_selos.jpg
     :align: center
-    :alt: 
+    :alt: 	
+	
+4. Selecionar o selo **Cadastro validado em base de dados de servidores públicos da União**
 
-4. Cidadão, servidor público da Únião, deve digitar senha cadastrada no Sistema de Gestão de Acesso `SIGAC/SIGEPE`_ |site externo|. Clica no botão **Validar Senha**
+.. figure:: _images/tela_area_cidadao_selo_cadastro_validacao_dados_servidor_publico.jpg
+    :align: center
+    :alt: 		
+	
+5. Cidadão, servidor público da Únião, deve digitar senha cadastrada no Sistema de Gestão de Acesso `SIGAC/SIGEPE`_ |site externo|. Clica no botão **Validar Senha**
 
-.. figure:: _images/tela_confirmacao_selo_servidor_publico.jpg
+.. figure:: _images/tela_confirmacao_selo_servidor_publico_novo.jpg
     :align: center
     :alt:
 	

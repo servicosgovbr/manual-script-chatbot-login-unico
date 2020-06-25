@@ -13,13 +13,19 @@
     :align: center
     :alt: 
 
-3. Cidadão deve clicar no botão **Obter** abaixo do **Selo Cadastro no INSS**. Tem se opção de acessar no menu **Obter Confiabilidade Cadastral** e clicar no botão **Obter** abaixo do **Selo Cadastro no INSS**.  
+3. Cidadão deve clicar no menu **Privacidade** e link **Gerenciar lista de selos de confiabilidade**.  
 
-.. figure:: _images/tela_area_cidadao_selo_inss_marcado.jpg
+.. figure:: _images/tela_area_cidadao_selecao_selos.jpg
     :align: center
     :alt: 
 
-4. Cidadão deve responder todas perguntas referente ao cadastro presente no INSS / Ministério da Economia. Clica no botão **Continuar** para cada pergunta até finalizar.
+4. Selecionar o selo **Cadastro com validação de dados no INSS**
+
+.. figure:: _images/tela_area_cidadao_selo_cadastro_validacao_dados_inss.jpg
+    :align: center
+    :alt: 	
+	
+5. Cidadão deve responder todas perguntas referente ao cadastro presente no INSS / Ministério da Economia. Clica no botão **Continuar** para cada pergunta até finalizar.
 
 .. figure:: _images/tela_perguntas_inss.jpg
     :align: center

@@ -79,11 +79,11 @@ FAQ Login Único
    _perguntasdafaq/comoadquirirselointernetbanking
    _perguntasdafaq/comoadquirirvalidacaofacial
    _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
-   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
    _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
-   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
-   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
 ..   _perguntasdafaq/erreiasenha3vezes
+..   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
+..   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
+..   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
    
 .. toctree::
    :maxdepth: 1
