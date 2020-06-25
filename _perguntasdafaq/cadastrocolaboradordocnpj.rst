@@ -10,36 +10,40 @@ O Login Único permite o cadastramento de pessoas que não pertencem diretamente
 
 Para realizar o cadastramento de colaboradores, favor seguir os passos:
 
-- Cidadão deve acessar no menu **CNPJ**.  
+1. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token).
 
-.. figure:: _images/tela_selecao_inicio_processo_colaborador.jpg
+2. Selecione opção **Certificado Digital** na tela inicial do https://acesso.gov.br.
+
+.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_novo.jpg
+   :align: center
+   :alt: 
+
+3. Siga os procedimentos específicos do tipo de Certificado Digital selecionado para digitar senha e continuar o processo.   
+
+4. Selecione menu **Vincular Empresas via e-CNPJ**, link **Gerenciar Vínculos com Empresas**.
+
+.. figure:: _images/tela_inicial_vincular_empresas_via_ecnpj_novo.jpg
     :align: center
-    :alt: 
+    :alt:
 
-- Cidadão clica no botão **Gerenciar Colaboradores**
+5. Clica no nome da empresa deseja cadastrar os colaboradores. 	
 
-.. figure:: _images/tela_selecao_sistema_gestao_colaborador.jpg
+.. figure:: _images/tela_selecionar_empresa_cadastrar_colaboradores.jpg	
     :align: center
     :alt:
 	
-- Cidadão deve acessar no menu **Gestão de Colaboradores**
+6. Digita o CPF que deseja vincular ao CNPJ (CPF deverá estar cadastrado no Login Único). Clica no botão **Buscar**
 
-.. figure:: _images/tela_selecionar_modulo_gestao_colaboradores.jpg
+.. figure:: _images/tela_pesquisar_cpf_cadastrar_colaborador_novo.jpg
     :align: center
     :alt:
 
-- Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token) do representante do CNPJ. Digita o CPF que deseja vincular ao CNPJ (CPF deverá estar cadastrado no Login Único). Clica no botão **Buscar**
+7. Cidadão digita data de expiração que CPF representará o CNPJ (A data de expiração da atuação do colaborador deverá ser até data de validade do certificado digital de pessoa jurídica responsável pelo cadastro do CNPJ. O sistema verificará informação para permitir o colaborador). Clica no botão **Cadastrar**
 
-.. figure:: _images/tela_iniciar_cadastro_colaborador.jpg
+.. figure:: _images/tela_finalizacao_cadastro_colaborador_novo.jpg
     :align: center
     :alt:
-
-- Cidadão digita data de expiração que CPF representará o CNPJ (A data de expiração da atuação do colaborador deverá ser até data de validade do certificado digital de pessoa jurídica responsável pelo cadastro do CNPJ. O sistema verificará informação para permitir o colaborador). Clica no botão **Cadastrar**
-
-.. figure:: _images/tela_finalizacao_cadastro_colaborador.jpg
-    :align: center
- 
+	
 .. |site externo| image:: _images/site-ext.gif
-.. _`Módulo Empresas`: https://empresas.acesso.gov.br
 .. _`Cadastro do CNPJ no Login Único`: comocadastrarCNPJnologinunico.html
             

@@ -1,29 +1,33 @@
 ﻿Retirar Colaborador do CNPJ
-=================================
+===========================
 
-Para realizar a retirara de colaboradores, favor seguir os passos:
+Para realizar a retirada de colaboradores, favor seguir os passos:
 
-- Cidadão deve acessar no menu **CNPJ**.  
+1. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token).
 
-.. figure:: _images/tela_selecao_inicio_processo_colaborador.jpg
-    :align: center
-    :alt: 
+2. Selecione opção **Certificado Digital** na tela inicial do https://acesso.gov.br.
 
-- Cidadão clica no botão **Gerenciar Colaboradores**
+.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_novo.jpg
+   :align: center
+   :alt: 
 
-.. figure:: _images/tela_selecao_sistema_gestao_colaborador.jpg
-    :align: center
-    :alt:
-	
-- Cidadão deve acessar no menu **Gestão de Colaboradores**
+3. Siga os procedimentos específicos do tipo de Certificado Digital selecionado para digitar senha e continuar o processo.   
 
-.. figure:: _images/tela_selecionar_modulo_gestao_colaboradores.jpg
+4. Selecione menu **Vincular Empresas via e-CNPJ**, link **Gerenciar Vínculos com Empresas**.
+
+.. figure:: _images/tela_inicial_vincular_empresas_via_ecnpj_novo.jpg
     :align: center
     :alt:
 
-- Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token) do representante do CNPJ. Localiza o CPF do Colaborador deseja remover. Clica no botão **Remover**
+5. Clica no nome da empresa deseja retirar os colaboradores. 	
 
-.. figure:: _images/tela_iniciar_retirar_colaborador.jpg
+.. figure:: _images/tela_selecionar_empresa_cadastrar_colaboradores.jpg	
+    :align: center
+    :alt:
+
+6. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token) do representante do CNPJ. Localiza o CPF do Colaborador deseja remover. Clica no **botão com ícone de lixo na cor azul**
+
+.. figure:: _images/tela_iniciar_retirar_colaborador_novo.jpg
     :align: center
     :alt:
  
