@@ -25,12 +25,12 @@ O mapeamento entre nível e selo presente no Login Único será apresentado para
 3. **Nível Verificado**
 
 - **Selo Balcão Presencial (INSS)**: Validação do cadastro do cidadão por meio do Balcão presencial localizado nas agências do INSS. `Orientações para aquisição do Selo Balcão Presencial (INSS)`_.  
-- **Selo Balcão Presencial (Correios)**: Validação do cadastro do cidadão por meio do Balcão presencial localizado nas agências dos Correios. 
+- **Selo Balcão Presencial (Correios)**: Validação do cadastro do cidadão por meio do Balcão presencial localizado nas agências dos Correios. `Orientações para aquisição do Selo Balcão Presencial (Correios)`_.
 - **Selo Internet Banking**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking dos bancos conveniados. `Orientações para aquisição do Selo Internet Banking`_.
-- **Selo Internet Banking (Banco do Brasil)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Brasil. 
 - **Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União**: Validação do cadastro por meio de base de dados de Servidores Públicos da União. `Orientações para aquisição do Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União`_.
 - **Selo Validação Facial**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação é a da Carteira Nacional de Habilitação (Ministério da Infraestrutura / Denatran). `Orientações para aquisição do Selo Validação Facial`_.
 .. - **Selo de Validação de Biometria da Digital**: Validação do cadastro do cidadão por meio de chegagem da biometria da digital. `Orientações para aquisição do Selo de Validação de Biometria da Digital`_.
+.. - **Selo Internet Banking (Banco do Brasil)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Brasil. 
 
 4. **Nível Comprovado**
 
@@ -45,6 +45,7 @@ O mapeamento entre nível e selo presente no Login Único será apresentado para
 .. _`Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Pessoais` : comoadquirirselocadastrobasicovalidacaodadospessoais.html   
 .. _`Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Previdênciarios` : comoadquirirselocadastrobasicovalidacaodadosprevidenciarios.html
 .. _`Orientações para aquisição do Selo Balcão Presencial (INSS)` : comoadquirirseloselobalcaopresencialINSS.html
+.. _`Orientações para aquisição do Selo Balcão Presencial (Correios)` : comoadquirirseloselobalcaopresenciaCORREIOS.html
 .. _`Orientações para aquisição do Selo Internet Banking` : comoadquirirselointernetbanking.html
 .. _`Orientações para aquisição do Selo Validação Facial` : comoadquirirvalidacaofacial.html
 .. _`Orientações para aquisição do Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União` : comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao.html

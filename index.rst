@@ -76,6 +76,7 @@ FAQ Login Único
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadospessoais
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadosprevidenciarios
    _perguntasdafaq/comoadquirirseloselobalcaopresencialINSS
+   _perguntasdafaq/comoadquirirseloselobalcaopresenciaCORREIOS
    _perguntasdafaq/comoadquirirselointernetbanking
    _perguntasdafaq/comoadquirirvalidacaofacial
    _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
