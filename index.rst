@@ -80,6 +80,7 @@ FAQ Login Único
    _perguntasdafaq/comoadquirirselointernetbanking
    _perguntasdafaq/comoadquirirvalidacaofacial
    _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
+   _perguntasdafaq/comoadquirircadastroviainternetbankingbancobrasil
    _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
 ..   _perguntasdafaq/erreiasenha3vezes
 ..   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
