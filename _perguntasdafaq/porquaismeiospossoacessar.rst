@@ -1,15 +1,15 @@
 ﻿Por quais meios posso acessar?
 ==============================
 
-O Login Único pode ser acessado por:
+A Conta gov.br pode ser acessada por:
 
 - Computador
 - Laptop/notebook
 - Smartphone
 
-Acesso ao `Login Unico`_ |site externo|   
+Acesso a `Conta gov.br`_ |site externo|   
 
-.. _`Login Unico`: https://acesso.gov.br
+.. _`Conta gov.br`: https://acesso.gov.br
 
 .. |site externo| image:: _images/site-ext.gif
             

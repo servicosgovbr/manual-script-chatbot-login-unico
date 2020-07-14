@@ -10,7 +10,7 @@ O projeto da Plataforma de Cidadania Digital, instituido pelo `Decreto n° 8.936
 - Política de Governança Digital, por meio do `Decreto n° 8.638 de 15 de janeiro de 2016`_ |site externo|, bem como pelas
 - Políticas de Governo Digital com enfoque no cidadão
 
-concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o projeto Login Único.
+concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o projeto Conta gov.br.
 
 .. _`Decreto n° 8.936, de 19 de dezembro de 2016`: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Decreto/D8936.htm
 .. _`Decreto n° 8.789, de 29 de junho de 2016`: http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2016/Decreto/D8789.htm

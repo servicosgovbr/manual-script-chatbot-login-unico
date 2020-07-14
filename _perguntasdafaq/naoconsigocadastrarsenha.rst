@@ -1,7 +1,7 @@
 ﻿Não consigo cadastrar senha?
 ============================
 
-Senhas das contas do Login Único devem ter entre 8(oito) e (70) setenta caracteres. 
+Senhas das contas devem ter entre 8(oito) e (70) setenta caracteres. 
 
 Podem incluir:
 

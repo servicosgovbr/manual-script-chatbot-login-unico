@@ -13,7 +13,7 @@
    :align: center
    :alt:
 
-Existem diversas formas para recuperar conta do Login Único.
+Existem diversas formas para recuperar conta.
 
 .. figure:: _images/telaopcoesrecuperarsehanormal_novagovbr.jpg
    :align: center
@@ -206,7 +206,7 @@ Existem diversas formas para recuperar conta do Login Único.
 
 -  Existem alguns bancos conveniados para permitir a recuperação da conta por meio da geração de uma senha temporária. A senha deverá ser trocada no acesso. Para isso, `acesse o passo a passo de cada banco`_.
    
-- De posse da senha temporária, retorne tela inicial do login, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
+- De posse da senha temporária, retorne tela inicial, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
 
 .. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
    :align: center
@@ -220,5 +220,5 @@ Existem diversas formas para recuperar conta do Login Único.
    
 .. |site externo| image:: _images/site-ext.gif
 .. _`orientações para solicitar alteração`: naotenhoacessoaoemailcadastradonologin.html 
-.. _`acesse o passo a passo de cada banco` : naotenhoacessoaaminhasenhatemporaria.html
+.. _`acesse o passo a passo de cada banco` : comocadastrarsenhatemporariadosbancosconveniados.html
  

@@ -1,7 +1,9 @@
 ﻿O usuário já possui cadastro no Sistema
 =======================================
 
-Algum momento o cidadão realizou o cadastro no Login Único. Não existe opção de excluir conta no Login Único 
+Algum momento o cidadão realizou o cadastro.
+
+Não existe opção de excluir a Conta gov.br. 
 
 Caso não lembre da senha, favor realizar os `passos para recuperação de senha`_.
 

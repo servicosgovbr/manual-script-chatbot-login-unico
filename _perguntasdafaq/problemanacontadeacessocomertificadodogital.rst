@@ -1,7 +1,7 @@
 ﻿Problema conta de acesso com certificado digital?
 =================================================
 
-Antes, o cidadão precisa ter realizado os procedimentos para `Criar Conta de Acesso`_ para poder realizar os procedimentos abaixo.
+Antes, o cidadão precisa ter `Criado a Conta de Acesso`_ para poder realizar os procedimentos abaixo.
 
 Favor realizar os procedimentos:
 
@@ -20,4 +20,4 @@ Favor realizar os procedimentos:
 .. _`Certificado AC Brasil` : https://www.iti.gov.br/repositorio/repositorio-ac-raiz  
 .. _`Certificado AC da Secretaria da Receita Federal do Brasil` : https://www.iti.gov.br/repositorio/cadeias-da-icp-brasil/86-cadeias-da-icp-brasil/251-ac-receita-federal-do-brasil
 .. _`Certificado AC do SERPRO`: https://www.iti.gov.br/repositorio/86-cadeias-da-icp-brasil/401-ac-serpro
-.. _`Criar Conta de Acesso`: contaacesso.html
+.. _`Criado a Conta de Acesso`: contaacesso.html

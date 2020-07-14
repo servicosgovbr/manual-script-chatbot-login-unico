@@ -266,5 +266,5 @@
    
 .. |site externo| image:: _images/site-ext.gif
 .. _`Orientações para baixar o aplicativo Meu GOV.BR` : oqueemeugovbrmobile.html
-.. _`acesse o passo a passo de cada banco` : naotenhoacessoaaminhasenhatemporaria.html
+.. _`acesse o passo a passo de cada banco` : comocadastrarsenhatemporariadosbancosconveniados.html
             

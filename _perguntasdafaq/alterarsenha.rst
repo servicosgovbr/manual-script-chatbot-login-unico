@@ -1,7 +1,7 @@
 ﻿Alterar Senha
 ==============
 
-Você pode alterar a sua senha a qualquer tempo na opção **Alterar Senha** na tela inicial do Login Único
+Você pode alterar a sua senha a qualquer tempo na opção **Alterar Senha** na tela inicial da Conta gov.br
 
 .. figure:: _images/alteracaosenhatelainicial_novo.jpg
    :align: center

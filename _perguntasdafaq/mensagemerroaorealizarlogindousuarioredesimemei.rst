@@ -7,7 +7,7 @@ Caso o e-mail não esteja cadastrado, os portais apresentam a mensagem **Erro ao
 
 Para resolver a situação, favor seguir os passos:
 
-1. Acessar o `Login Único`_;
+1. Acessar a `Conta gov.br`_;
 2. Inserir o e-mail por meio dos passos presentes na `Alteração dos Dados Cadastrais`_;
 3. Realizar autenticação no portal novamente para continuar processo. 
 
@@ -15,4 +15,4 @@ Para resolver a situação, favor seguir os passos:
 .. _`Alteração dos Dados Cadastrais` : alterardadoscadastrais.html
 .. _`REDESIM` : http://www.redesim.gov.br/
 .. _`Empreendedor` : http://www.portaldoempreendedor.gov.br/
-.. _`Login Único` : https://sso.acesso.gov.br            
+.. _`Conta gov.br` : https://sso.acesso.gov.br            

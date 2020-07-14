@@ -9,7 +9,7 @@ Consiste em um gráfico 2D que pode ser lido pelas câmeras dos celulares.
    :align: center
    :alt:
  
-O Login Único utiliza o QR-CODE para permitir a `criação da conta de acesso`_ e a `recuperação da conta de acesso`_.
+A Conta gov.br utiliza o QR-CODE para permitir a `criação da conta de acesso`_ e a `recuperação da conta de acesso`_.
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`criação da conta de acesso`: criacaocontapelogovbrmobile.html

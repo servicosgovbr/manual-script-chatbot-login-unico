@@ -1,7 +1,7 @@
 ﻿Dúvidas em Serviços Específicos
 ===============================
 
-O Login Único é uma ferramenta de autenticação
+A Conta gov.br é uma ferramenta de autenticação
 
 Caso possua dúvidas relacionadas a algum serviço público digital específico, então você deve procurar a central de atendimento deste serviço.
 

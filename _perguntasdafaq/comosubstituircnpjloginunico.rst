@@ -1,7 +1,7 @@
-﻿Como Atualizar CNPJ no Login Único?
-==================================
+﻿Como Atualizar CNPJ?
+====================
 
-Para atualizar o CNPJ no Login Único:
+Para atualizar o CNPJ:
 
 1. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token).
 
@@ -31,7 +31,7 @@ Para atualizar o CNPJ no Login Único:
    :align: center
    :alt: 
 
-7. Após isso, realizar os procedimentos de `Como Cadastrar CNPJ no Login Único?`_ para atualização do CNPJ
+7. Após isso, realizar os procedimentos de `Como Cadastrar CNPJ?`_ para atualização do CNPJ
 
 .. |site externo| image:: _images/site-ext.gif
-.. _`Como Cadastrar CNPJ no Login Único?` : comocadastrarCNPJnologinunico.html           
+.. _`Como Cadastrar CNPJ?` : comocadastrarCNPJnologinunico.html           

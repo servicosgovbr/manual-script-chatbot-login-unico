@@ -1,7 +1,7 @@
 ﻿Não alterei meus dados cadastrais
 =================================
 
-As informações utilizadas para realizar o cadastro do Login Único pertencem ao cidadão.
+As informações utilizadas para realizar o cadastro pertencem ao cidadão.
 
 Caso a alteração não tenha ocorrido pelo cidadão de fato, favor realizar os procedimentos: 
 

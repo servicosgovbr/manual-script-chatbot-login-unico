@@ -17,7 +17,7 @@
     :align: center
     :alt:
 
-5. Cidadão adquire **Selo Balcão Presencial (INSS)**. A identificação no Login Único é **Selo Cadastro no INSS**. 	
+5. Cidadão adquire **Selo Balcão Presencial (INSS)**. A identificação na Conta gov.br é **Selo Cadastro no INSS**. 	
 
 
 .. |site externo| image:: _images/site-ext.gif

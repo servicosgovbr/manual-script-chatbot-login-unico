@@ -3,7 +3,7 @@
 
 Sim. Siga os passos para `criar conta com certificado digital`_ e `criar conta com certificado digital em nuvem`_. 
 
-O Certificado digital aceito pelo Brasil Cidadão é dos tipos A1 e A3. 
+O Certificado digital aceito é dos tipos A1 e A3. 
 
 É necessário a instalação do `drive do certificado digital`_ |site externo| do dispositivo no computador. 
 

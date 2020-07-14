@@ -1,10 +1,10 @@
-.. FAQ Login Único master file, created by
+.. Dúvidas Frequentes do Login Único master file, created by
    sphinx-quickstart on Thu Mar  7 09:24:17 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-FAQ Login Único
-===============
+Dúvidas Frequentes do Login Único
+=================================
 
 .. toctree::
    :maxdepth: 1
@@ -25,7 +25,10 @@ FAQ Login Único
    :caption: Recuperação de Acesso a Conta
    
    _perguntasdafaq/formarrecuperarconta
-   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria   
+   _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
+   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria
+   _perguntasdafaq/naomelembrotercadastrado
+   _perguntasdafaq/naoreconhecoemailoutelefonecadastrado    
    
 .. toctree::
    :maxdepth: 1

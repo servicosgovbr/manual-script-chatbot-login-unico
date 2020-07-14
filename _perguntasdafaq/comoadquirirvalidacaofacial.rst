@@ -11,7 +11,7 @@
 
 3. Clique no botão **Entrar com gov.br**
 
-.. figure:: _images/imagem_tela_inicial_botoes_meu_gov_mobile_2_versao_entrar.jpg
+.. figure:: _images/imagem_tela_inicial_botoes_meu_gov_mobile_3_versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px

@@ -1,7 +1,7 @@
-﻿Como Cadastrar CNPJ no Login Único?
-==================================
+﻿Como Cadastrar CNPJ?
+====================
 
-Para cadastrar o CNPJ no Login Único:
+Para cadastrar o CNPJ:
 
 1. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token ou Certificado em Nuvem).
 

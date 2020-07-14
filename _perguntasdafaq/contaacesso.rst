@@ -7,7 +7,7 @@ Para criar uma conta de acesso, clique no botão **Crie sua conta gov br** na te
    :align: center
    :alt: 
 
-Existem diversas formas para realizar o cadastro no Login Único.
+Existem diversas formas para realizar o cadastro.
 
 1. Cadastro por meio do Aplicativo Meu gov.br
 --------------------------------------------
@@ -164,7 +164,7 @@ Existem diversas formas para realizar o cadastro no Login Único.
 
 - Existem alguns bancos conveniados para permitir a criação da conta por meio da geração de uma senha temporária. A senha deverá ser trocada no primeiro acesso. Para isso, acesse o passo a passo de cada banco presente no link `acesse o passo a passo de cada banco`_.
 
-- De posse da senha temporária, retorne tela inicial do login, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
+- De posse da senha temporária, retorne tela inicial, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
 
 .. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
    :align: center
@@ -299,6 +299,6 @@ Existem diversas formas para realizar o cadastro no Login Único.
    :align: center
    :alt:
    
-.. _`acesse o passo a passo de cada banco` : naotenhoacessoaaminhasenhatemporaria.html   
+.. _`acesse o passo a passo de cada banco` : comocadastrarsenhatemporariadosbancosconveniados.html   
 .. |site externo| image:: _images/site-ext.gif
             

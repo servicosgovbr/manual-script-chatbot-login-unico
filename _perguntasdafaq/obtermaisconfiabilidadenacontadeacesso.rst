@@ -12,7 +12,7 @@ Os Selos de Confiabilidade estão presentes em cada nível de autenticação e c
 
 Uso possível para os nívels e os selos é o aumento da confiança cadastral pelos serviços para aplicar controle de acesso às funcionalidades mais críticas.
 
-O mapeamento entre nível e selo presente no Login Único será apresentado para determinar como sistema integrado deverá receber a conta do cidadão.
+O mapeamento entre nível e selo será apresentado para determinar como sistema integrado deverá receber a conta do cidadão.
 
 1. **Nível Básico**
 
@@ -37,7 +37,7 @@ O mapeamento entre nível e selo presente no Login Único será apresentado para
 
 - **Selo de Certificado Digital de Pessoa Física**: Validação do cadastro do cidadão por meio da utilização de certificado digital de pessoal física. `Orientações para aquisição do Selo de Certificado Digital de Pessoa Física`_.  
 
-**Importante: Quando o cidadão adquire um selo do nível, automaticamente o Login Único considera a conta está presente no nível do selo adquirido e não disponibiliza os outros selos. Exemplo: A conta adquiriu o selo de Validação Facial do nível Verificado. Momento que realizar novo acesso, não existirá os selos Selo Balcão Presencial (INSS), Selo Internet Banking, Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União.** 
+**Importante: Quando o cidadão adquire um selo do nível, automaticamente a conta está presente no nível do selo adquirido e não disponibiliza os outros selos. Exemplo: A conta adquiriu o selo de Validação Facial do nível Verificado. Momento que realizar novo acesso, não existirá os selos Selo Balcão Presencial (INSS), Selo Internet Banking, Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União.** 
     
 .. |site externo| image:: _images/site-ext.gif
 .. _`LEI Nº 13.444, DE 11 DE MAIO DE 2017`: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13444.htm

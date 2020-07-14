@@ -1,11 +1,11 @@
 ﻿Cadastro de Colaborador do CNPJ
 =================================
 
-O Login Único permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre pela indicação de colaboradores. 
+A Conta gov.br permite o cadastramento de pessoas que não pertencem diretamente a empresa. Esse cadastro ocorre pela indicação de colaboradores. 
 
 **Atenção:** 
 
-1. O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos presentes para `Cadastro do CNPJ no Login Único`_.
+1. O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos presentes para `Cadastro do CNPJ`_.
 2. O colaborador deverá ter cadastro no Login Único
 
 Para realizar o cadastramento de colaboradores, favor seguir os passos:
@@ -32,7 +32,7 @@ Para realizar o cadastramento de colaboradores, favor seguir os passos:
     :align: center
     :alt:
 	
-6. Digita o CPF que deseja vincular ao CNPJ (CPF deverá estar cadastrado no Login Único). Clica no botão **Buscar**
+6. Digita o CPF que deseja vincular ao CNPJ (CPF deverá estar cadastrado na Conta gov.br). Clica no botão **Buscar**
 
 .. figure:: _images/tela_pesquisar_cpf_cadastrar_colaborador_novo.jpg
     :align: center
@@ -45,5 +45,5 @@ Para realizar o cadastramento de colaboradores, favor seguir os passos:
     :alt:
 	
 .. |site externo| image:: _images/site-ext.gif
-.. _`Cadastro do CNPJ no Login Único`: comocadastrarCNPJnologinunico.html
+.. _`Cadastro do CNPJ`: comocadastrarCNPJnologinunico.html
             
