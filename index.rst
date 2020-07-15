@@ -1,3 +1,20 @@
+.. raw:: html
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+    $( function() {
+      $( "#accordion" ).accordion({
+        heightStyle: "content"
+      });
+    } );
+    </script>
+    <style>
+    .ui-widget-content a { color: #2980b9;}
+    .ui-widget-content a:visited { color: #9b59b6;}
+    </style>
+
 .. Dúvidas Frequentes da Conta gov.br master file, created by
    sphinx-quickstart on Thu Mar  7 09:24:17 2019.
    You can adapt this file completely to your liking, but it should at least
@@ -12,9 +29,14 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 
 .. _`criar sua conta` : _perguntasdafaq/contaacesso.html
 
+
+.. raw:: html
+   
+   <div id=accordion>
+   <h3>Sobre</h3>
+   <div>
 .. toctree::
    :maxdepth: 1
-   :caption: Sobre
 
    _perguntasdafaq/oquee
    _perguntasdafaq/porquaismeiospossoacessar
@@ -26,19 +48,28 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/navegador
    _perguntasdafaq/porquemfoicriado
 
+.. raw:: html
+
+   </div>
+   <h3>Recuperação de Acesso a Conta</h3>
+   <div>
 .. toctree::
    :maxdepth: 1
-   :caption: Recuperação de Acesso a Conta
    
    _perguntasdafaq/formarrecuperarconta
    _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
    _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria
    _perguntasdafaq/naomelembrotercadastrado
    _perguntasdafaq/naoreconhecoemailoutelefonecadastrado    
+
+.. raw:: html
+
+   </div>
+   <h3> Criação de Conta de Acesso</h3>
+   <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Criação de Conta de Acesso 
    
    _perguntasdafaq/contaacesso
    _perguntasdafaq/epossivelcriarcontadeacessocomcertificadodigital
@@ -47,20 +78,29 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/mensagemousuariojapossuicadastronosistema
    _perguntasdafaq/ondedizdigiteoseuCPFeparabotarnumeros
    _perguntasdafaq/cpfinvalido
+
+.. raw:: html
+
+   </div>
+   <h3> Aplicativo Meu Gov.br</h3>
+   <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Aplicativo Meu Gov.br
 	
    _perguntasdafaq/oqueemeugovbrmobile
    _perguntasdafaq/oqueeqrcodemobile
    _perguntasdafaq/porqueprecisocnhmobile
    _perguntasdafaq/criacaocontapelogovbrmobile
      
+.. raw:: html
+
+   </div>
+   <h3> Pessoa Jurídica (CNPJ) </h3>
+   <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Pessoa Jurídica (CNPJ)
    
    _perguntasdafaq/comocadastrarCNPJnologinunico
    _perguntasdafaq/cadastrocolaboradordocnpj
@@ -68,12 +108,14 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/comosubstituircnpjloginunico
 ..   _perguntasdafaq/existeloginparapessoajuridica
 
+.. raw:: html
 
+   </div>
+   <h3>Acesso e Manutenção da Conta</h3>
+   <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Acesso e Manutenção da Conta
-   
    
    _perguntasdafaq/naoconsigocadastrarsenha
    _perguntasdafaq/solicitodesbloqueiosenha
@@ -95,6 +137,13 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 ..   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
 ..   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
 ..   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
+
+.. raw:: html
+   
+   </div>
+   <h3>Serviços e Sistemas Integrados</h3>
+   <div>
+   
    
 .. toctree::
    :maxdepth: 1
@@ -103,22 +152,36 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/duvidasemservicosespecificos
 ..   _perguntasdafaq/orgaosesistemasutilizamloginunico
 
+.. raw:: html
+
+   </div>
+   <h3> Problemas na Conta</h3>
+   <div>
+
 .. toctree::
    :maxdepth: 1
-   :caption: Problemas na Conta
    
    _perguntasdafaq/naoaltereimeusdadoscadastrais
    _perguntasdafaq/mensagemerroaorealizarlogindousuarioredesimemei
    _perguntasdafaq/problemanacontadeacessocomertificadodogital
    _perguntasdafaq/comopossoteajudar
 ..   _perguntasdafaq/problemanacontadeacess
+
+.. raw:: html
+
+   </div>
+   
  
 .. .. toctree::
    :maxdepth: 1
    :caption: Novidades e Atualizações
    
    _perguntasdafaq/novidadeseatualiacoes
+
+.. raw:: html
    
+   </div>
+
 .. _perguntasdafaq/erronologinunico (comentado conforme orientação do Hudson)
 
 
