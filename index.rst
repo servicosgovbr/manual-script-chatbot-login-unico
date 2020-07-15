@@ -71,7 +71,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
 
    </div>
-   <h3> Criação de Conta de Acesso</h3>
+   <h3>Criação de Conta de Acesso</h3>
    <div>
    
 .. toctree::
@@ -89,7 +89,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
 
    </div>
-   <h3> Aplicativo Meu Gov.br</h3>
+   <h3>Aplicativo Meu Gov.br</h3>
    <div>
    
 .. toctree::
@@ -104,7 +104,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
 
    </div>
-   <h3> Pessoa Jurídica (CNPJ) </h3>
+   <h3>Pessoa Jurídica (CNPJ)</h3>
    <div>
    
 .. toctree::
@@ -165,7 +165,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
 
    </div>
-   <h3> Problemas na Conta</h3>
+   <h3>Problemas na Conta</h3>
    <div>
 
 .. toctree::
