@@ -13,6 +13,7 @@
     <style>
     .ui-widget-content a { color: #2980b9;}
     .ui-widget-content a:visited { color: #9b59b6;}
+    .toctree-wrapper > p.caption { display:none}
     </style>
 
 .. Dúvidas Frequentes da Conta gov.br master file, created by
@@ -37,6 +38,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    <div>
 .. toctree::
    :maxdepth: 1
+   :caption: Sobre
 
    _perguntasdafaq/oquee
    _perguntasdafaq/porquaismeiospossoacessar
@@ -55,6 +57,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    <div>
 .. toctree::
    :maxdepth: 1
+   :caption: Recuperação de Acesso a Conta
    
    _perguntasdafaq/formarrecuperarconta
    _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
@@ -70,6 +73,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    
 .. toctree::
    :maxdepth: 1
+   :caption: Criação de Conta de Acesso
    
    _perguntasdafaq/contaacesso
    _perguntasdafaq/epossivelcriarcontadeacessocomcertificadodigital
@@ -87,6 +91,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    
 .. toctree::
    :maxdepth: 1
+   :catption: Aplicativo Meu Gov.br
 	
    _perguntasdafaq/oqueemeugovbrmobile
    _perguntasdafaq/oqueeqrcodemobile
@@ -101,6 +106,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    
 .. toctree::
    :maxdepth: 1
+   :caption: Pessoa Jurídica (CNPJ)
    
    _perguntasdafaq/comocadastrarCNPJnologinunico
    _perguntasdafaq/cadastrocolaboradordocnpj
@@ -116,6 +122,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    
 .. toctree::
    :maxdepth: 1
+   :caption: Acesso e Manutenção da Conta
    
    _perguntasdafaq/naoconsigocadastrarsenha
    _perguntasdafaq/solicitodesbloqueiosenha
@@ -160,6 +167,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 
 .. toctree::
    :maxdepth: 1
+   :caption: Problemas na Conta
    
    _perguntasdafaq/naoaltereimeusdadoscadastrais
    _perguntasdafaq/mensagemerroaorealizarlogindousuarioredesimemei
