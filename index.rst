@@ -6,6 +6,12 @@
 Dúvidas Frequentes da Conta gov.br
 =================================
 
+A conta gov.br é uma maneira segura para ter acesso a milhares de serviços públicos digitais integrados à plataforma gov.br,utilizando computador, notebook, tablet ou smartphone. 
+
+Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
+
+.. _`criar sua conta` : _perguntasdafaq/contaacesso.html
+
 .. toctree::
    :maxdepth: 1
    :caption: Sobre
