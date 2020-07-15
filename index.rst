@@ -37,6 +37,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    <div id=accordion>
    <h3>Sobre</h3>
    <div>
+   
 .. toctree::
    :maxdepth: 1
    :caption: Sobre
@@ -56,6 +57,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    </div>
    <h3>Recuperação de Acesso a Conta</h3>
    <div>
+   
 .. toctree::
    :maxdepth: 1
    :caption: Recuperação de Acesso a Conta
@@ -92,8 +94,8 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    
 .. toctree::
    :maxdepth: 1
-   :catption: Aplicativo Meu Gov.br
-	
+   :caption: Aplicativo Meu Gov.br
+		
    _perguntasdafaq/oqueemeugovbrmobile
    _perguntasdafaq/oqueeqrcodemobile
    _perguntasdafaq/porqueprecisocnhmobile
