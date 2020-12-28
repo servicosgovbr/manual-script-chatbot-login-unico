@@ -127,6 +127,9 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    :maxdepth: 1
    :caption: Acesso e Manutenção da Conta
    
+   _perguntasdafaq/oqueautenticacao2fatores
+   _perguntasdafaq/comoativarautenticacao2fatores
+   _perguntasdafaq/comoretirarautenticacao2fatores
    _perguntasdafaq/naoconsigocadastrarsenha
    _perguntasdafaq/solicitodesbloqueiosenha
    _perguntasdafaq/alterardadoscadastrais
