@@ -94,40 +94,24 @@ Existem diversas formas para recuperar conta.
    :align: center
    :alt:   
 
-2. Recuperar conta por meio do Internet Banking do Banco do Brasil
------------------------------------------------------------ 
+2. Recuperar conta por meio dos Bancos Credenciados
+--------------------------------------------------- 
 
-- Selecione a opção **Banco do Brasil**. Tenha em mãos os números da agência, conta e senha de oito digitos do banco do brasil. 
+- Selecione a opção **Bancos Credenciados**. Tenha em mãos as informações do banco credenciado desejado. 
 
-.. figure:: _images/telaopcoesrecuperarsehainternetbankingbbmarcado_novogovbr.jpg
+.. figure:: _images/telaopcoesrecuperarsehaabancocredenciadomarcado_novogovbr.jpg
    :align: center
    :alt:
 
-- Clique no botáo **Ir para Banco do Brasil**
+- Clique no imagem do banco credenciado desejado.
 
-.. figure:: _images/tela_clicar_botao_ir_banco_brasil_recuperar_senha_novogovbr.jpg 
+.. figure:: _images/tela_clicar_imagem_banco_credenciado_recuperar_senha_novogovbr.jpg 
    :align: center
    :alt:
 
-- Clique no botão **Continuar**.
-
-.. figure:: _images/telacadastrobancobbdeclaracaobuscarinformacoes.jpg
-   :align: center
-   :alt:   
+- Siga os procedimentos do banco credenciado.
    
-- Digite o número de agência, conta-corrente, senha de 8 digitos. Clique no botão **Entrar**.
-
-.. figure:: _images/telacadastrobancobbdigitaragenciaconta.jpg
-   :align: center
-   :alt:   
-    
-- Digite o código de autorização recebido no aplicativo do Banco do Brasil. Clique no botão **Autorizar**.
-
-.. figure:: _images/telacadastrobancobbdigitarcodigodeacesso.jpg
-   :align: center
-   :alt: 	
-
-- Defina a senha e finalize recuperação da sua conta.
+- Defina a senha e clique no botão **Concluir** para finalizar recuperação da sua conta.
 
 .. figure:: _images/telacadastramentosenhagovbr_novogovbr.jpg
    :align: center

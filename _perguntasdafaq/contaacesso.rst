@@ -102,44 +102,28 @@ Existem diversas formas para realizar o cadastro.
    :align: center
    :alt:     
 
-2. Cadastro por meio do Internet Banking do Banco do Brasil
------------------------------------------------------------ 
+2. Cadastro por meio dos Bancos Credenciados
+-------------------------------------------- 
 
-- Tenha em mãos os números da agência, conta e senha de oito digitos do banco do brasil. Selecione opção **Banco do Brasil**.
+- Tenha em mãos as informações do banco credenciado deseja utilizar. Selecione opção **Bancos Credenciados**
 
-.. figure:: _images/opcoes_criacao_conta_banco_brasil_novogovbr.jpg
+.. figure:: _images/opcoes_criacao_conta_banco_credenciado_novogovbr.jpg
    :align: center
    :alt:
 
-- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Ir para Banco do Brasil**
+- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Avançar**
 
-.. figure:: _images/tela_clicar_botao_ir_banco_brasil_criar_senha_novogovbr.jpg 
+.. figure:: _images/tela_clicar_botao_ir_banco_credenciado_criar_senha_novogovbr.jpg 
    :align: center
    :alt:   
    
-- Clique no botão **Continuar**.
+- Clique na imagem do banco credenciado desejado para cadastrar a conta.
 
-.. figure:: _images/telacadastrobancobbdeclaracaobuscarinformacoes.jpg
+.. figure:: _images/tela_selecionar_banco_credenciado_criar_senha_novogovbr.jpg
    :align: center
    :alt:   
    
-- Digite o número de agência, conta-corrente, senha de 8 digitos. Clique no botão **Entrar**.
-
-.. figure:: _images/telacadastrobancobbdigitaragenciaconta.jpg
-   :align: center
-   :alt:   
-    
-- Digite o código de autorização recebido no aplicativo do Banco do Brasil. Clique no botão **Autorizar**.
-
-.. figure:: _images/telacadastrobancobbdigitarcodigodeacesso.jpg
-   :align: center
-   :alt: 	
-
-- Conferir CPF e Nome. Clicar no botão **Avançar**   
-
-.. figure:: _images/conferir_cpf_nome_banco_brasil_novogovbr.jpg
-   :align: center
-   :alt:   
+- Siga as orientações do banco credenciado desejado para cadastrar a conta.
 
 - Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
    

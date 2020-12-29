@@ -24,9 +24,10 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 - **Selo Internet Banking**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking dos bancos conveniados. `Orientações para aquisição do Selo Internet Banking`_.
 - **Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União**: Validação do cadastro por meio de base de dados de Servidores Públicos da União. `Orientações para aquisição do Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União`_.
 - **Selo Validação Facial**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação é a da Carteira Nacional de Habilitação (Ministério da Infraestrutura / Denatran). `Orientações para aquisição do Selo Validação Facial`_.
-- **Selo Internet Banking (Banco do Brasil)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Brasil. `Orientações para aquisição do Selo Internet Banking (Banco do Brasil)`_.
-.. - **Selo de Validação de Biometria da Digital**: Validação do cadastro do cidadão por meio de chegagem da biometria da digital. `Orientações para aquisição do Selo de Validação de Biometria da Digital`_.
-
+- **Selo Internet Banking (Banco do Brasil)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Brasil. `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+- **Selo Internet Banking (Banrisul)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Estado do Rio Grande do Sul (BANRISUL). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+- **Selo Internet Banking (Bradesco)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Bradesco. `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+- **Selo Internet Banking (BRB)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco de Brasília (BRB). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 
 3. **Nível Comprovado**
 
@@ -43,6 +44,7 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 .. _`Orientações para aquisição do Selo Balcão Presencial (Correios)` : comoadquirirseloselobalcaopresenciaCORREIOS.html
 .. _`Orientações para aquisição do Selo Internet Banking` : comoadquirirselointernetbanking.html
 .. _`Orientações para aquisição do Selo Validação Facial` : comoadquirirvalidacaofacial.html
+.. _`Orientações para aquisição do Selo Internet Banking do Bancos Credenciados` : comoadquirircadastroviainternetbankingbancoscredenciados.html
 .. _`Orientações para aquisição do Selo Internet Banking (Banco do Brasil)` : comoadquirircadastroviainternetbankingbancobrasil.html
 .. _`Orientações para aquisição do Selo Cadastro Básico com Validação em Base de Dados de Servidores Públicos da União` : comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao.html
 .. _`Orientações para aquisição do Selo de Validação de Biometria da Digital` : comoadquirirvalidacaobiometriadigital.html

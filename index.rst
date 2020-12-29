@@ -140,15 +140,16 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadospessoais
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadosprevidenciarios
    _perguntasdafaq/comoadquirirseloselobalcaopresencialINSS
+   _perguntasdafaq/comoadquirircadastroviainternetbankingbancoscredenciados
    _perguntasdafaq/comoadquirirselointernetbanking
    _perguntasdafaq/comoadquirirvalidacaofacial
    _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
-   _perguntasdafaq/comoadquirircadastroviainternetbankingbancobrasil
    _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
 ..   _perguntasdafaq/erreiasenha3vezes
 ..   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
 ..   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
 ..   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
+..   _perguntasdafaq/comoadquirircadastroviainternetbankingbancobrasil
 
 .. raw:: html
    
