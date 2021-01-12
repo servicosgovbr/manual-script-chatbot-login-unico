@@ -16,6 +16,6 @@ Caso a alteração não tenha ocorrido pelo cidadão de fato, favor realizar os 
 4. Recuperar senha. Favor seguir os passos para `Recuperar Conta`_.
 
 .. |site externo| image:: _images/site-ext.gif
-.. _`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html
+.. _`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/atendimento
 .. _`Recuperar Conta`: formarrecuperarconta.html
             
