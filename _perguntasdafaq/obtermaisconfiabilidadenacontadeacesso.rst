@@ -28,6 +28,8 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 - **Selo Internet Banking (Banrisul)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco do Estado do Rio Grande do Sul (BANRISUL). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 - **Selo Internet Banking (Bradesco)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Bradesco. `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 - **Selo Internet Banking (BRB)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Banco de Brasília (BRB). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+- **Selo Internet Banking (CAIXA)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking da Caixa Econômica Federal (CAIXA). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+
 
 3. **Nível Comprovado**
 
