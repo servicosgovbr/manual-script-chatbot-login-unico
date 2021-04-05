@@ -3,9 +3,9 @@
 
 Os Níveis de Autenticação tem como principal característica ser um recurso de segurança da informação da identidade, que permitem flexibilidade para realização do acesso. Possuem a divisão:
 
-- **Nível Básico**
-- **Nível Verificado**
-- **Nível Comprovado**
+- **Nível Básico - Bronze**
+- **Nível Verificado - Prata**
+- **Nível Comprovado - Ouro**
 
 Os Selos de Confiabilidade estão presentes em cada nível de autenticação e consistem em orientar para qualificação das contas com a obtenção dos atributos autoritativos do cidadão a partir das bases oficias de governo, por meio das quais permitirão a utilização da credencial de acesso em sistemas internos dos clientes e serviços providos diretamente ao cidadão.
 
@@ -13,12 +13,12 @@ Uso possível para os nívels e os selos é o aumento da confiança cadastral pe
 
 O mapeamento entre nível e selo será apresentado para determinar como sistema integrado deverá receber a conta do cidadão.
 
-1. **Nível Básico**
+1. **Nível Básico - Bronze**
 
 - **Selo Cadastro Básico com Validação de Dados Pessoais**: Validação do cadastro do cidadão por meio da base de Cadastro de Pessoas Físicas (Ministério da Economia / Receita Federal). `Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Pessoais`_.
 - **Selo Cadastro Básico com Validação de Dados Previdênciarios**: Validação do cadastro do cidadão por meio da base de Casdatro Nacional de Informações Sociais (CNIS / INSS). `Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Previdênciarios`_.
 
-2. **Nível Verificado**
+2. **Nível Verificado - Prata**
 
 - **Selo Balcão Presencial (INSS)**: Validação do cadastro do cidadão por meio do Balcão presencial localizado nas agências do INSS. `Orientações para aquisição do Selo Balcão Presencial (INSS)`_.  
 - **Selo Internet Banking**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking dos bancos conveniados. `Orientações para aquisição do Selo Internet Banking`_.
@@ -31,7 +31,7 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 - **Selo Internet Banking (CAIXA)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking da Caixa Econômica Federal (CAIXA). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 
 
-3. **Nível Comprovado**
+3. **Nível Comprovado - Ouro**
 
 - **Selo de Certificado Digital de Pessoa Física**: Validação do cadastro do cidadão por meio da utilização de certificado digital de pessoal física. `Orientações para aquisição do Selo de Certificado Digital de Pessoa Física`_.  
 - **Selo Validação Facial**: Validação do cadastro do cidadão por meio de biometria facial. A base utilizada para comparação é a da Justiça Eleitoral (Tribunal de Justiça Eleitoral). `Orientações para aquisição do Selo Validação Facial`_.
