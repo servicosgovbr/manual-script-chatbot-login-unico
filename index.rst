@@ -35,6 +35,22 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
    
    <div id=accordion>
+   <h3>Recuperação de Acesso a Conta</h3>
+   <div>
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Recuperação de Acesso a Conta
+   
+   _perguntasdafaq/formarrecuperarconta
+   _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
+   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria
+   _perguntasdafaq/naomelembrotercadastrado
+   _perguntasdafaq/naoreconhecoemailoutelefonecadastrado
+   
+.. raw:: html
+
+   </div>
    <h3>Sobre</h3>
    <div>
    
@@ -50,23 +66,7 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/oqueeautorizacaodeusodedados
    _perguntasdafaq/termodeusoeprivacidade
    _perguntasdafaq/navegador
-   _perguntasdafaq/porquemfoicriado
-
-.. raw:: html
-
-   </div>
-   <h3>Recuperação de Acesso a Conta</h3>
-   <div>
-   
-.. toctree::
-   :maxdepth: 1
-   :caption: Recuperação de Acesso a Conta
-   
-   _perguntasdafaq/formarrecuperarconta
-   _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
-   _perguntasdafaq/naotenhoacessoaaminhasenhatemporaria
-   _perguntasdafaq/naomelembrotercadastrado
-   _perguntasdafaq/naoreconhecoemailoutelefonecadastrado    
+   _perguntasdafaq/porquemfoicriado    
 
 .. raw:: html
 
@@ -115,7 +115,6 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/cadastrocolaboradordocnpj
    _perguntasdafaq/retirarcolaboradordocnpj
    _perguntasdafaq/comosubstituircnpjloginunico
-..   _perguntasdafaq/existeloginparapessoajuridica
 
 .. raw:: html
 
@@ -145,11 +144,6 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/comoadquirirvalidacaofacial
    _perguntasdafaq/comoadquirircadastrobasicovalidacaobasedadosservidorespublicosuniao
    _perguntasdafaq/comoadquirircertificadodigitalpessoafisica
-..   _perguntasdafaq/erreiasenha3vezes
-..   _perguntasdafaq/comoadquirircertificadodigitalpessoajuridica
-..   _perguntasdafaq/comoadquirircolaboradorpessoaljuridica
-..   _perguntasdafaq/comoadquirirvalidacaobiometriadigital
-..   _perguntasdafaq/comoadquirircadastroviainternetbankingbancobrasil
 
 .. raw:: html
    
