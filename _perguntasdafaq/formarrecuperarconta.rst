@@ -22,13 +22,13 @@ Existem diversas formas para recuperar a conta.
 1. Recuperar a conta por meio do Aplicativo Meu gov.br
 --------------------------------------------
 
-- Selecione a opção **Validação facial no aplicativo Meu gov.br**.
+- Selecione a opção **Validação Facial no aplicativo Meu gov.br**.
 
 .. figure:: _images/telaopcoesrecuperarsehavalidacaofacialmarcado_novogovbr.jpg
    :align: center
    :alt:   
 
-- Marque opção **Não sou um robô** e clique no botão **GERAR QR-CODE**
+- Marque a opção **Não sou um robô** e clique no botão **GERAR QR-CODE**
 
 .. figure:: _images/clicar_botao_com_qr_code_criacao_conta_novogovbr.jpg
    :align: center
@@ -103,7 +103,7 @@ Existem diversas formas para recuperar a conta.
    :align: center
    :alt:
 
-- Clique no imagem do banco credenciado desejado.
+- Clique na imagem do banco credenciado desejado.
 
 .. figure:: _images/tela_clicar_imagem_banco_credenciado_recuperar_senha_novogovbr.jpg 
    :align: center
@@ -196,7 +196,7 @@ Existem diversas formas para recuperar a conta.
    :align: center
    :alt:
 
-- Digite senha temporária, senha definitiva e marque a opção **Não sou um robô**. Após isso, clique no botão **Concluir** para recuperar a conta    
+- Digite a senha temporária, a senha definitiva e marque a opção **Não sou um robô**. Após isso, clique no botão **Concluir** para recuperar a conta    
 
 .. figure:: _images/tela_senha_temporaria_novogovbr.jpg
    :align: center
