@@ -1,4 +1,4 @@
-﻿Não reconheço o e-mail ou telefone cadastrado
+﻿Não reconheço o e-mail ou o telefone cadastrado
 =============================================
 
 Caso você já tenha contratado um contador para realizar ações como abrir uma empresa, por exemplo, é possível que ele tenha criado uma conta em seu nome, mas com os dados dele.
