@@ -25,7 +25,7 @@
 Dúvidas Frequentes da Conta gov.br
 =================================
 
-A conta gov.br é uma maneira segura para ter acesso a milhares de serviços públicos digitais integrados à plataforma gov.br,utilizando computador, notebook, tablet ou smartphone. 
+A conta gov.br é uma maneira segura para ter acesso a milhares de serviços públicos digitais integrados à plataforma gov.br, utilizando computador, notebook, tablet ou smartphone. 
 
 Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 
@@ -35,12 +35,12 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
    
    <div id=accordion>
-   <h3>Recuperação de Acesso a Conta</h3>
+   <h3>Recuperação de Acesso à Conta</h3>
    <div>
 
 .. toctree::
    :maxdepth: 1
-   :caption: Recuperação de Acesso a Conta
+   :caption: Recuperação de Acesso à Conta
    
    _perguntasdafaq/formarrecuperarconta
    _perguntasdafaq/comocadastrarsenhatemporariadosbancosconveniados
