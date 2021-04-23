@@ -1,7 +1,7 @@
-﻿Não tenho mais acesso a minha senha temporária
+﻿Não tenho mais acesso à minha senha temporária
 ==============================================
 
-Há diferentes formas de conseguir acesso a Conta gov.br.
+Há diferentes formas de conseguir acesso à Conta gov.br.
 
 Utilize uma das formas de `recuperação de acesso à conta`_. 
 
