@@ -1,4 +1,4 @@
-﻿Não me lembro de já ter me cadastrado?
+﻿Não me lembro de já ter me cadastrado
 ======================================
 
 A Conta gov.br é uma junção de outras ferramentas de autenticação já existentes, o Cidadão BR (utilizado pelo INSS) e o Brasil Cidadão (utilizado por outros órgãos).
