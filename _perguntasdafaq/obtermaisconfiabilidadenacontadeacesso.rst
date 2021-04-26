@@ -9,7 +9,7 @@ Os Níveis de Autenticação tem como principal característica ser um recurso d
 
 Os Selos de Confiabilidade estão presentes em cada nível de autenticação e consistem em orientar para qualificação das contas com a obtenção dos atributos autoritativos do cidadão a partir das bases oficias de governo, por meio das quais permitirão a utilização da credencial de acesso em sistemas internos dos clientes e serviços providos diretamente ao cidadão.
 
-Uso possível para os nívels e os selos é o aumento da confiança cadastral pelos serviços para aplicar controle de acesso às funcionalidades mais críticas.
+Possível uso para os nívels e os selos é o aumento da confiança cadastral pelos serviços para aplicar controle de acesso às funcionalidades mais críticas.
 
 O mapeamento entre nível e selo será apresentado para determinar como sistema integrado deverá receber a conta do cidadão.
 
