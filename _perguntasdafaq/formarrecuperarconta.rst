@@ -1,25 +1,25 @@
-﻿Como recuperar conta de acesso?
+﻿Como recuperar a conta de acesso?
 ===============================
 
-- Para recuperar conta de acesso, digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Proxima**.
+- Para recuperar a conta de acesso, digite o CPF na tela inicial em https://acesso.gov.br e clique no botão **Avançar**.
 
 .. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
    :align: center
    :alt: 
 
-- Clique no link **esqueci minha senha**.   
+- Clique no link **Esqueci minha senha**.   
 
 .. figure:: _images/telainicialcomlinkesqueciminhasenha_novagovbr.jpg
    :align: center
    :alt:
 
-Existem diversas formas para recuperar conta.
+Existem diversas formas para recuperar a conta.
 
 .. figure:: _images/telaopcoesrecuperarsehanormal_novagovbr.jpg
    :align: center
    :alt:
 
-1. Recuperar conta por meio do Aplicativo Meu gov.br
+1. Recuperar a conta por meio do Aplicativo Meu gov.br
 --------------------------------------------
 
 - Selecione a opção **Validação facial no aplicativo Meu gov.br**.
@@ -28,7 +28,7 @@ Existem diversas formas para recuperar conta.
    :align: center
    :alt:   
 
-- Marque opção **Não sou robô** e clique no botão **GERAR QR-CODE**
+- Marque opção **Não sou um robô** e clique no botão **GERAR QR-CODE**
 
 .. figure:: _images/clicar_botao_com_qr_code_criacao_conta_novogovbr.jpg
    :align: center
@@ -48,7 +48,7 @@ Existem diversas formas para recuperar conta.
    :width: 400 px
    :alt:   
 
-- Aponte o celular para tela do computador com intuito de ler o QR-CODE   
+- Aponte o celular para a tela do computador com o intuito de ler o QR-CODE   
 
 .. figure:: _images/tela_leitura_qr_code_aplicativo_govbr.jpg
    :align: center
@@ -64,7 +64,7 @@ Existem diversas formas para recuperar conta.
    :width: 400 px
    :alt:
 
-- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações. Após, aguarde o aplicativo tirar foto.
+- Posicionar o rosto de frente para a câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até o sistema validar as informações. Após isso, aguarde o aplicativo tirar a foto.
    
 .. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
    :align: center
@@ -88,7 +88,7 @@ Existem diversas formas para recuperar conta.
    :width: 400 px
    :alt:
 
-- Preencha com senha escolhida e clique no botão **Concluir** para recuperar o cadastro.   
+- Preencha os campos com uma nova senha e clique no botão **Concluir** para recuperar o cadastro.   
    
 .. figure:: _images/tela_criacao_senha_govbrmobile_por_computador_novogovbr.jpg
    :align: center
@@ -111,7 +111,7 @@ Existem diversas formas para recuperar conta.
 
 - Siga os procedimentos do banco credenciado.
    
-- Defina a senha e clique no botão **Concluir** para finalizar recuperação da sua conta.
+- Defina a senha e clique no botão **Concluir** para finalizar a recuperação da sua conta.
 
 .. figure:: _images/telacadastramentosenhagovbr_novogovbr.jpg
    :align: center
@@ -120,19 +120,19 @@ Existem diversas formas para recuperar conta.
 3. Recuperar conta por E-mail
 -------------------------
 
-- Selecione a opção **e-mail**. 
+- Selecione a opção **E-mail**. 
 
 .. figure:: _images/telaopcoesrecuperarsehaemailmarcado_novogovbr.jpg
    :align: center
    :alt: 
 
-- Marque opção **Não sou robô** e clique no botão **Enviar código**.
+- Marque a opção **Não sou um robô** e clique no botão **Enviar código**.
 
 .. figure:: _images/enviar_codigo_email_recuperar_senha_novogov.jpg
    :align: center
    :alt: 
    
-- Abra o e-mail e busque o código de acesso encaminhado(confira na caixa de spam caso não esteja na caixa de entrada)
+- Abra o e-mail e busque o código de acesso encaminhado (confira na caixa de spam caso não esteja na caixa de entrada)
 
 .. figure:: _images/emailcomcodigoacessoparasenha_novogovbr.jpg
    :align: center
@@ -144,7 +144,7 @@ Existem diversas formas para recuperar conta.
    :align: center
    :alt: 
    
-- Defina a senha e finalize recuperação da sua conta.
+- Defina a senha e finalize a recuperação da sua conta.
 
 .. figure:: _images/telacadastramentosenhagovbr_novogovbr.jpg
    :align: center
@@ -161,7 +161,7 @@ Existem diversas formas para recuperar conta.
    :align: center
    :alt: 
 
-- Marque opção **Não sou robô** e clique no botão **Enviar código**.
+- Marque a opção **Não sou um robô** e clique no botão **Enviar código**.
 
 .. figure:: _images/enviar_codigo_sms_recuperar_senha_novogov.jpg
    :align: center
@@ -190,13 +190,13 @@ Existem diversas formas para recuperar conta.
 
 -  Existem alguns bancos conveniados para permitir a recuperação da conta por meio da geração de uma senha temporária. A senha deverá ser trocada no acesso. Para isso, `acesse o passo a passo de cada banco`_.
    
-- De posse da senha temporária, retorne tela inicial, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
+- De posse da senha temporária, retorne à tela inicial, digite o CPF e clique no botão **Avançar**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
 
 .. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
    :align: center
    :alt:
 
-- Digite senha temporária, senha definitiva e marque opção **Não sou robô**. Após, clique no botão **Concluir** para recuperar a conta    
+- Digite senha temporária, senha definitiva e marque a opção **Não sou um robô**. Após isso, clique no botão **Concluir** para recuperar a conta    
 
 .. figure:: _images/tela_senha_temporaria_novogovbr.jpg
    :align: center
