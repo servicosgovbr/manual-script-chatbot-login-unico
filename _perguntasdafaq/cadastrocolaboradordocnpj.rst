@@ -7,6 +7,7 @@ A Conta gov.br permite o cadastramento de pessoas que não pertencem diretamente
 
 1. O cidadão que realizará o cadastro do colaborador deverá ter cadastrado como Representante do CNPJ, conforme os passos presentes para `Cadastro do CNPJ`_.
 2. O colaborador deverá ter cadastro no Login Único
+3. O dono do certificado digital de pessoal jurídica não poderá ser cadastrado como colaborador da própria empresa.
 
 Para realizar o cadastramento de colaboradores, favor seguir os passos:
 
