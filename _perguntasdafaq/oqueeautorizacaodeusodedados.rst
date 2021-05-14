@@ -1,7 +1,7 @@
 ﻿O que é autorização de uso de dados?
 ====================================
 
-A autorização de uso de dados do cidadão é o ato de permitir que um determinado serviço público digital receba ou acesse seus dados pessoais de identificação ou complementares como por exemplo, registro geral RG, número do CPF, endereço, nome completo, etc.
+A autorização de uso de dados do cidadão é o ato de permitir que um determinado serviço público digital receba ou acesse seus dados pessoais de identificação ou complementares, como RG, CPF, endereço, nome completo, etc.
 
 .. figure:: _images/autorizacao-uso-dados-pessoaisgovbr_novo_govbr.jpg
    :align: center
@@ -9,7 +9,7 @@ A autorização de uso de dados do cidadão é o ato de permitir que um determin
 
 Lembrando que você poderá desautorizar o uso de seus dados pessoais a qualquer tempo.
 
-Visualize as autorizações concedidas na opção de menu **Privacidade** e **Gerenciar Lista de Permissões** no Login Único
+Visualize as autorizações concedidas na opção de menu **Privacidade** e **Gerenciar Lista de Permissões** no Login Único.
 
 .. figure:: _images/autorizacoesusodedados_novogov.jpg
    :align: center
