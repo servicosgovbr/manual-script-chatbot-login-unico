@@ -5,15 +5,17 @@ O governo federal para facilitar o acesso aos serviços públicos digitais adici
 
 Para baixar o aplicativo Meu gov.br, basta clicar na imagem abaixo da respectiva loja:
 
+.. figure:: https://www.gov.br/governodigital/pt-br/assinatura-eletronica/imagens/appstore.png
+   :align: center
+   :alt:
+   :target: https://apps.apple.com/br/app/id1506827551	
+   
 .. figure:: _images/imagem_disponivel_google_play.jpg
    :align: center
    :alt:
    :target: https://play.google.com/store/apps/details?id=br.gov.meugovbr
    
-.. .. figure:: _images/imagem_disponivel_app_store.jpg
-..   :align: center
-..   :alt:
-..   :target: Adicionar o link da loja aqui	
+
  
 .. |site externo| image:: _images/site-ext.gif
             
