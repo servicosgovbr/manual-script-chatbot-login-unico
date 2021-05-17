@@ -7,7 +7,7 @@ A Conta gov.br pode ser acessada por:
 - Laptop/notebook
 - Smartphone
 
-Acesso a `Conta gov.br`_ |site externo|   
+Acesso à `Conta gov.br`_ |site externo|   
 
 .. _`Conta gov.br`: https://acesso.gov.br
 
