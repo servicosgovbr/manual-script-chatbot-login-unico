@@ -1,12 +1,12 @@
 ﻿Formas de Autenticação 
 ======================
 
-Existem duas forma de autenticação:
+Existem quatro formas de autenticação:
 
-- Usar o seu login de usuário e senha. O usuário será o CPF informado na criação da conta.
-- Usar certificado digital de Pessoas Fisicas ou Jurídicas dos tipos A1 ou A3 compatíveis com ICP-Brasil
-- Usar Certificado digital em Nuvem
-- Usar a Conta de Banco Credenciado. 
+- Usar o seu login de usuário e senha, em que o usuário será o CPF informado na criação da conta;
+- Usar uma Conta de Banco Credenciado;
+- Usar um Certificado Digital de Pessoas Fisicas ou Jurídicas dos tipos A1 ou A3 compatíveis com ICP-Brasil;
+- Usar um Certificado Digital em Nuvem.
 
 .. |site externo| image:: _images/site-ext.gif
             
