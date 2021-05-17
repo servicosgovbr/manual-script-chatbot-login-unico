@@ -1,9 +1,9 @@
-﻿Como cadastrar senha temporária nos bancos conveniados
+﻿Como cadastrar uma senha temporária nos bancos conveniados
 ======================================================
 
-Existe opção de gerar nova senha temporária para realizar o acesso por meio de bancos conveniados.
+Existe a opção de gerar uma nova senha temporária para realizar o acesso por meio de bancos conveniados.
 
-Em alguns bancos a senha é gerada na hora, em outros, há uma espera de até 48 horas.
+Em alguns bancos a senha é gerada na hora, enquanto em outros há uma espera de até 48 horas.
 
 **Lembramos que o cidadão deverá ter conta no banco conveniado para realizar o procedimento**.
 
