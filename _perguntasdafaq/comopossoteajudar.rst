@@ -9,5 +9,7 @@ Para isso, favor acessar `Como Podemos te ajudar?`_ , preencher os passos da dú
 
 Ausência das informações e do Print (foto/captura da tela) impossibilita análise e retorno.
 
+Caso não tenha tido seu problema solucionado, por gentileza, mandar e-mail para atendimentogovbr@economia.gov.br.
+
 .. |site externo| image:: _images/site-ext.gif
 .. _`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/atendimento  
