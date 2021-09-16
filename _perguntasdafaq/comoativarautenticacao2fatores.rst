@@ -3,9 +3,9 @@
 
 **A instalação do aplicativo MEU GOV.BR no celular é necessaria para ativar autenticação de dois fatores.**
 
-1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
+1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 

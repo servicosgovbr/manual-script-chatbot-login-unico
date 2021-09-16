@@ -5,9 +5,9 @@
 
 2. Cidadão criará senha temporária por meio do acesso ao Internet Banking
 
-3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
+3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 	

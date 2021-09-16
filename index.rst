@@ -79,7 +79,6 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    :caption: Criação de Conta de Acesso
    
    _perguntasdafaq/contaacesso
-   _perguntasdafaq/epossivelcriarcontadeacessocomcertificadodigital
    _perguntasdafaq/naorecebioemaildeconfirmacao
    _perguntasdafaq/cadastrosemcpf
    _perguntasdafaq/mensagemousuariojapossuicadastronosistema
@@ -89,18 +88,18 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
 .. raw:: html
 
    </div>
-   <h3>Aplicativo Meu Gov.br</h3>
+   <h3>Aplicativo Gov.br</h3>
    <div>
    
 .. toctree::
    :maxdepth: 1
-   :caption: Aplicativo Meu Gov.br
+   :caption: Aplicativo Gov.br
 		
    _perguntasdafaq/oqueemeugovbrmobile
    _perguntasdafaq/oqueeqrcodemobile
    _perguntasdafaq/porqueprecisocnhmobile
-   _perguntasdafaq/criacaocontapelogovbrmobile
-     
+   _perguntasdafaq/comoacessarcontaaplicativogovbr.rst      
+   
 .. raw:: html
 
    </div>
@@ -136,7 +135,6 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    _perguntasdafaq/recadastramentoconta
    _perguntasdafaq/alterarsenha
    _perguntasdafaq/obtermaisconfiabilidadenacontadeacesso
-   _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadospessoais
    _perguntasdafaq/comoadquirirselocadastrobasicovalidacaodadosprevidenciarios
    _perguntasdafaq/comoadquirirseloselobalcaopresencialINSS
    _perguntasdafaq/comoadquirircadastroviainternetbankingbancoscredenciados

@@ -1,9 +1,9 @@
 ﻿Como recuperar a conta de acesso?
 ===============================
 
-- Para recuperar a conta de acesso, digite o CPF na tela inicial em https://acesso.gov.br e clique no botão **Avançar**.
+- Para recuperar a conta de acesso, digite o CPF na tela inicial em https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 
@@ -13,20 +13,21 @@
    :align: center
    :alt:
 
+- Selecione a opção **Não sou robô** e clique no botão **Avançar**   
+
+.. figure:: _images/telaescolhanaosouroborecuperacaosenha_govbr2versao.jpg
+   :align: center
+   :alt:
+   
+   
 Existem diversas formas para recuperar a conta.
 
-.. figure:: _images/telaopcoesrecuperarsehanormal_novagovbr.jpg
+.. figure:: _images/telaopcoesrecuperarsehanormal__govbr2versao.jpg
    :align: center
    :alt:
 
-1. Recuperar a conta por meio do Aplicativo Meu gov.br
---------------------------------------------
-
-- Selecione a opção **Validação Facial no aplicativo Meu gov.br**.
-
-.. figure:: _images/telaopcoesrecuperarsehavalidacaofacialmarcado_novogovbr.jpg
-   :align: center
-   :alt:   
+1. Recuperar a conta por meio do Aplicativo gov.br
+--------------------------------------------------
 
 - Marque a opção **Não sou um robô** e clique no botão **GERAR QR-CODE**
 
@@ -34,55 +35,47 @@ Existem diversas formas para recuperar a conta.
    :align: center
    :alt:   
 
-- O QR-CODE para recuperação da conta será apresentado em tela.    
+- O QR-CODE para criação da conta será apresentado em tela.    
    
-.. figure:: _images/apresentacao_qr_code_antes_aplicativo_govbr_novogovbr.jpg
+.. figure:: _images/apresentacao_qr_code_antes_aplicativo_govbr_criacao_conta_govbr2versao.jpg
    :align: center
    :alt:   
 
-- Abra o aplicativo Meu gov.br e clique no botão **Ler QR Code gov.br**
+- Abra o aplicativo gov.br e clique no botão **Ler QR Code**
 
-.. figure:: _images/tela_inicial_meugov_botao_qr_code.jpg
+.. figure:: _images/tela_inicial_meugov_botao_qr_code_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:   
 
-- Aponte o celular para a tela do computador com o intuito de ler o QR-CODE   
+- Aponte o celular para tela do computador com intuito de ler o QR-CODE   
 
-.. figure:: _images/tela_leitura_qr_code_aplicativo_govbr.jpg
+.. figure:: _images/tela_leitura_qr_code_aplicativo_govbr_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:   
    
-- Marque **Li e concorco com os termos e condições** e clique no botão **Aceitar**.
+- Clique no botão **Fazer Reconhecimento Facial**.
 
-.. figure:: _images/termo_aceite_govbr_mobile.jpg
+.. figure:: _images/tela_instrucoes_reconhecimento_facial_aplicativo_govbr_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:
-
-- Posicionar o rosto de frente para a câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até o sistema validar as informações. Após isso, aguarde o aplicativo tirar a foto.
    
-.. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
+- Posicionar o rosto de frente para câmera celular, clique no **botão azul com figura de câmera** e siga as orientações de piscar os olhos e sorrir até sistema validar as informações.
+   
+.. figure:: _images/tela_inicio_validacao_facial_govbr_mobile_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:   
-
-- Clique no botão **Enviar Foto**  
-
-.. figure:: _images/tela_indicacao_enviar_foto_validacao_govbrmobile.jpg
-   :align: center
-   :height: 770 px
-   :width: 400 px
-   :alt: 
-
+   
 - Clique no botão **OK** e continue o processo no computador
 
-.. figure:: _images/tela_confirmacao_validacao_govbr_continuar_computador.jpg
+.. figure:: _images/tela_confirmacao_validacao_govbr_continuar_computador_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
@@ -99,7 +92,7 @@ Existem diversas formas para recuperar a conta.
 
 - Selecione a opção **Bancos Credenciados**. Tenha em mãos as informações do banco credenciado desejado. 
 
-.. figure:: _images/telaopcoesrecuperarsehaabancocredenciadomarcado_novogovbr.jpg
+.. figure:: _images/telaopcoesrecuperarsehaabancocredenciadomarcado_govbr2versao.jpg
    :align: center
    :alt:
 
@@ -122,7 +115,7 @@ Existem diversas formas para recuperar a conta.
 
 - Selecione a opção **E-mail**. 
 
-.. figure:: _images/telaopcoesrecuperarsehaemailmarcado_novogovbr.jpg
+.. figure:: _images/telaopcoesrecuperarsehaemailmarcado_govbr2versao.jpg
    :align: center
    :alt: 
 
@@ -157,7 +150,7 @@ Existem diversas formas para recuperar a conta.
 
 - Selecione a opção **Celular**. 
 
-.. figure:: _images/telaopcoesrecuperarsehacelularmarcado_novogovbr.jpg
+.. figure:: _images/telaopcoesrecuperarsehacelularmarcado_govbr2versao.jpg
    :align: center
    :alt: 
 
@@ -184,7 +177,7 @@ Existem diversas formas para recuperar a conta.
 
 - Selecione opção **Internet Banking**.
 
-.. figure:: _images/criacaocontaporbancosconveniadosinicio_novogovbr.jpg
+.. figure:: _images/criacaocontaporbancosconveniadosinicio_govbr2versao.jpg
    :align: center
    :alt:
 

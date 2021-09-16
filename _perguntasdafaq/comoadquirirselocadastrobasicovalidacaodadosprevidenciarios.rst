@@ -1,9 +1,9 @@
 ﻿Como Atribuir o Selo Cadastro Básico com Validação de Dados Previdênciarios
 ===========================================================================
 
-1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
+1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 

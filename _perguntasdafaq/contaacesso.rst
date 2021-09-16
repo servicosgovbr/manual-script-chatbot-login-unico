@@ -1,38 +1,39 @@
 ﻿Conta de acesso
 ===============
 
-Para criar uma conta de acesso, clique no botão **Crie sua conta gov br** na tela do https://acesso.gov.br:
+Para criar uma conta de acesso, digite o CPF na tela inicial em https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaocriecontadestacado_novogovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 
-Existem diversas formas para realizar o cadastro.
+   
+Selecione as opções de **Termo de Uso**, **Não sou robô** e clique no botão **Continuar**  
+   
+.. figure:: _images/telaselecaopoliticaprivacidadecriacaoconta_govbr2versao.jpg
+   :align: center
+   :alt:
 
-1. Cadastro por meio do Aplicativo Meu gov.br
+Existem diversas formas para realizar o cadastro.  
+
+1. Cadastro por meio do Aplicativo gov.br
 --------------------------------------------
 
-- Selecione opção **Validação Facial no App Meu gov.br**
+- Clique no botão **Gerar QR CODE**
 
-.. figure:: _images/opcoes_criacao_conta_validacao_facial_app_novogovbr.jpg
-   :align: center
-   :alt:   
-
-- Digite o CPF, marque as opções **Li e estou de acordo com os termos de uso** e **Não sou robô**. Clique no botão **GERAR QR-CODE**
-
-.. figure:: _images/digitar_cpf_criacao_conta_com_qr_code_novogovbr.jpg
+.. figure:: _images/tela_incial_gerar_qr_code_criar_conta_govbr2versao.jpg
    :align: center
    :alt:   
 
 - O QR-CODE para criação da conta será apresentado em tela.    
    
-.. figure:: _images/apresentacao_qr_code_antes_aplicativo_govbr_criacao_conta_novogovbr.jpg
+.. figure:: _images/apresentacao_qr_code_antes_aplicativo_govbr_criacao_conta_govbr2versao.jpg
    :align: center
    :alt:   
 
-- Abra o aplicativo Meu gov.br e clique no botão **Ler QR Code gov.br**
+- Abra o aplicativo gov.br e clique no botão **Ler QR Code**
 
-.. figure:: _images/tela_inicial_meugov_botao_qr_code.jpg
+.. figure:: _images/tela_inicial_meugov_botao_qr_code_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
@@ -40,106 +41,95 @@ Existem diversas formas para realizar o cadastro.
 
 - Aponte o celular para tela do computador com intuito de ler o QR-CODE   
 
-.. figure:: _images/tela_leitura_qr_code_aplicativo_govbr.jpg
+.. figure:: _images/tela_leitura_qr_code_aplicativo_govbr_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:   
    
-- Marque **Li e concorco com os termos e condições** e clique no botão **Aceitar**.
+- Clique no botão **Fazer Reconhecimento Facial**.
 
-.. figure:: _images/termo_aceite_govbr_mobile.jpg
+.. figure:: _images/tela_instrucoes_reconhecimento_facial_aplicativo_govbr_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:
-
-- Posicionar o rosto de frente para câmera frontal do celular seguindo as orientações de piscar os olhos e sorrir até sistema validar as informações.
    
-.. figure:: _images/inicio_validacao_facial_govbr_mobile.jpg
+- Posicionar o rosto de frente para câmera celular, clique no **botão azul com figura de câmera** e siga as orientações de piscar os olhos e sorrir até sistema validar as informações.
+   
+.. figure:: _images/tela_inicio_validacao_facial_govbr_mobile_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:   
-
-- Clique no **botão azul com figura de câmera** 
-
-.. figure:: _images/tela_indicacao_enviar_foto_validacao_govbrmobile.jpg
-   :align: center
-   :height: 770 px
-   :width: 400 px
-   :alt: 
-
+   
 - Clique no botão **OK** e continue o processo no computador
 
-.. figure:: _images/tela_confirmacao_validacao_govbr_continuar_computador.jpg
+.. figure:: _images/tela_confirmacao_validacao_govbr_continuar_computador_govbr2versao.jpg
    :align: center
    :height: 770 px
    :width: 400 px
    :alt:
-
-- Digite o Nome , Data de emissão da carteira de motorista(localizada na parte traseira da carteira) e clique no botão **Avançar**
-
-.. figure:: _images/preenchimento_nome_cadastramento_conta_govbr_computador_novogov.jpg
-   :align: center
-   :alt:   
-
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
    
-.. figure:: _images/tela_envio_codigo_ativacao_conta_novogov.jpg
+- Confirme as informações de CPF e NOME e clique no botão **Continuar**
+
+.. figure:: _images/tela_confirmacao_cpf_nome_criar_senha_govbr2versao.jpg
+   :align: center
+   :alt:  
+
+- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Continuar**.   
+   
+.. figure:: _images/tela_envio_codigo_ativacao_conta_govbr2versao.jpg
    :align: center
    :alt:
-
-- Digite o código de acesso e clique no botão **Avançar**   
    
-.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_novogovbr.jpg
+- Digite o código de acesso e clique no botão **Continuar**   
+   
+.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_govbr2versao.jpg
    :align: center
    :alt:   
 
-- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
+- Preencha com senha escolhida e clique no botão **Continuar** para finalizar o cadastro.   
    
-.. figure:: _images/tela_criacao_senha_por_computador_novogov.jpg
+.. figure:: _images/tela_criacao_senha_por_computador_govbr2versao.jpg
    :align: center
-   :alt:     
+   :alt:   
+    
 
 2. Cadastro por meio dos Bancos Credenciados
 -------------------------------------------- 
 
-- Tenha em mãos as informações do banco credenciado deseja utilizar. Selecione opção **Bancos Credenciados**
+- Tenha em mãos as informações do banco credenciado deseja utilizar.
 
-.. figure:: _images/opcoes_criacao_conta_banco_credenciado_novogovbr.jpg
-   :align: center
-   :alt:
-
-- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Avançar**
-
-.. figure:: _images/tela_clicar_botao_ir_banco_credenciado_criar_senha_novogovbr.jpg 
-   :align: center
-   :alt:   
-   
 - Clique na imagem do banco credenciado desejado para cadastrar a conta.
 
-.. figure:: _images/tela_selecionar_banco_credenciado_criar_senha_novogovbr.jpg
+.. figure:: _images/tela_selecionar_banco_credenciado_criar_senha_govbr2versao.jpg
    :align: center
    :alt:   
    
 - Siga as orientações do banco credenciado desejado para cadastrar a conta.
 
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
+- Confirme as informações de CPF e NOME e clique no botão **Continuar**
+
+.. figure:: _images/tela_confirmacao_cpf_nome_criar_senha_govbr2versao.jpg
+   :align: center
+   :alt:  
+
+- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Continuar**.   
    
-.. figure:: _images/tela_envio_codigo_ativacao_conta_novogov.jpg
+.. figure:: _images/tela_envio_codigo_ativacao_conta_govbr2versao.jpg
    :align: center
    :alt:
    
-- Digite o código de acesso e clique no botão **Avançar**   
+- Digite o código de acesso e clique no botão **Continuar**   
    
-.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_novogovbr.jpg
+.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_govbr2versao.jpg
    :align: center
    :alt:   
 
-- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
+- Preencha com senha escolhida e clique no botão **Continuar** para finalizar o cadastro.   
    
-.. figure:: _images/tela_criacao_senha_por_computador_novogov.jpg
+.. figure:: _images/tela_criacao_senha_por_computador_govbr2versao.jpg
    :align: center
    :alt:   
 
@@ -150,7 +140,7 @@ Existem diversas formas para realizar o cadastro.
 
 - De posse da senha temporária, retorne tela inicial, digite o CPF e clique no botão **Proxima**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt:
 
@@ -163,126 +153,36 @@ Existem diversas formas para realizar o cadastro.
 4. Cadastro com as informações básicas do cidadão
 --------------------------------------------------
 
-- Selecione opção **Número do CPF**
+- Responda as perguntas relacionadas às suas informações pessoais. Clique no botão **Continuar**.
 
-.. figure:: _images/opcoes_criacao_conta_numero_cpf_novogovbr.jpg
+.. figure:: _images/perguntascadastroinicialgovbr_govbr2versao.jpg
    :align: center
    :alt: 
 
-- Tenha em mãos um documento de identidade, número do CPF, nome completo, e-mail e número do celular. Preencha CPF, Nome, Marcar as opções **Li e estou de acordo com os Termos de uso.** e **Não sou robô**. Clique no botão **Avançar**
+- Confirme as informações de CPF e NOME e clique no botão **Continuar**
 
-.. figure:: _images/telafazercadastrocombotaoavancar_novogovbr.jpg
-   :align: center
-   :alt: 
-   
-- Responda as perguntas relacionadas às suas informações pessoais. Clique no botão **Avançar**.
-
-.. figure:: _images/perguntascadastroinicialgovbr_novogovbr.jpg
-   :align: center
-   :alt: 
-
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
-   
-.. figure:: _images/tela_envio_codigo_ativacao_conta_novogov.jpg
-   :align: center
-   :alt:
-   
-- Digite o código de acesso e clique no botão **Avançar**   
-   
-.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_novogovbr.jpg
-   :align: center
-   :alt:   
-
-- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
-   
-.. figure:: _images/tela_criacao_senha_por_computador_novogov.jpg
-   :align: center
-   :alt:
-   
-5. Cadastro com o certificado de pessoa física do cidadão
-----------------------------------------------------------
-
-- Ative o certificado digital de pessoal física na máquina (certficado deverá ser compatível com ICP-Brasil. Aceita-se as opções A1 - Máquina - e A3 - Token). Selecione opção **Certificado Digital**
-
-.. figure:: _images/opcoes_criacao_conta_certificado_digital_novogovbr.jpg
-   :align: center
-   :alt:
-
-- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Ler Certificado Digital**
-
-.. figure:: _images/tela_clicar_botao_ler_certificado_digital_novogovbr.jpg
-   :align: center
-   :alt:    
-   
-- Conferir CPF e Nome. Clicar no botão **Avançar**   
-
-.. figure:: _images/conferir_cpf_nome_banco_brasil_novogovbr.jpg
-   :align: center
-   :alt:   
-
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
-   
-.. figure:: _images/tela_envio_codigo_ativacao_conta_novogov.jpg
-   :align: center
-   :alt:
-   
-- Digite o código de acesso e clique no botão **Avançar**   
-   
-.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_novogovbr.jpg
-   :align: center
-   :alt:   
-
-- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
-   
-.. figure:: _images/tela_criacao_senha_por_computador_novogov.jpg
-   :align: center
-   :alt:
-
-6. Cadastro por meio do Certificado em Nuvem
---------------------------------------------
-
-- Ative o certificado digital de pessoal física conforme orientações de cada provedor de certificado em nuvem (certficado deverá ser compatível com ICP-Brasil). Selecionar opção **Certificado em Nuvem**
-
-.. figure:: _images/opcoes_criacao_conta_certificado_digital_nuvem_novogovbr.jpg
-   :align: center
-   :alt:   
-
-- Selecione a opção de certificado em nuvem que deseja cadastrar conta.
-
-.. figure:: _images/opcoes_certificado_em_nuvem_novogovbr.jpg  
+.. figure:: _images/tela_confirmacao_cpf_nome_criar_senha_govbr2versao.jpg
    :align: center
    :alt:  
 
-- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Ir para ** 
-
-.. figure:: _images/tela_apresentacao_escolha_certificado_botao_ir_para.jpg  
+- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Continuar**.   
+   
+.. figure:: _images/tela_envio_codigo_ativacao_conta_govbr2versao.jpg
    :align: center
    :alt:
-
-- Conferir CPF e Nome. Clicar no botão **Avançar**   
-
-.. figure:: _images/conferir_cpf_nome_banco_brasil_novogovbr.jpg
+   
+- Digite o código de acesso e clique no botão **Continuar**   
+   
+.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_govbr2versao.jpg
    :align: center
    :alt:   
 
-- Selecione a opção deseja ativar conta (email ou sms), preenche o conteúdo da opção (conta de email ou telefone celular) e clique no botão **Avançar**.   
+- Preencha com senha escolhida e clique no botão **Continuar** para finalizar o cadastro.   
    
-.. figure:: _images/tela_envio_codigo_ativacao_conta_novogov.jpg
-   :align: center
-   :alt:
-   
-- Digite o código de acesso e clique no botão **Avançar**   
-   
-.. figure:: _images/tela_digitar_codigo_confirmacao_govbr_computador_novogovbr.jpg
+.. figure:: _images/tela_criacao_senha_por_computador_govbr2versao.jpg
    :align: center
    :alt:   
-
-- Preencha com senha escolhida e clique no botão **Concluir** para finalizar o cadastro.   
-   
-.. figure:: _images/tela_criacao_senha_por_computador_novogov.jpg
-   :align: center
-   :alt:
-   
+  
 .. _`acesse o passo a passo de cada banco` : comocadastrarsenhatemporariadosbancosconveniados.html   
 .. |site externo| image:: _images/site-ext.gif
             

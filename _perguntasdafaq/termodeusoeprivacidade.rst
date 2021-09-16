@@ -1,9 +1,9 @@
 ﻿Termo de Uso e Privacidade
 ==========================
 
-Para acessar o termo de uso e privacidade da Conta gov.br, clique em "Termos de uso" na área de "Fazer Cadastro com CPF".
+Para acessar o termo de uso e privacidade da Conta gov.br, clique em **Termos de uso** no momento que realizar o cadastro da conta.
 
-.. figure:: _images/usotermospoliticaeprivacidadegovbr_novogovbr.jpg
+.. figure:: _images/usotermospoliticaeprivacidadegovbr_govbr2versao.jpg
    :align: center
    :alt:
 

@@ -5,9 +5,9 @@
 
 2. Atendente do INSS cadastra **senha temporária** para acesso ao Login Único e entrega ao cidadão
 
-3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Avançar**.
+3. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
 
-.. figure:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
+.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
    :align: center
    :alt: 
 	

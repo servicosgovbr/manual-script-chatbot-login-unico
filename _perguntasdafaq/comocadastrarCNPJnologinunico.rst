@@ -7,7 +7,7 @@ Para cadastrar o CNPJ:
 
 2. Selecione opção **Certificado Digital** ou **Certificado Digital em Nuvem** na tela inicial do https://acesso.gov.br.
 
-.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_novo.jpg
+.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_govbr2versao.jpg
    :align: center
    :alt: 
 

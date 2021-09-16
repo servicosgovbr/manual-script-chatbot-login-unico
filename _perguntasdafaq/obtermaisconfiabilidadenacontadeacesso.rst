@@ -15,7 +15,7 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 
 1. **Nível Básico - Bronze**
 
-- **Selo Cadastro Básico com Validação de Dados Pessoais**: Validação do cadastro do cidadão por meio da base de Cadastro de Pessoas Físicas (Ministério da Economia / Receita Federal). `Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Pessoais`_.
+- **Selo Cadastro Básico com Validação de Dados Pessoais**: Validação do cadastro do cidadão por meio da base de Cadastro de Pessoas Físicas (Ministério da Economia / Receita Federal). Cidadão adquiri no momento realiza o cadastro da conta.
 - **Selo Cadastro Básico com Validação de Dados Previdênciarios**: Validação do cadastro do cidadão por meio da base de Casdatro Nacional de Informações Sociais (CNIS / INSS). `Orientações para aquisição do Selo Cadastro Básico com Validação de Dados Previdênciarios`_.
 - **Selo Balcão Presencial (INSS)**: Validação do cadastro do cidadão por meio do Balcão presencial localizado nas agências do INSS. `Orientações para aquisição do Selo Balcão Presencial (INSS)`_.  
 

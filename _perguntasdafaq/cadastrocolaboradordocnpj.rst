@@ -15,7 +15,7 @@ Para realizar o cadastramento de colaboradores, favor seguir os passos:
 
 2. Selecione opção **Certificado Digital** na tela inicial do https://acesso.gov.br.
 
-.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_novo.jpg
+.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_govbr2versao.jpg
    :align: center
    :alt: 
 

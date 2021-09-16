@@ -5,9 +5,9 @@ Para atualizar o CNPJ:
 
 1. Cidadão aciona o Certificado Digital de Pessoa Jurídica ao computador (Tipo A1 - máquina - ou Tipo A3 - Token).
 
-2. Selecione opção **Certificado Digital** na tela inicial do https://acesso.gov.br.
+2. Selecione opção **Certificado Digital** ou **Certificado Digital em Nuvem** na tela inicial do https://acesso.gov.br.
 
-.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_novo.jpg
+.. figure:: _images/tela_inicial_autenticacao_certificado_marcado_govbr2versao.jpg
    :align: center
    :alt: 
 

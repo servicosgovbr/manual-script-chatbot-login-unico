@@ -3,9 +3,9 @@
 
 Para alterar o e-mail cadastrado, a Administração Pública precisa ter certeza de que você é você mesmo. Há diferentes modos de fazer isso:
 
-- Validação facial no aplicativo Meu gov.br (para quem possui carteira de motorista – CNH)
+- Validação facial no aplicativo gov.br (para quem possui carteira de motorista – CNH ou Título de Eleitor com biometria cadastrada - Tribunal Superior Eleitoral)
 - Utilização de internet banking (para quem possui conta em um dos seguintes bancos: Banco do Brasil, Banrisul, Banese, Bradesco, Caixa Econômica Federal, Itaú, Santander ou Sicoob)
-- Utilização do autoatendimento do Banco do Brasil (para quem possui conta lá)
+- Utilização do autoatendimento dos Bancos Credenciados
 
 Caso não se encaixe em nenhuma dessas situações, preencha o formulário `Como Podemos te ajudar?`_ com as informações:
 
