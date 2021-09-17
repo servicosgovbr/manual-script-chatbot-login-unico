@@ -14,7 +14,7 @@ Selecione as opções de **Termo de Uso**, **Não sou robô** e clique no botão
    :align: center
    :alt:
 
-Existem diversas formas para realizar o cadastro.  
+Existem diversas formas para realizar o cadastro. O autenticador disponibilizará melhor e mais segura forma para realizar o cadastro.   
 
 1. Cadastro por meio do Aplicativo gov.br
 --------------------------------------------
