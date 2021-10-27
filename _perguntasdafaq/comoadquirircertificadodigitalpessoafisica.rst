@@ -23,7 +23,7 @@
 
 .. image:: _images/tela_area_cidadao_selo_cadastro_certificacao_digital.jpg
     :align: center
-    :alt:s
+    :alt:
 
 5. Cidadão aciona o Certificado Digital de Pessoa Fisíca ao computador (Tipo A1 - máquina - ou Tipo A3 - Token). Clica no botão **Adquirir Confiabilidade com Certificado Digital**
 
