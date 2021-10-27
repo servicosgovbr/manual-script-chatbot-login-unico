@@ -8,6 +8,4 @@ Para acessar o termo de uso e privacidade da Conta gov.br, clique em **Termos de
    :alt:
 
 .. |site externo| image:: _images/site-ext.gif
-
-.. _`Termos de Uso e Política de Privacidade`:
             
