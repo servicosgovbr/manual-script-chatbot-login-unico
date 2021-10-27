@@ -1,5 +1,5 @@
 ﻿Como cadastrar uma senha temporária nos bancos conveniados
-======================================================
+==========================================================
 
 Existe a opção de gerar uma nova senha temporária para realizar o acesso por meio de bancos conveniados.
 

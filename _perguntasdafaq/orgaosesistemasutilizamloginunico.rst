@@ -108,7 +108,7 @@ Ministério da Infraestrutura
 - `Sistema Carteira Digital de Transito`_ |site externo|
 - `Portal de Serviços do Denatran`_ |site externo|
 - `InfraBRCaminhoneiro`_ |site externo|
-.. - `SGA (Sistema de Agenda)`_ |site externo|
+
 
 Ministério da Justiça
 ---------------------

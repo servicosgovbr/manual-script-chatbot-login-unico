@@ -1,11 +1,11 @@
 ﻿Pedem para complementar dados de email ou telefone no Login Único, o que fazer? 
-=============================================================================
+===============================================================================
 
 Alguns serviços públicos digitais que utilizam o Login Único necessitam de informações de email ou telefone no cadastro do cidadão para continuar a navegação.
 
 Caso às informações não estejam presentes, será apresentada a tela:
 
-.. figure:: _images/solicitacaocomplementacaotelefoneemailgovbr.jpg
+.. image:: _images/solicitacaocomplementacaotelefoneemailgovbr.jpg
    :align: center
    :alt:  
 
@@ -13,7 +13,7 @@ Para inserir às informações necessárias para serviço, favor seguir os passo
 
 1. Clique no botão **Continuar**
 
-.. figure:: _images/solicitacaocomplementacaotelefoneemailcomdestaquebotaogovbr.jpg
+.. image:: _images/solicitacaocomplementacaotelefoneemailcomdestaquebotaogovbr.jpg
    :align: center
    :alt:  
 

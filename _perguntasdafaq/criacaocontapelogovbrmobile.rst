@@ -234,7 +234,7 @@
    :align: center
    :alt:  
 
-- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Ir para ** 
+- Marque a opção **Li e estou de acordo com termos de uso** e clique no botão **Ir para** 
 
 .. figure:: _images/tela_apresentacao_escolha_certificado_botao_ir_para_versao_mobile.jpg  
    :align: center

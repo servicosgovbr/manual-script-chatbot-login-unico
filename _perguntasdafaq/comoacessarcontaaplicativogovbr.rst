@@ -1,5 +1,5 @@
 ﻿Como Acessar Conta gov.br com Aplicativo gov.br?
-===============================================
+================================================
 
 1. Acesse tela inicial do Login Único https://acesso.gov.br e clique no link **Login com QR Code**
 

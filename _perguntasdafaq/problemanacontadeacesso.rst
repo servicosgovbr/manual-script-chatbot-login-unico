@@ -24,5 +24,4 @@ Ausência das informações e do Print (foto/captura da tela) do problema imposs
 - ajuda
 
 .. |site externo| image:: _images/site-ext.gif
-.. __`Como Podemos te ajudar?`: http://portaldeservicos.planejamento.gov.br/login/loginunico.html
 .. _`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/atendimento  
