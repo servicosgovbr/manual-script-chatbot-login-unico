@@ -130,7 +130,7 @@ htmlhelp_basename = 'DUVIDASFREQUENTESCONTAGOVBR'
 #latex_documents = [
 #    (master_doc, 'ManualScriptChatbotLoginnico.tex', u'Dúvidas Frequentes da Conta gov.br',
 #     u'DESPD', 'manual'),
-]
+#]
 
 
 # -- Options for manual page output ------------------------------------------
