@@ -15,7 +15,7 @@ Termo de Uso e Privacidade apresentam informações:
 - se há o compartilhamento de dados com terceiros;
 - quais medidas de segurança são implementadas para proteger os dados dos cidadãos.
 
-:download:`Acesso ao Conteúdo do Termo de Uso e Privacidade<_arquivos/termo_uso_privacidade.pdf>`
+:download:`Acesso ao Conteúdo do Termo de Uso e Privacidade<_arquivos/TERMO_DE_USO_E_POLITICA_DE_PRIVACIDADE.pdf>`
 
 Para acessar o termo de uso e privacidade da Conta gov.br, clique em **Termos de uso** no momento que realizar o cadastro da conta.
 
