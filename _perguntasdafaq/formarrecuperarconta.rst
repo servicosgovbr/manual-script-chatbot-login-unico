@@ -13,31 +13,22 @@
    :align: center
    :alt:
 
-- Selecione a opção **Não sou robô** e clique no botão **Avançar**   
+- O Login Único avaliará a forma mais segura para recuperar a conta ao cidadão.   
 
-.. image:: _images/telaescolhanaosouroborecuperacaosenha_govbr2versao.jpg
-   :align: center
-   :alt:
+- Caso a opção não seja a melhor para momento, estará disponível outra opção para cidadão realizar a recuperação na mesma tela.
    
-   
-Existem diversas formas para recuperar a conta.
-
-.. image:: _images/telaopcoesrecuperarsehanormal__govbr2versao.jpg
-   :align: center
-   :alt:
-
 1. Recuperar a conta por meio do Aplicativo gov.br
 --------------------------------------------------
 
-- Marque a opção **Não sou um robô** e clique no botão **GERAR QR-CODE**
+- Clique no botão **GERAR QR-CODE**. Caso não possa recuperar pelo Aplicativo, basta clicar no botão **Não tenho celular**
 
-.. image:: _images/clicar_botao_com_qr_code_criacao_conta_novogovbr.jpg
+.. image:: _images/clicar_botao_com_qr_code_recuperacao_senha_novogovbr.jpg
    :align: center
    :alt:   
 
 - O QR-CODE para criação da conta será apresentado em tela.    
    
-.. image:: _images/apresentacao_qr_code_antes_aplicativo_govbr_criacao_conta_govbr2versao.jpg
+.. image:: _images/qr_code_antes_aplicativo_govbr_recuperacao_senha_govbr2versao.jpg
    :align: center
    :alt:   
 
@@ -65,7 +56,7 @@ Existem diversas formas para recuperar a conta.
    :width: 400 px
    :alt:
    
-- Posicionar o rosto de frente para câmera celular, clique no **botão azul com figura de câmera** e siga as orientações de piscar os olhos e sorrir até sistema validar as informações.
+- Posicionar o rosto de frente para câmera celular  e siga as orientações até sistema validar as informações.
    
 .. image:: _images/tela_inicio_validacao_facial_govbr_mobile_govbr2versao.jpg
    :align: center
@@ -90,15 +81,9 @@ Existem diversas formas para recuperar a conta.
 2. Recuperar conta por meio dos Bancos Credenciados
 --------------------------------------------------- 
 
-- Selecione a opção **Bancos Credenciados**. Tenha em mãos as informações do banco credenciado desejado. 
+- Clique na imagem do banco credenciado desejado. Caso não possa recuperar pelo banco, basta clicar no botão **Recuperar de outra forma**
 
-.. image:: _images/telaopcoesrecuperarsehaabancocredenciadomarcado_govbr2versao.jpg
-   :align: center
-   :alt:
-
-- Clique na imagem do banco credenciado desejado.
-
-.. image:: _images/tela_clicar_imagem_banco_credenciado_recuperar_senha_novogovbr.jpg 
+.. image:: _images/clicar_imagem_banco_credenciado_recuperar_senha.jpg 
    :align: center
    :alt:
 
@@ -113,15 +98,9 @@ Existem diversas formas para recuperar a conta.
 3. Recuperar conta por E-mail
 -----------------------------
 
-- Selecione a opção **E-mail**. 
+- Conferir se o email está correto do cadastro e clique no botão **Enviar código**. Caso não possa recuperar pelo email, basta clicar no botão **Não tenho acesso a este email**
 
-.. image:: _images/telaopcoesrecuperarsehaemailmarcado_govbr2versao.jpg
-   :align: center
-   :alt: 
-
-- Marque a opção **Não sou um robô** e clique no botão **Enviar código**.
-
-.. image:: _images/enviar_codigo_email_recuperar_senha_novogov.jpg
+.. image:: _images/enviar_codigo_email_recuperar_senha_novogov_atualizado.jpg
    :align: center
    :alt: 
    
@@ -148,15 +127,9 @@ Existem diversas formas para recuperar a conta.
 4. Recuperar conta por Mensagem de Texto (SMS)
 ----------------------------------------------
 
-- Selecione a opção **Celular**. 
+- Conferir se o número de celular está correto do cadastro e clique no botão **Enviar código**. Caso não possa recuperar pelo número de celular, basta clicar no botão **Não tenho acesso a este celular**
 
-.. image:: _images/telaopcoesrecuperarsehacelularmarcado_govbr2versao.jpg
-   :align: center
-   :alt: 
-
-- Marque a opção **Não sou um robô** e clique no botão **Enviar código**.
-
-.. image:: _images/enviar_codigo_sms_recuperar_senha_novogov.jpg
+.. image:: _images/enviar_codigo_sms_recuperar_senha_novogov_atualizado.jpg
    :align: center
    :alt: 
    
@@ -172,30 +145,7 @@ Existem diversas formas para recuperar a conta.
    :align: center
    :alt:   
    
-5. Recuperar conta por meio do Internet Banking dos bancos conveniados
-----------------------------------------------------------------------
-
-- Selecione opção **Internet Banking**.
-
-.. image:: _images/criacaocontaporbancosconveniadosinicio_govbr2versao.jpg
-   :align: center
-   :alt:
-
--  Existem alguns bancos conveniados para permitir a recuperação da conta por meio da geração de uma senha temporária. A senha deverá ser trocada no acesso. Para isso, `acesse o passo a passo de cada banco`_.
-   
-- De posse da senha temporária, retorne à tela inicial, digite o CPF e clique no botão **Avançar**. Existem senhas temporárias que precisam de 24h a 48h para ativação pelos bancos.   
-
-.. image:: _images/telainicialcombotaoproximagovbr_novagovbr.jpg
-   :align: center
-   :alt:
-
-- Digite a senha temporária, a senha definitiva e marque a opção **Não sou um robô**. Após isso, clique no botão **Concluir** para recuperar a conta    
-
-.. image:: _images/tela_senha_temporaria_novogovbr.jpg
-   :align: center
-   :alt:   
-   
+     
 .. |site externo| image:: _images/site-ext.gif
 .. _`orientações para solicitar alteração`: naotenhoacessoaoemailcadastradonologin.html 
-.. _`acesse o passo a passo de cada banco` : comocadastrarsenhatemporariadosbancosconveniados.html
  
