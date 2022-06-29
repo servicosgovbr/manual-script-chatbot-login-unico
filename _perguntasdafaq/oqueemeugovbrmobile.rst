@@ -1,7 +1,7 @@
 ﻿O que é Aplicativo gov.br?
 ==========================
 
-O governo federal para facilitar o acesso aos serviços públicos digitais adicionou outra forma de realizar cadastrado da conta de acesso. Essa forma envolve utilização do aplicativo celular chamado Meu gov.br.
+Para facilitar o acesso aos serviços públicos digitais, adicionou-se outra forma de realizar cadastrado da conta de acesso. Essa forma envolve utilização do aplicativo celular chamado Meu gov.br.
 
 Para baixar o aplicativo Meu gov.br, basta clicar na imagem abaixo da respectiva loja:
 

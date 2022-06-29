@@ -7,7 +7,7 @@ Os Níveis de Autenticação tem como principal característica ser um recurso d
 - **Nível Prata**
 - **Nível Ouro**
 
-Os Selos de Confiabilidade estão presentes em cada nível de autenticação e consistem em orientar para qualificação das contas com a obtenção dos atributos autoritativos do cidadão a partir das bases oficias de governo, por meio das quais permitirão a utilização da credencial de acesso em sistemas internos dos clientes e serviços providos diretamente ao cidadão.
+Os Selos de Confiabilidade estão presentes em cada nível de autenticação e consistem em orientar para qualificação das contas com a obtenção dos atributos autoritativos do cidadão a partir das bases oficiais, por meio das quais permitirão a utilização da credencial de acesso em sistemas internos dos clientes e serviços providos diretamente ao cidadão.
 
 Possível uso para os nívels e os selos é o aumento da confiança cadastral pelos serviços para aplicar controle de acesso às funcionalidades mais críticas.
 
@@ -34,6 +34,7 @@ O mapeamento entre nível e selo será apresentado para determinar como sistema 
 - **Selo Internet Banking (Itaú)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Itaú. `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 - **Selo Internet Banking (Sicoob)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Sistema de Cooperativas de Crédito do Brasil (Sicoob). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 - **Selo Internet Banking (Santander)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Santander (Santander). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
+- **Selo Internet Banking (Sicredi)**: Validação do cadastro do cidadão por meio da plataforma de Internet Banking do Sistema de Crédito Cooperativo (Sicredi). `Orientações para aquisição do Selo Internet Banking do Bancos Credenciados`_.
 
 
 3. **Nível Ouro**

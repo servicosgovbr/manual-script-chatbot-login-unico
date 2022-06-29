@@ -3,7 +3,7 @@
 
 A Conta gov.br é um meio de acesso digital do usuário aos serviços públicos digitais.
 
-O governo tendo preocupação com cidadão disponibiliza uma forma para orientar e ajudar referente às dúvidas.
+Há uma preocupação com cidadão para disponibilizar uma forma de orientar e ajudar referente às dúvidas.
 
 Para isso, favor acessar `Como Podemos te ajudar?`_ , preencher os passos da dúvida ou problema e anexar Print (foto/captura da tela) sobre a dúvida ou problema.
 

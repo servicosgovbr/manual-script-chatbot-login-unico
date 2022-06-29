@@ -8,7 +8,7 @@ O projeto da Plataforma de Cidadania Digital foi instituído pelo `Decreto n° 8
 - Presidência da República, por meio da Casa Civil;
 - Compartilhamento de base de dados constante no `Decreto n° 8.789, de 29 de junho de 2016`_ |site externo|;
 - Política de Governança Digital, por meio do `Decreto n° 8.638 de 15 de janeiro de 2016`_ |site externo|;
-- Políticas de Governo Digital com enfoque no cidadão.
+- Políticas com enfoque no cidadão.
 
 Concebeu o conceito da Plataforma de Autenticação Digital do Cidadão, o projeto Conta gov.br.
 

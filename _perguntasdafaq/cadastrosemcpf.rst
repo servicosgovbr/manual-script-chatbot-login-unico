@@ -1,7 +1,7 @@
 ﻿Cadastro sem CPF
 ================
 
-A Conta gov.br garante a identificação de cada cidadão que acessa os serviços digitais do governo.
+A Conta gov.br garante a identificação de cada cidadão que acessa os serviços digitais.
 
 Uma das formas de deixar o cadastro consistente é utilização obrigatória do CPF do cidadão. Não há possibilidade de cadastro sem CPF.
 
