@@ -10,7 +10,8 @@ Caso a alteração não tenha ocorrido pelo cidadão de fato, favor enviar e-mai
 
 - **Nome do Cidadão**;
 - **CPF do Cidadão**;
-- **Uma foto de rosto (selfie) do cidadão, mostrando o seu documento com a foto ao lado do rosto. Seguir o exemplo da imagem abaixo para selfie**
+- **Uma foto nítida de rosto (selfie) sua segurando seu documento com foto e segurando a data de hoje escrita à mão em uma folha de papel (na mesma foto)**
+- **Uma foto nítida do verso do documento mostrando Nome Completo e CPF**
 
 .. figure:: _images/modeloselfiecomdocumento.jpg
    :align: center
