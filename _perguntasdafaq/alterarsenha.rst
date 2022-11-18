@@ -1,6 +1,10 @@
 ﻿Alterar Senha
 ==============
 
+Faltando:
+Pede o CPF e quando digito e teclo enter ele mostra:
+Parâmetro inválido. (ERL0000200)
+
 Você pode alterar a sua senha a qualquer tempo na opção **Alterar Senha** na tela inicial da Conta gov.br
 
 .. figure:: _images/alteracaosenhatelainicial_novo.jpg
