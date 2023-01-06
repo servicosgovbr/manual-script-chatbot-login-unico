@@ -21,5 +21,5 @@ Logo que o Ministério da Economia receber a solicitação, será realizada a an
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`LEI Nº 13.709, DE 14 DE AGOSTO DE 2018 (Dispõe sobre a proteção de dados pessoais)` : http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm
-.. _`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/atendimento
+.. _`Como Podemos te ajudar?`: https://atendimento.servicos.gov.br/
             

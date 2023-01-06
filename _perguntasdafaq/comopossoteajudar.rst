@@ -12,4 +12,4 @@ Ausência das informações e do Print (foto/captura da tela) impossibilita aná
 Caso não tenha tido seu problema solucionado, por gentileza, mandar e-mail para atendimentogovbr@economia.gov.br.
 
 .. |site externo| image:: _images/site-ext.gif
-.. _`Como Podemos te ajudar?`: https://portaldeservicos.economia.gov.br/atendimento  
+.. _`Como Podemos te ajudar?`: https://atendimento.servicos.gov.br/
