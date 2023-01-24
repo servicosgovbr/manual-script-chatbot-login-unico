@@ -25,7 +25,7 @@
     :align: center
     :alt: 	
 	
-5. Cidadão deve responder todas perguntas referente ao cadastro presente no INSS / Ministério da Economia. Clica no botão **Continuar** para cada pergunta até finalizar.
+5. Cidadão deve responder todas perguntas referente ao cadastro presente no INSSs. Clica no botão **Continuar** para cada pergunta até finalizar.
 
 .. figure:: _images/tela_perguntas_inss.jpg
     :align: center

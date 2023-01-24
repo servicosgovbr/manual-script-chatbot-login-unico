@@ -15,9 +15,9 @@ Caso não se encaixe em nenhuma dessas situações, preencha o formulário `Como
 - **Serviço que deseja acessar com Login Único**
 - **E-mail para alteração**;
 - **Anexar arquivo com o Documento de Identificação e autofotografia de seu rosto, segurando o documento original com foto mais recente possível para checagem**;
-- **Seguinte texto**: Eu, *nome do cidadão*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Economia a alterar meus dados cadastrais da plataforma de autenticação Login Único (gov.br). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
+- **Seguinte texto**: Eu, *nome do cidadão*, portador do CPF, *CPF do cidadão* , autorizo o Ministério da Gestão e da Inovação em Serviços Públicos a alterar meus dados cadastrais da plataforma de autenticação Login Único (gov.br). *Cidade residência do cidadão* , *data do preenchimento da autorização*.
  
-Logo que o Ministério da Economia receber a solicitação, será realizada a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
+Logo que o Ministério da Gestão e da Inovação em Serviços Públicos receber a solicitação, será realizada a análise de segurança e confirmação será encaminhada para email solicitado para alteração. Ausência das informações acima impossibilita análise e retorno.
 
 .. |site externo| image:: _images/site-ext.gif
 .. _`LEI Nº 13.709, DE 14 DE AGOSTO DE 2018 (Dispõe sobre a proteção de dados pessoais)` : http://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm

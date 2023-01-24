@@ -62,8 +62,8 @@ Ministério da Defesa
 
 - `Sistema Alistamento Militar On Line`_ |site externo|
 
-Ministério da Economia
-----------------------
+Ministério da Gestão e da Inovação em Serviços Públicos
+-------------------------------------------------------
 
 - `Sistema de Automação de Serviços Públicos (LECOM)`_ |site externo|
 - `Sistema Combate ao AEDES (Web)`_ |site externo|
