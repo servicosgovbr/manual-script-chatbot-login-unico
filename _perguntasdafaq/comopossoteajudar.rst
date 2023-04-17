@@ -5,11 +5,7 @@ A Conta gov.br é um meio de acesso digital do usuário aos serviços públicos 
 
 Há uma preocupação com cidadão para disponibilizar uma forma de orientar e ajudar referente às dúvidas.
 
-Para isso, favor acessar `Como Podemos te ajudar?`_ , preencher os passos da dúvida ou problema e anexar Print (foto/captura da tela) sobre a dúvida ou problema.
+Caso ainda esteja com alguma dificuldade relacionada à sua conta gov.br, acesse a página: `https://www.gov.br/governodigital/pt-br/atendimento-gov.br`_
 
-Ausência das informações e do Print (foto/captura da tela) impossibilita análise e retorno.
-
-Caso não tenha tido seu problema solucionado, por gentileza, mandar e-mail para atendimentogovbr@economia.gov.br.
-
-.. |site externo| image:: _images/site-ext.gif
 .. _`Como Podemos te ajudar?`: https://atendimento.servicos.gov.br/
+.. _`https://www.gov.br/governodigital/pt-br/atendimento-gov.br` : https://www.gov.br/governodigital/pt-br/atendimento-gov.br 
