@@ -13,15 +13,27 @@
     :align: center
     :alt:
 
-3. Cidadão deve clicar no menu **Segurança** e link **Desabilitar verificação em duas etapas**..  
+3. Cidadão deve clicar no cart **Segurança da Conta**.  
 
-.. figure:: _images/linkretirarautenticacao2fatores.jpg
+.. figure:: _images/cardseguraca2fator.jpg
+    :align: center
+    :alt:
+
+4. Cidadão deve clicar no cart **Verificação em duas etapas**.  
+
+.. figure:: _images/cardverificacao2etapas.jpg
+    :align: center
+    :alt:
+
+
+5. Cidadão deve clicar no botão **Desabilitar verificação em duas etapas**..  
+
+.. figure:: _images/botaodesativar2fatorautenticacao.jpg
     :align: center
     :alt: 	
 
-4. Verificação em duas etapas estará retirada.
+6. Verificação em duas etapas estará retirada.
 
-Atenção: Se por algum motivo você não tiver mais acesso ao seu aplicativo Meu gov.br, será necessário `recuperar sua conta por Validação Facial no aplicativo Meu gov.br`_.
- 
+
 .. |site externo| image:: _images/site-ext.gif
 .. _`recuperar sua conta por Validação Facial no aplicativo Meu gov.br`: formarrecuperarconta.html#recuperar-conta-por-meio-do-aplicativo-meu-gov-br
