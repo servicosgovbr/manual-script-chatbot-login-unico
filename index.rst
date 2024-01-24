@@ -167,11 +167,13 @@ Para `criar sua conta`_, basta informar alguns dados pessoais e criar sua senha.
    :maxdepth: 1
    :caption: Problemas na Conta
    
-   _perguntasdafaq/naoaltereimeusdadoscadastrais
+
    _perguntasdafaq/mensagemerroaorealizarlogindousuarioredesimemei
    _perguntasdafaq/problemanacontadeacessocomertificadodogital
    _perguntasdafaq/comopossoteajudar
 ..   _perguntasdafaq/problemanacontadeacess
+..   _perguntasdafaq/naoaltereimeusdadoscadastrais
+
 
 .. raw:: html
 
