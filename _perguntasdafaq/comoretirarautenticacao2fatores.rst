@@ -1,38 +1,27 @@
-﻿Como retirar autenticação de dois fatores?
+﻿Como desabilitar a verificação em duas etapas?
 =========================================================================
 
-1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
+.. admonition:: Importante:
 
-.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
+   A verificação em duas etapas só poderá ser desabilitada usando o **aplicativo gov.br**.
+
+1. Acesse o aplicativo gov.br e clique em **Segurança da conta**.
+
+.. figure:: _images/comoretirarautenticacao2fatores_img01.jpg
    :align: center
    :alt: 
 
-2. Digita a senha e clica no botão **Entrar**.
+2. Clique em **Verificação em duas etapas**.
 
-.. figure:: _images/tela_login_botao_entrar_destacado_novogovbr.jpg
+.. figure:: _images/comoretirarautenticacao2fatores_img02.jpg
     :align: center
     :alt:
 
-3. Cidadão deve clicar no cart **Segurança da Conta**.  
+3. Clique no botão **Desabilitar verificação em duas etapas**.
 
-.. figure:: _images/cardseguraca2fator.jpg
+.. figure:: _images/comoretirarautenticacao2fatores_img03.jpg
     :align: center
     :alt:
-
-4. Cidadão deve clicar no cart **Verificação em duas etapas**.  
-
-.. figure:: _images/cardverificacao2etapas.jpg
-    :align: center
-    :alt:
-
-
-5. Cidadão deve clicar no botão **Desabilitar verificação em duas etapas**..  
-
-.. figure:: _images/botaodesativar2fatorautenticacao.jpg
-    :align: center
-    :alt: 	
-
-6. Verificação em duas etapas estará retirada.
 
 
 .. |site externo| image:: _images/site-ext.gif

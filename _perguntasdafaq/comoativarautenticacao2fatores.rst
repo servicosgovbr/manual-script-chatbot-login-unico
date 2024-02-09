@@ -1,41 +1,40 @@
-﻿Como ativar autenticação de dois fatores?
+﻿Como habilitar a verificação em duas etapas?
 =========================================================================
 
-**A instalação do aplicativo govbr no celular é necessaria para ativar autenticação de dois fatores.**
+.. admonition:: Importante:
 
-1. Digite o CPF na tela inicial do https://acesso.gov.br e clique no botão **Continuar**.
+   A verificação em duas etapas só poderá ser desabilitada usando o **aplicativo gov.br**.
 
-.. figure:: _images/telainicialcombotaoavancargovbr_govbr2versao.jpg
-   :align: center
-   :alt: 
+1. Baixe e acesse o `aplicativo gov.br`_ no seu celular.
 
-2. Digita a senha e clica no botão **Entrar**.
-
-.. figure:: _images/tela_login_botao_entrar_destacado_novogovbr.jpg
+.. figure:: _images/comoativarautenticacao2fatores_img01.jpg
+    :target: https://www.gov.br/governodigital/pt-br/conta-gov-br/baixar-app-gov.br 
     :align: center
     :alt:
 
-3. Cidadão deve clicar no cart **Segurança da Conta**.  
+2. Clique em **Segurança da conta**.
 
-.. figure:: _images/cardseguraca2fator.jpg
+.. figure:: _images/comoativarautenticacao2fatores_img02.jpg
     :align: center
     :alt:
 
-4. Cidadão deve clicar no cart **Verificação em duas etapas**.  
+3. Clique em **Verificação em duas etapas**. 
 
-.. figure:: _images/cardverificacao2etapas.jpg
+.. figure:: _images/comoativarautenticacao2fatores_img03.jpg
     :align: center
     :alt:
 
+4. Clique no botão **Habilitar verificação em duas etapas**.
 
-5. Cidadão deve digitar o código enviado no aplicativo gov.br e clicar no botão **Habilitar**.  
+.. figure:: _images/comoativarautenticacao2fatores_img04.jpg
+    :align: center
+    :alt:
 
-.. figure:: _images/botaohabilitar2fatorautenticacao.jpg
+Depois de habilitar a verificação em duas etapas, estará disponível na tela de login e na tela principal do seu aplicativo gov.br a opção **Gerar código de acesso**. Clique nesta opção para gerar o código e informá-lo no processo de login.
+
+.. figure:: _images/comoativarautenticacao2fatores_img05.jpg
     :align: center
     :alt: 	
 
-6. Verificação em duas etapas estará habilitada. Agora todas as vezes que você digitar sua senha gov.br, será necessário digitar o código de segurança mostrado no seu aplicativo Meu GOV.BR.
-
-
-.. _`passos para configurar o segundo fator na conta gov.br`: https://www.base64decode.org/ 
+.. _`aplicativo gov.br`: https://www.gov.br/governodigital/pt-br/conta-gov-br/baixar-app-gov.br 
 .. |site externo| image:: _images/site-ext.gif
